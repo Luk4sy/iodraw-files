@@ -20,7 +20,7 @@
           <mxGeometry x="465" y="298" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EpxC-8GzQDjofrseMbM_-15" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;垂直边界&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="515" y="349" width="30" height="20" as="geometry" />
+          <mxGeometry x="470" y="318" width="30" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
