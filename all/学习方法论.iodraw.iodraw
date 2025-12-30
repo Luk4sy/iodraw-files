@@ -16,11 +16,8 @@
             <mxPoint x="520" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EpxC-8GzQDjofrseMbM_-3" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;垂&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;直&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;边&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;界&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="399" y="300" width="30" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="EpxC-8GzQDjofrseMbM_-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="505" y="288" width="50" height="30" as="geometry" />
+        <mxCell id="EpxC-8GzQDjofrseMbM_-3" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;垂&lt;/span&gt;&lt;/p&gt;&lt;div style=&quot;line-height: 90%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;直&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 90%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;边&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 90%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;界&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="399" y="285" width="30" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
