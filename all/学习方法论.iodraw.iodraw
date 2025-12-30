@@ -22,8 +22,8 @@
         <mxCell id="EpxC-8GzQDjofrseMbM_-15" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;垂直边界&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="507" y="358" width="30" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="EpxC-8GzQDjofrseMbM_-17" value="&lt;font style=&quot;font-size: 3px;&quot;&gt;基础语法、struct 与 interface&lt;br&gt;基础并发（goroutine, channel）&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=left;horizontal=1;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="457" y="299" width="96" height="20" as="geometry" />
+        <mxCell id="EpxC-8GzQDjofrseMbM_-17" value="基础语法、struct 与 interface&lt;br&gt;基础并发（goroutine, channel）" style="text;whiteSpace=wrap;align=left;horizontal=1;spacing=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="437" y="262" width="47" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
