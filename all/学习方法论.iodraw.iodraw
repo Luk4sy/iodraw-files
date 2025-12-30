@@ -16,8 +16,8 @@
             <mxPoint x="520" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EpxC-8GzQDjofrseMbM_-6" value="垂直边界" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="354" y="370" width="70" height="30" as="geometry" />
+        <mxCell id="EpxC-8GzQDjofrseMbM_-6" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;垂直边界&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
