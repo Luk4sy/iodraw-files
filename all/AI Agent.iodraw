@@ -12,7 +12,7 @@
         <mxCell id="4VYr7-Zp-Ay9CumHKd5a-2" value="AI Agent" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="400" y="585" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="4VYr7-Zp-Ay9CumHKd5a-5" value="Agent" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="4VYr7-Zp-Ay9CumHKd5a-5" value="规划&lt;div&gt;（Planing）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="530" y="585" width="70" height="35" as="geometry" />
         </mxCell>
       </root>
