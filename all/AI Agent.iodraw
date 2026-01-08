@@ -24,8 +24,10 @@
             <mxPoint x="350" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VsPSApO3Xb4fx3peXYa7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4VYr7-Zp-Ay9CumHKd5a-8" target="VsPSApO3Xb4fx3peXYa7-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VsPSApO3Xb4fx3peXYa7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4VYr7-Zp-Ay9CumHKd5a-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="507.9999999999998" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4VYr7-Zp-Ay9CumHKd5a-8" value="&lt;div&gt;记忆（Memory）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="400" y="480" width="80" height="40" as="geometry" />
@@ -34,10 +36,10 @@
           <mxGeometry x="270" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VsPSApO3Xb4fx3peXYa7-4" value="短期记忆&lt;div&gt;（Short-term memory）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="328" y="400" width="96" height="40" as="geometry" />
+          <mxGeometry x="280" y="400" width="144" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VsPSApO3Xb4fx3peXYa7-5" value="长期记忆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="400" width="96" height="40" as="geometry" />
+        <mxCell id="VsPSApO3Xb4fx3peXYa7-7" value="短期记忆&lt;div&gt;（Short-term memory）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="466" y="400" width="144" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
