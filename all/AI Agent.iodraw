@@ -15,6 +15,9 @@
         <mxCell id="VsPSApO3Xb4fx3peXYa7-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4VYr7-Zp-Ay9CumHKd5a-5" target="VsPSApO3Xb4fx3peXYa7-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VsPSApO3Xb4fx3peXYa7-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4VYr7-Zp-Ay9CumHKd5a-5" target="VsPSApO3Xb4fx3peXYa7-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4VYr7-Zp-Ay9CumHKd5a-5" value="规划&lt;div&gt;（Planning）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="520" y="560" width="80" height="40" as="geometry" />
         </mxCell>
@@ -86,7 +89,7 @@
         <mxCell id="VsPSApO3Xb4fx3peXYa7-29" value="&lt;div&gt;行动（Action）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="400" y="640" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VsPSApO3Xb4fx3peXYa7-33" value="长期记忆&lt;div&gt;（Long-term memory）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VsPSApO3Xb4fx3peXYa7-33" value="反思&lt;div&gt;（Reflection）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="510" width="144" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VsPSApO3Xb4fx3peXYa7-34" value="长期记忆&lt;div&gt;（Long-term memory）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
