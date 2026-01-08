@@ -103,7 +103,7 @@
         <mxCell id="VsPSApO3Xb4fx3peXYa7-23" value="Search()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="49" y="609" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VsPSApO3Xb4fx3peXYa7-29" value="&lt;div&gt;行动（Action）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="VsPSApO3Xb4fx3peXYa7-29" value="&lt;div&gt;行动（Action）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="359" y="639" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VsPSApO3Xb4fx3peXYa7-33" value="反思&lt;div&gt;（Reflection）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
