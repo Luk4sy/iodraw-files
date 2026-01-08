@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4VYr7-Zp-Ay9CumHKd5a-5" value="规划&lt;div&gt;（Planning）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="530" y="560" width="80" height="40" as="geometry" />
+          <mxGeometry x="520" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4VYr7-Zp-Ay9CumHKd5a-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4VYr7-Zp-Ay9CumHKd5a-6" target="4VYr7-Zp-Ay9CumHKd5a-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -17,6 +17,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="580" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VsPSApO3Xb4fx3peXYa7-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4VYr7-Zp-Ay9CumHKd5a-6" target="VsPSApO3Xb4fx3peXYa7-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4VYr7-Zp-Ay9CumHKd5a-6" value="AI Agent" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="400" y="560" width="80" height="40" as="geometry" />
