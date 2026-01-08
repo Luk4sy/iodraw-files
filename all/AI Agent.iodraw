@@ -96,10 +96,10 @@
           <mxGeometry x="650" y="570" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VsPSApO3Xb4fx3peXYa7-35" value="思维链&lt;div&gt;（Chain of thoughts）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="620" width="160" height="35" as="geometry" />
+          <mxGeometry x="650" y="620" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VsPSApO3Xb4fx3peXYa7-36" value="&lt;div&gt;子目标分解&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（Subgoal decomposition）&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="670" width="160" height="40" as="geometry" />
+          <mxGeometry x="650" y="680" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
