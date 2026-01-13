@@ -142,11 +142,16 @@
         <mxCell id="RMl3yoT2gT3gCuOlXPcN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RMl3yoT2gT3gCuOlXPcN-10" target="RMl3yoT2gT3gCuOlXPcN-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RMl3yoT2gT3gCuOlXPcN-10" value="观察" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="RMl3yoT2gT3gCuOlXPcN-10" value="Observation" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="330" y="910" width="52" height="52" as="geometry" />
         </mxCell>
         <mxCell id="RMl3yoT2gT3gCuOlXPcN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RMl3yoT2gT3gCuOlXPcN-3" target="RMl3yoT2gT3gCuOlXPcN-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="292" y="798" />
+              <mxPoint x="417" y="798" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
