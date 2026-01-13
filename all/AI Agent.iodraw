@@ -134,14 +134,14 @@
         <mxCell id="RMl3yoT2gT3gCuOlXPcN-3" value="Thought" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="266" y="818" width="52" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="RMl3yoT2gT3gCuOlXPcN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RMl3yoT2gT3gCuOlXPcN-5" target="RMl3yoT2gT3gCuOlXPcN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RMl3yoT2gT3gCuOlXPcN-5" value="Action" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="388" y="818" width="52" height="52" as="geometry" />
         </mxCell>
         <mxCell id="RMl3yoT2gT3gCuOlXPcN-10" value="观察" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="320" y="910" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="RMl3yoT2gT3gCuOlXPcN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.987;entryY=0.581;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RMl3yoT2gT3gCuOlXPcN-5" target="RMl3yoT2gT3gCuOlXPcN-10">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
