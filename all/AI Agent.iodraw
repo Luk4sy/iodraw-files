@@ -131,7 +131,7 @@
             <mxPoint x="359" y="844" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RMl3yoT2gT3gCuOlXPcN-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="RMl3yoT2gT3gCuOlXPcN-3" value="Thought" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="266" y="818" width="52" height="52" as="geometry" />
         </mxCell>
         <mxCell id="RMl3yoT2gT3gCuOlXPcN-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -144,13 +144,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RMl3yoT2gT3gCuOlXPcN-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="320" y="970" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="RMl3yoT2gT3gCuOlXPcN-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RMl3yoT2gT3gCuOlXPcN-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="950" as="sourcePoint" />
-            <mxPoint x="470" y="900" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="320" y="940" width="52" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
