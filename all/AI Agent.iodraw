@@ -121,8 +121,8 @@
         <mxCell id="VsPSApO3Xb4fx3peXYa7-40" value="长期记忆&lt;div&gt;（Long-term memory）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1269" y="411" width="144" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RMl3yoT2gT3gCuOlXPcN-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="805" width="120" height="60" as="geometry" />
+        <mxCell id="RMl3yoT2gT3gCuOlXPcN-2" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;" vertex="1" parent="1">
+          <mxGeometry x="294" y="805" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
