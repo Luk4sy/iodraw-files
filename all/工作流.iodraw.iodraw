@@ -13,8 +13,8 @@
         <mxCell id="Da5EV44nQ5C0AoBqTrzy-2" value="剧本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Da5EV44nQ5C0AoBqTrzy-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="195" y="208" width="50" height="30" as="geometry" />
+        <mxCell id="Da5EV44nQ5C0AoBqTrzy-4" value="&lt;div&gt;prompt&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="208" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
