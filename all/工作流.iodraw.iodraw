@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="FGXabxFhLTLkLHKxO7Ke">
-    <mxGraphModel dx="1562" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="893" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,8 +34,8 @@
         <mxCell id="Da5EV44nQ5C0AoBqTrzy-12" value="&lt;div&gt;请充当顶级短剧编剧专家。 我将为你提供一篇长篇小说，请你严格遵循以下逻辑与技巧，将其改编为极具商业价值的短剧剧本。&lt;/div&gt;&lt;div&gt;第一步：输出【改编核心设定看板】&lt;/div&gt;&lt;div&gt;这一步旨在确立全剧的视觉与逻辑骨架。&lt;/div&gt;&lt;div&gt;建议剧名： 提供一个符合爆款逻辑（反差、复仇、战神、重生等关键词）的标题。&lt;/div&gt;&lt;div&gt;核心爽逻辑： 提炼“打脸”逻辑、金手指设定及情感代偿点。&lt;/div&gt;&lt;div&gt;情绪基调： 定义核心情绪（如：极致复仇、热血觉醒、宿命虐恋）。&lt;/div&gt;&lt;div&gt;视觉基调与色彩矩阵： 根据题材（末日/修仙/豪门/都市）自动定义色彩（如：玄青/黑金/废土灰）与场景风格。&lt;/div&gt;&lt;div&gt;精简角色清单： 角色名 + 性格标签 + 剧情功能（必须合并冗余人物，聚焦核心冲突）。&lt;/div&gt;&lt;div&gt;第二步：输出【10集精细化剧本】&lt;/div&gt;&lt;div&gt;每集要求：1-2分钟视频时长。 格式规范：[场景名] - [时间] - [内/外]。 动作描述：必须使用三角形符号 ▲ 开头。&lt;/div&gt;&lt;div&gt;在编写剧本时，必须严格执行以下六大扩充技巧，以确保内容丰满且有节奏感：&lt;/div&gt;&lt;div&gt;增加“拉扯感”台词&lt;/div&gt;&lt;div&gt;指令： 禁止直接进入结论。在主角反击前，必须让反派和旁观者多说几句伪善或嘲讽的话，积压观众的怒气值。&lt;/div&gt;&lt;div&gt;逻辑循环： [反派先挑衅/作死] -&amp;gt; [旁人冷嘲热讽/道德绑架] -&amp;gt; [主角积蓄情绪] -&amp;gt; [主角降维打击]。&lt;/div&gt;&lt;div&gt;强化“反差描写”&lt;/div&gt;&lt;div&gt;指令： 必须增加旁观者的反应镜头。&lt;/div&gt;&lt;div&gt;要求： 重点描写旁人前一秒的“轻视/心疼反派”与后一秒看到真相时的“震惊/呆滞/恐惧”，这种情绪反转需占据15秒以上的时长。&lt;/div&gt;&lt;div&gt;细化“动作与神态”拆解&lt;/div&gt;&lt;div&gt;指令： 将核心动作进行慢镜头式拆解。&lt;/div&gt;&lt;div&gt;范例： 不要只写“主角踢飞了剑”，要写：▲ 主角眼神瞬间冰冷 -&amp;gt; ▲ 反派虚伪的笑容僵在脸上 -&amp;gt; ▲ 脚步重重踏地，带起罡风 -&amp;gt; ▲ 剑身撞击墙壁发出清脆裂响 -&amp;gt; ▲ 炉火映照在主角冷峻的侧脸上。&lt;/div&gt;&lt;div&gt;插入“强节奏内心独白”&lt;/div&gt;&lt;div&gt;指令： 在情绪转折点，插入主角简洁、冷酷的内心独白。&lt;/div&gt;&lt;div&gt;要求： 用于引导观众情绪，如：“前世我为你掏心掏肺，今生我要你百倍偿还。”&lt;/div&gt;&lt;div&gt;具象化“武斗与特效”描述&lt;/div&gt;&lt;div&gt;指令： 增加具体的视觉冲击力描述。&lt;/div&gt;&lt;div&gt;要求： 细化能量波动，如：“令牌震碎周围人的护体屏障”、“金色神环自背后炸开”、“漫天残剑瞬间凝固在空中”等。&lt;/div&gt;&lt;div&gt;细化“悔恨/火葬场”戏份&lt;/div&gt;&lt;div&gt;指令： 针对反派/女主角的悔悟，增加极致的特写。&lt;/div&gt;&lt;div&gt;要求： 描写眼神的失神、泪水的滚落、发现真相后的自我崩溃，确保情感拉扯感拉满。&lt;/div&gt;&lt;div&gt;🕒 节奏控制要求&lt;/div&gt;&lt;div&gt;开场（1-10秒）： 必须有强视觉冲击或身份反差。&lt;/div&gt;&lt;div&gt;拉扯（10-40秒）： 反派挑衅与旁人嘲讽，积压怒气。&lt;/div&gt;&lt;div&gt;高潮（40-80秒）： 主角身份揭露或武力反击，动作拆解到位。&lt;/div&gt;&lt;div&gt;结尾钩子（最后10秒）： 留下一个让观众必须看下一集的悬念点。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="460" width="1060" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="Da5EV44nQ5C0AoBqTrzy-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="105" y="428" width="50" height="30" as="geometry" />
+        <mxCell id="Da5EV44nQ5C0AoBqTrzy-13" value="prompt1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="430" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
