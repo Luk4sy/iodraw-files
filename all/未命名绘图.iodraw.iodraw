@@ -10,8 +10,17 @@
         <mxCell id="sPAQZRqy5s9Nde76PR2m-2" value="五步七层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="69" width="66" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="sPAQZRqy5s9Nde76PR2m-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sPAQZRqy5s9Nde76PR2m-3" target="sPAQZRqy5s9Nde76PR2m-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sPAQZRqy5s9Nde76PR2m-3" value="用户层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="107" y="132" width="63" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="sPAQZRqy5s9Nde76PR2m-4" value="应用层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="107" y="189" width="63" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="sPAQZRqy5s9Nde76PR2m-6" value="应用层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="199" width="63" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
