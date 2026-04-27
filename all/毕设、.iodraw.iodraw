@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="6qBFqId6ehdIEcEAYOIs">
-    <mxGraphModel dx="893" dy="519" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1077" dy="627" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -301,8 +301,8 @@
         <mxCell id="PBqzP6RQzFbafq5Q-N4e-12" value="管理反馈" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="176" y="724" width="117" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PBqzP6RQzFbafq5Q-N4e-15" value="资源展示、互动反馈&lt;div&gt;消息推送&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="468" y="670" width="117" height="30" as="geometry" />
+        <mxCell id="PBqzP6RQzFbafq5Q-N4e-15" value="资源展示、互动反馈、&lt;div&gt;消息推送&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="474" y="670" width="123" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PBqzP6RQzFbafq5Q-N4e-16" value="浏览播放、收藏评论、&lt;div&gt;在线聊天&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="474" y="737" width="122" height="30" as="geometry" />
