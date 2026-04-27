@@ -159,6 +159,9 @@
         <mxCell id="9nsHnCE2Oci3Psi91kWn-43" value="实时聊天" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="414" y="327" width="21" height="137" as="geometry" />
         </mxCell>
+        <mxCell id="9nsHnCE2Oci3Psi91kWn-44" value="实时聊天" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="424" y="337" width="21" height="137" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
