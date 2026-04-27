@@ -30,28 +30,28 @@
           <mxGeometry x="506" y="267" width="127" height="35" as="geometry" />
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-6" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;注&lt;/div&gt;&lt;div&gt;册&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="100" y="357" width="33" height="121" as="geometry" />
+          <mxGeometry x="42" y="330" width="21" height="121" as="geometry" />
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-7" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;登&lt;/div&gt;&lt;div&gt;录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="146" y="357" width="33" height="121" as="geometry" />
+          <mxGeometry x="88" y="330" width="33" height="121" as="geometry" />
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-8" value="首&lt;div&gt;页&lt;/div&gt;&lt;div&gt;推&lt;/div&gt;&lt;div&gt;荐&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="192" y="357" width="33" height="121" as="geometry" />
+          <mxGeometry x="134" y="330" width="33" height="121" as="geometry" />
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-10" value="歌&lt;div&gt;曲&lt;/div&gt;&lt;div&gt;搜&lt;/div&gt;&lt;div&gt;索&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="238" y="357" width="33" height="121" as="geometry" />
+          <mxGeometry x="180" y="330" width="33" height="121" as="geometry" />
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-11" value="歌&lt;div&gt;手&lt;/div&gt;&lt;div&gt;浏&lt;/div&gt;&lt;div&gt;览&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="284" y="357" width="33" height="121" as="geometry" />
+          <mxGeometry x="226" y="330" width="33" height="121" as="geometry" />
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-12" value="歌&lt;div&gt;手&lt;/div&gt;&lt;div&gt;作&lt;div&gt;品&lt;/div&gt;&lt;div&gt;详&lt;div&gt;&lt;div&gt;细&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="330" y="357" width="33" height="121" as="geometry" />
+          <mxGeometry x="272" y="330" width="33" height="121" as="geometry" />
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-13" value="歌&lt;div&gt;单&lt;/div&gt;&lt;div&gt;浏&lt;div&gt;&lt;div&gt;览&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="376" y="357" width="33" height="121" as="geometry" />
+          <mxGeometry x="318" y="330" width="33" height="121" as="geometry" />
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-14" value="歌&lt;div&gt;单&lt;/div&gt;&lt;div&gt;浏&lt;div&gt;&lt;div&gt;览&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="386" y="367" width="33" height="121" as="geometry" />
+          <mxGeometry x="368" y="330" width="33" height="121" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
