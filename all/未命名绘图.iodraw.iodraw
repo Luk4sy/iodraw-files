@@ -26,7 +26,7 @@
         <mxCell id="9nsHnCE2Oci3Psi91kWn-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9nsHnCE2Oci3Psi91kWn-2" target="9nsHnCE2Oci3Psi91kWn-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="229" y="310" />
+              <mxPoint x="227" y="310" />
               <mxPoint x="45" y="310" />
             </Array>
           </mxGeometry>
@@ -34,8 +34,8 @@
         <mxCell id="9nsHnCE2Oci3Psi91kWn-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9nsHnCE2Oci3Psi91kWn-2" target="9nsHnCE2Oci3Psi91kWn-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="229" y="310" />
-              <mxPoint x="76" y="310" />
+              <mxPoint x="227" y="310" />
+              <mxPoint x="75" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
