@@ -43,9 +43,7 @@
         <mxCell id="GJR_ac1l6XTbie0_plAF-13" value="登录验证结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;fontSize=12;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="GJR_ac1l6XTbie0_plAF-3" target="GJR_ac1l6XTbie0_plAF-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="370" />
-              <mxPoint x="240" y="370" />
-              <mxPoint x="240" y="360" />
+              <mxPoint x="380" y="360" />
               <mxPoint x="-80" y="360" />
             </Array>
           </mxGeometry>
@@ -175,6 +173,7 @@
         <mxCell id="GJR_ac1l6XTbie0_plAF-30" value="互动数据管理请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;fontSize=12;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="GJR_ac1l6XTbie0_plAF-1" target="GJR_ac1l6XTbie0_plAF-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="220" y="400" />
               <mxPoint x="220" y="260" />
               <mxPoint x="820" y="260" />
               <mxPoint x="820" y="355" />
