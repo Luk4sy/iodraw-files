@@ -47,8 +47,11 @@
         <mxCell id="9nsHnCE2Oci3Psi91kWn-12" value="歌&lt;div&gt;手&lt;/div&gt;&lt;div&gt;作&lt;div&gt;品&lt;/div&gt;&lt;div&gt;详&lt;div&gt;&lt;div&gt;细&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="330" y="357" width="33" height="121" as="geometry" />
         </mxCell>
-        <mxCell id="9nsHnCE2Oci3Psi91kWn-13" value="歌&lt;div&gt;手&lt;/div&gt;&lt;div&gt;作&lt;div&gt;品&lt;/div&gt;&lt;div&gt;详&lt;div&gt;&lt;div&gt;细&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="9nsHnCE2Oci3Psi91kWn-13" value="歌&lt;div&gt;单&lt;/div&gt;&lt;div&gt;浏&lt;div&gt;&lt;div&gt;览&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="376" y="357" width="33" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="9nsHnCE2Oci3Psi91kWn-14" value="歌&lt;div&gt;单&lt;/div&gt;&lt;div&gt;浏&lt;div&gt;&lt;div&gt;览&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="386" y="367" width="33" height="121" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
