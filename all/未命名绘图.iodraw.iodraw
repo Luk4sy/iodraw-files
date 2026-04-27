@@ -128,6 +128,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="9nsHnCE2Oci3Psi91kWn-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9nsHnCE2Oci3Psi91kWn-4" target="9nsHnCE2Oci3Psi91kWn-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="309" />
+              <mxPoint x="481" y="309" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9nsHnCE2Oci3Psi91kWn-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9nsHnCE2Oci3Psi91kWn-4" target="9nsHnCE2Oci3Psi91kWn-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-4" value="管理员后台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="506" y="267" width="127" height="35" as="geometry" />
         </mxCell>
@@ -192,7 +203,7 @@
           <mxGeometry x="647" y="329" width="21" height="137" as="geometry" />
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-51" value="实时聊天" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="692" y="329" width="21" height="137" as="geometry" />
+          <mxGeometry x="676" y="329" width="21" height="137" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
