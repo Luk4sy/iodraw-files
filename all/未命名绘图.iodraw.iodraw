@@ -150,10 +150,10 @@
         <mxCell id="9nsHnCE2Oci3Psi91kWn-28" value="我的音乐" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="307" y="327" width="21" height="137" as="geometry" />
         </mxCell>
-        <mxCell id="9nsHnCE2Oci3Psi91kWn-29" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;注&lt;/div&gt;&lt;div&gt;册&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="9nsHnCE2Oci3Psi91kWn-29" value="个人设置" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="337" y="327" width="21" height="137" as="geometry" />
         </mxCell>
-        <mxCell id="9nsHnCE2Oci3Psi91kWn-30" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;注&lt;/div&gt;&lt;div&gt;册&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="9nsHnCE2Oci3Psi91kWn-30" value="实时聊天" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="367" y="327" width="21" height="137" as="geometry" />
         </mxCell>
       </root>
