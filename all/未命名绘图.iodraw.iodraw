@@ -29,8 +29,8 @@
         <mxCell id="9nsHnCE2Oci3Psi91kWn-4" value="学生用户前台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="506" y="267" width="127" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="9nsHnCE2Oci3Psi91kWn-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="123" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="9nsHnCE2Oci3Psi91kWn-6" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="357" width="33" height="121" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
