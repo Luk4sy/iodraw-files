@@ -11,7 +11,7 @@
           <mxGeometry x="-140" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GJR_ac1l6XTbie0_plAF-3" value="1.0&lt;br&gt;&lt;b&gt;身份认证处理&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffffff;strokeColor=#000000;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="280" y="390" width="160" height="70" as="geometry" />
+          <mxGeometry x="300" y="390" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GJR_ac1l6XTbie0_plAF-4" value="2.0&lt;br&gt;&lt;b&gt;音乐资源管理&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffffff;strokeColor=#000000;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="540" y="300" width="170" height="70" as="geometry" />
@@ -146,8 +146,7 @@
         <mxCell id="GJR_ac1l6XTbie0_plAF-28" value="收藏、评论、评分请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;fontSize=12;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="GJR_ac1l6XTbie0_plAF-2" target="GJR_ac1l6XTbie0_plAF-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="560" />
-              <mxPoint x="820" y="560" />
+              <mxPoint x="820" y="570" />
               <mxPoint x="820" y="355" />
             </Array>
           </mxGeometry>
