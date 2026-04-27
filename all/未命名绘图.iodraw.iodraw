@@ -161,7 +161,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9nsHnCE2Oci3Psi91kWn-4" target="9nsHnCE2Oci3Psi91kWn-49">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="309" />
+              <mxPoint x="628" y="309" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9nsHnCE2Oci3Psi91kWn-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9nsHnCE2Oci3Psi91kWn-4" target="9nsHnCE2Oci3Psi91kWn-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="309" />
+              <mxPoint x="658" y="309" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9nsHnCE2Oci3Psi91kWn-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9nsHnCE2Oci3Psi91kWn-4" target="9nsHnCE2Oci3Psi91kWn-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="309" />
+              <mxPoint x="686" y="309" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-4" value="管理员后台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="506" y="267" width="127" height="35" as="geometry" />
