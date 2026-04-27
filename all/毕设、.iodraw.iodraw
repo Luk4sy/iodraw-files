@@ -304,8 +304,8 @@
         <mxCell id="PBqzP6RQzFbafq5Q-N4e-15" value="资源展示、互动反馈&lt;div&gt;消息推送&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="468" y="670" width="117" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PBqzP6RQzFbafq5Q-N4e-16" value="资源展示、互动反馈&lt;div&gt;消息推送&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="478" y="680" width="117" height="30" as="geometry" />
+        <mxCell id="PBqzP6RQzFbafq5Q-N4e-16" value="浏览播放、收藏评论、&lt;div&gt;在线聊天&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="468" y="737" width="117" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
