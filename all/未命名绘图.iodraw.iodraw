@@ -53,6 +53,12 @@
         <mxCell id="9nsHnCE2Oci3Psi91kWn-26" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;注&lt;/div&gt;&lt;div&gt;册&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="255" y="332" width="21" height="121" as="geometry" />
         </mxCell>
+        <mxCell id="9nsHnCE2Oci3Psi91kWn-27" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;注&lt;/div&gt;&lt;div&gt;册&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="285" y="332" width="21" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="9nsHnCE2Oci3Psi91kWn-28" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;注&lt;/div&gt;&lt;div&gt;册&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="295" y="342" width="21" height="121" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
