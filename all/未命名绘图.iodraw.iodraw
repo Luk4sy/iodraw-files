@@ -83,7 +83,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9nsHnCE2Oci3Psi91kWn-2" target="9nsHnCE2Oci3Psi91kWn-27">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="228" y="310" />
+              <mxPoint x="288" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9nsHnCE2Oci3Psi91kWn-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9nsHnCE2Oci3Psi91kWn-2" target="9nsHnCE2Oci3Psi91kWn-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="228" y="310" />
+              <mxPoint x="318" y="310" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-2" value="学生用户前台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="164" y="267" width="127" height="35" as="geometry" />
