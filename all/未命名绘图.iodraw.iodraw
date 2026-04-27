@@ -120,6 +120,14 @@
         <mxCell id="9nsHnCE2Oci3Psi91kWn-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="9nsHnCE2Oci3Psi91kWn-4" target="9nsHnCE2Oci3Psi91kWn-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9nsHnCE2Oci3Psi91kWn-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9nsHnCE2Oci3Psi91kWn-4" target="9nsHnCE2Oci3Psi91kWn-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="309" />
+              <mxPoint x="450" y="309" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-4" value="管理员后台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="506" y="267" width="127" height="35" as="geometry" />
         </mxCell>
@@ -160,31 +168,31 @@
           <mxGeometry x="367" y="327" width="21" height="137" as="geometry" />
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-43" value="实时聊天" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="439" y="327" width="21" height="137" as="geometry" />
+          <mxGeometry x="439" y="329" width="21" height="137" as="geometry" />
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-44" value="实时聊天" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="470" y="327" width="21" height="137" as="geometry" />
+          <mxGeometry x="470" y="329" width="21" height="137" as="geometry" />
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-45" value="实时聊天" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="501" y="327" width="21" height="137" as="geometry" />
+          <mxGeometry x="501" y="329" width="21" height="137" as="geometry" />
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-46" value="实时聊天" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="531" y="327" width="21" height="137" as="geometry" />
+          <mxGeometry x="531" y="329" width="21" height="137" as="geometry" />
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-47" value="实时聊天" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="561" y="327" width="21" height="137" as="geometry" />
+          <mxGeometry x="561" y="329" width="21" height="137" as="geometry" />
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-48" value="实时聊天" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="591" y="327" width="21" height="137" as="geometry" />
+          <mxGeometry x="591" y="329" width="21" height="137" as="geometry" />
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-49" value="实时聊天" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="624" y="327" width="21" height="137" as="geometry" />
+          <mxGeometry x="624" y="329" width="21" height="137" as="geometry" />
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-50" value="实时聊天" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="658" y="327" width="21" height="137" as="geometry" />
+          <mxGeometry x="658" y="329" width="21" height="137" as="geometry" />
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-51" value="实时聊天" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="692" y="327" width="21" height="137" as="geometry" />
+          <mxGeometry x="692" y="329" width="21" height="137" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
