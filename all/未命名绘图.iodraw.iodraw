@@ -115,7 +115,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GJR_ac1l6XTbie0_plAF-23" value="音乐资源数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;fontSize=12;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="GJR_ac1l6XTbie0_plAF-9" target="GJR_ac1l6XTbie0_plAF-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="735" y="200" />
+              <mxPoint x="680" y="200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="GJR_ac1l6XTbie0_plAF-24" value="浏览、搜索、播放请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;fontSize=12;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="GJR_ac1l6XTbie0_plAF-2" target="GJR_ac1l6XTbie0_plAF-5">
           <mxGeometry relative="1" as="geometry" />
@@ -141,8 +146,8 @@
         <mxCell id="GJR_ac1l6XTbie0_plAF-27" value="歌曲、歌手、歌单、歌词数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;fontSize=12;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="GJR_ac1l6XTbie0_plAF-9" target="GJR_ac1l6XTbie0_plAF-5">
           <mxGeometry x="-0.0345" y="131" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="730" y="370" />
-              <mxPoint x="730" y="370" />
+              <mxPoint x="750" y="130" />
+              <mxPoint x="750" y="130" />
             </Array>
             <mxPoint x="125" y="-91" as="offset" />
           </mxGeometry>
