@@ -133,13 +133,13 @@
           <mxGeometry x="127" y="325" width="21" height="121" as="geometry" />
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-23" value="歌手浏览" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="157" y="325" width="21" height="121" as="geometry" />
+          <mxGeometry x="157" y="325" width="21" height="137" as="geometry" />
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-24" value="歌手作品详情" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="187" y="325" width="21" height="121" as="geometry" />
+          <mxGeometry x="187" y="325" width="21" height="137" as="geometry" />
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-25" value="歌单浏览" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="217" y="325" width="21" height="121" as="geometry" />
+          <mxGeometry x="217" y="325" width="21" height="137" as="geometry" />
         </mxCell>
         <mxCell id="9nsHnCE2Oci3Psi91kWn-26" value="歌单详情" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="247" y="327" width="21" height="137" as="geometry" />
