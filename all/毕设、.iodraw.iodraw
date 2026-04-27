@@ -301,6 +301,9 @@
         <mxCell id="PBqzP6RQzFbafq5Q-N4e-12" value="管理反馈" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="176" y="724" width="117" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PBqzP6RQzFbafq5Q-N4e-15" value="资源展示、互动反馈&lt;div&gt;消息推送&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="463" y="658.5" width="117" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
