@@ -8,13 +8,13 @@
           <mxGeometry x="-160" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GJR_ac1l6XTbie0_plAF-2" value="注册用户" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="-140" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GJR_ac1l6XTbie0_plAF-3" value="1.0&lt;br&gt;&lt;b&gt;身份认证处理&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffffff;strokeColor=#000000;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="280" y="390" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GJR_ac1l6XTbie0_plAF-4" value="2.0&lt;br&gt;&lt;b&gt;音乐资源管理&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffffff;strokeColor=#000000;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="540" y="320" width="170" height="70" as="geometry" />
+          <mxGeometry x="540" y="300" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GJR_ac1l6XTbie0_plAF-5" value="3.0&lt;br&gt;&lt;b&gt;音乐资源检索与播放&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffffff;strokeColor=#000000;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="560" y="440" width="190" height="70" as="geometry" />
