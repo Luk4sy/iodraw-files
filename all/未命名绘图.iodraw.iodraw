@@ -11,7 +11,7 @@
           <mxGeometry x="-120" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GJR_ac1l6XTbie0_plAF-3" value="1.0&lt;br&gt;&lt;b&gt;身份认证处理&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffffff;strokeColor=#000000;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="300" y="390" width="160" height="70" as="geometry" />
+          <mxGeometry x="310" y="390" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GJR_ac1l6XTbie0_plAF-4" value="2.0&lt;br&gt;&lt;b&gt;音乐资源管理&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffffff;strokeColor=#000000;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="540" y="300" width="170" height="70" as="geometry" />
@@ -54,7 +54,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GJR_ac1l6XTbie0_plAF-14" value="注册登录信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;fontSize=12;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="GJR_ac1l6XTbie0_plAF-2" target="GJR_ac1l6XTbie0_plAF-3">
-          <mxGeometry x="-0.0196" y="-20" relative="1" as="geometry">
+          <mxGeometry x="-0.0196" y="10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-80" y="480" />
               <mxPoint x="220" y="480" />
@@ -183,13 +183,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GJR_ac1l6XTbie0_plAF-30" value="互动数据管理请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;fontSize=12;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="GJR_ac1l6XTbie0_plAF-1" target="GJR_ac1l6XTbie0_plAF-6">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0802" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="220" y="400" />
               <mxPoint x="220" y="260" />
               <mxPoint x="820" y="260" />
               <mxPoint x="820" y="355" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GJR_ac1l6XTbie0_plAF-31" value="互动管理结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;fontSize=12;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="GJR_ac1l6XTbie0_plAF-6" target="GJR_ac1l6XTbie0_plAF-1">
