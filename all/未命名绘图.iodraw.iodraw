@@ -120,7 +120,7 @@
         <mxCell id="GJR_ac1l6XTbie0_plAF-26" value="查询音乐资源" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;fontSize=12;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="GJR_ac1l6XTbie0_plAF-5" target="GJR_ac1l6XTbie0_plAF-9">
           <mxGeometry x="-0.5862" y="-105" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="635" y="290" />
+              <mxPoint x="720" y="290" />
               <mxPoint x="710" y="290" />
             </Array>
             <mxPoint as="offset" />
