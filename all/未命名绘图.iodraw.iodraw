@@ -185,8 +185,7 @@
         <mxCell id="GJR_ac1l6XTbie0_plAF-30" value="互动数据管理请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;fontSize=12;labelBackgroundColor=#ffffff;" parent="1" source="GJR_ac1l6XTbie0_plAF-1" target="GJR_ac1l6XTbie0_plAF-6" edge="1">
           <mxGeometry x="0.1983" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="30" y="400" />
-              <mxPoint x="30" y="260" />
+              <mxPoint x="-120" y="260" />
               <mxPoint x="820" y="260" />
               <mxPoint x="820" y="355" />
             </Array>
