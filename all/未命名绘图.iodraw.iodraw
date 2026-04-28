@@ -313,13 +313,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-64" value="音乐资源数据维护" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1.6;fontSize=12;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="dus5IUf36FupolJb_fNw-43" target="dus5IUf36FupolJb_fNw-52">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="1010" />
+              <mxPoint x="830" y="1035" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-65" value="歌曲、歌手、歌单、歌词数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1.6;fontSize=12;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="dus5IUf36FupolJb_fNw-45" target="dus5IUf36FupolJb_fNw-52">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="750" y="1150" />
-              <mxPoint x="750" y="1035" />
+              <mxPoint x="1025" y="1150" />
             </Array>
           </mxGeometry>
         </mxCell>
