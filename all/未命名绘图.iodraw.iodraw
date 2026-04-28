@@ -110,7 +110,7 @@
         <mxCell id="GJR_ac1l6XTbie0_plAF-20" value="更新用户信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;fontSize=12;labelBackgroundColor=#ffffff;" parent="1" source="GJR_ac1l6XTbie0_plAF-4" target="GJR_ac1l6XTbie0_plAF-8" edge="1">
           <mxGeometry x="0.057" y="-6" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="320" y="335" />
+              <mxPoint x="350" y="335" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -212,7 +212,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GJR_ac1l6XTbie0_plAF-33" value="评论、收藏、评分数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;fontSize=12;labelBackgroundColor=#ffffff;" parent="1" source="GJR_ac1l6XTbie0_plAF-10" target="GJR_ac1l6XTbie0_plAF-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="210" />
+              <mxPoint x="1015" y="210" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="GJR_ac1l6XTbie0_plAF-34" value="聊天消息发送请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;fontSize=12;labelBackgroundColor=#ffffff;" parent="1" source="GJR_ac1l6XTbie0_plAF-2" target="GJR_ac1l6XTbie0_plAF-7" edge="1">
           <mxGeometry relative="1" as="geometry">
