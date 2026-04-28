@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="学生在线音乐平台0层数据流图" id="NMiGiEfOhs5aAiJS1VFx">
-    <mxGraphModel dx="1562" dy="909" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="909" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -196,7 +196,7 @@
           <mxGeometry x="450" y="750" width="520" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-39" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="876" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-40" value="注册用户" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="1150" width="120" height="60" as="geometry" />
@@ -255,11 +255,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-56" value="资源维护请求 / 管理结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1.6;fontSize=12;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="dus5IUf36FupolJb_fNw-39" target="dus5IUf36FupolJb_fNw-43">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry y="45" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="330" y="920" />
               <mxPoint x="330" y="1010" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-57" value="互动数据管理 / 管理结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1.6;fontSize=12;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="dus5IUf36FupolJb_fNw-39" target="dus5IUf36FupolJb_fNw-47">
