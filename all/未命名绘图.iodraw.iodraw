@@ -246,8 +246,8 @@
         <mxCell id="dus5IUf36FupolJb_fNw-55" value="管理员登录信息 / 验证结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1.6;fontSize=12;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="dus5IUf36FupolJb_fNw-39" target="dus5IUf36FupolJb_fNw-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="330" y="920" />
-              <mxPoint x="330" y="800" />
+              <mxPoint x="350" y="920" />
+              <mxPoint x="350" y="800" />
               <mxPoint x="545" y="800" />
             </Array>
           </mxGeometry>
@@ -270,11 +270,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-58" value="注册登录信息 / 验证结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1.6;fontSize=12;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="dus5IUf36FupolJb_fNw-40" target="dus5IUf36FupolJb_fNw-41">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.4" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="420" y="1190" />
-              <mxPoint x="420" y="870" />
+              <mxPoint x="430" y="1190" />
+              <mxPoint x="430" y="870" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-59" value="浏览搜索播放请求 / 资源播放结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1.6;fontSize=12;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="dus5IUf36FupolJb_fNw-40" target="dus5IUf36FupolJb_fNw-45">
