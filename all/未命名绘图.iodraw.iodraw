@@ -235,7 +235,7 @@
           <mxGeometry x="910" y="845" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-52" value="D2　音乐资源库&lt;br&gt;歌手 / 歌曲 / 歌单" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#000000;fontSize=15;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="1005" width="230" height="60" as="geometry" />
+          <mxGeometry x="910" y="980" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-53" value="D3　互动信息库&lt;br&gt;评论 / 收藏 / 评分" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#000000;fontSize=15;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="1265" width="230" height="60" as="geometry" />
@@ -254,8 +254,8 @@
         <mxCell id="dus5IUf36FupolJb_fNw-56" value="资源维护请求 / 管理结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1.6;fontSize=12;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="dus5IUf36FupolJb_fNw-39" target="dus5IUf36FupolJb_fNw-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="290" y="920" />
-              <mxPoint x="290" y="1010" />
+              <mxPoint x="330" y="920" />
+              <mxPoint x="330" y="1010" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -315,8 +315,8 @@
         <mxCell id="dus5IUf36FupolJb_fNw-64" value="音乐资源数据维护" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1.6;fontSize=12;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="dus5IUf36FupolJb_fNw-43" target="dus5IUf36FupolJb_fNw-52">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="830" y="1010" />
-              <mxPoint x="830" y="1035" />
+              <mxPoint x="870" y="1010" />
+              <mxPoint x="870" y="1010" />
             </Array>
           </mxGeometry>
         </mxCell>
