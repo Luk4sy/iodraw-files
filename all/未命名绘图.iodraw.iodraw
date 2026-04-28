@@ -276,9 +276,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-59" value="浏览搜索播放请求 / 资源播放结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1.6;fontSize=12;labelBackgroundColor=#ffffff;" edge="1" parent="1" source="dus5IUf36FupolJb_fNw-40" target="dus5IUf36FupolJb_fNw-45">
-          <mxGeometry x="-0.0625" y="-30" relative="1" as="geometry">
+          <mxGeometry x="0.0435" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="1190" />
+              <mxPoint x="110" y="1090" />
+              <mxPoint x="380" y="1090" />
               <mxPoint x="380" y="1150" />
             </Array>
             <mxPoint as="offset" />
