@@ -226,7 +226,7 @@
           <mxGeometry x="402.5" y="2379" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-17" value="P3.5&lt;br&gt;&lt;br&gt;个性化歌单推荐" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="770" y="2239" width="175" height="72" as="geometry" />
+          <mxGeometry x="794" y="2537" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-18" value="P4.1&lt;br&gt;&lt;br&gt;评论发布处理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="25" y="2656" width="175" height="72" as="geometry" />
