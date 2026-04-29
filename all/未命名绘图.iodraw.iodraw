@@ -314,7 +314,7 @@
           <mxGeometry x="1266" y="1719" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-2" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=#70AD47;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-105" y="1822" width="120" height="50" as="geometry" />
+          <mxGeometry x="-335" y="1936" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-3" value="注册用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=#70AD47;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-105" y="2112" width="120" height="50" as="geometry" />
@@ -388,11 +388,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-25" value="注册/登录信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="OXeaosI6LyYsLR3usEuC-3" target="OXeaosI6LyYsLR3usEuC-4">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.1394" y="-4" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="78" y="2137" />
               <mxPoint x="78" y="1825" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-26" value="用户认证" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="OXeaosI6LyYsLR3usEuC-4" target="OXeaosI6LyYsLR3usEuC-14">
