@@ -1180,30 +1180,33 @@
           <mxGeometry x="3679" y="2173" width="220" height="58" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-411" value="注册登录信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-390" target="XanPveLbpSm5Q2r6mb2O-392">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.7696" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2719" y="1791" />
               <mxPoint x="2719" y="1546" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-412" value="用户信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-392" target="XanPveLbpSm5Q2r6mb2O-404">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-413" value="评论内容" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-390" target="XanPveLbpSm5Q2r6mb2O-394">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.6727" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2719" y="1791" />
               <mxPoint x="2719" y="1676" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-414" value="评论管理" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-391" target="XanPveLbpSm5Q2r6mb2O-394">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.7909" y="20" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2656" y="2051" />
               <mxPoint x="2656" y="1676" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-415" value="评论数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-394" target="XanPveLbpSm5Q2r6mb2O-405">
