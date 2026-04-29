@@ -885,7 +885,7 @@
           <mxGeometry x="1453" y="3852" width="220" height="58" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-316" value="D5 歌单表&lt;br&gt;song_list" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=15;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1487" y="4164" width="220" height="58" as="geometry" />
+          <mxGeometry x="1490" y="4160" width="220" height="58" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-317" value="D6 歌单歌曲关联表&lt;br&gt;list_song" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=15;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1469" y="3984" width="220" height="58" as="geometry" />
@@ -1073,7 +1073,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-340" value="查询歌曲" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-310" target="XanPveLbpSm5Q2r6mb2O-315">
-          <mxGeometry x="0.934" y="-3" relative="1" as="geometry">
+          <mxGeometry x="0.875" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1795" y="3945" />
               <mxPoint x="1517" y="3945" />
