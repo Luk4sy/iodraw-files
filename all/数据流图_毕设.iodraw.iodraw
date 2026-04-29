@@ -877,7 +877,7 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-212" value="维护结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=14;strokeColor=#666666;strokeWidth=2;fontStyle=0" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-183" target="XanPveLbpSm5Q2r6mb2O-177">
           <mxGeometry x="0.7363" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-635" y="3102" />
+              <mxPoint x="-635" y="3078" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
