@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="学生在线音乐平台0层数据流图" id="LmoSqTHsvGlPEPyRTp60">
-    <mxGraphModel dx="1516" dy="1049" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1962" dy="1309" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,9 +194,6 @@
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-115" value="D2 管理员表&lt;br&gt;admin" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="645.5" y="1707" width="195" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="hzpVtTkkclo3Kl-aVXV4-116" value="D3 歌手表&lt;br&gt;singer" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="900" y="1832" width="195" height="52" as="geometry" />
-        </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-117" value="D4 歌曲表&lt;br&gt;song" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="1124" y="1832" width="195" height="52" as="geometry" />
         </mxCell>
@@ -299,7 +296,7 @@
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-136" value="歌单查询" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666;exitX=1;exitY=0.65;entryX=0;entryY=0.5" edge="1" parent="1" source="hzpVtTkkclo3Kl-aVXV4-108" target="hzpVtTkkclo3Kl-aVXV4-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hzpVtTkkclo3Kl-aVXV4-137" value="歌曲关联" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666;exitX=1;exitY=0.85;entryX=0;entryY=0.5" edge="1" parent="1" source="hzpVtTkkclo3Kl-aVXV4-108" target="hzpVtTkkclo3Kl-aVXV4-119">
+        <mxCell id="hzpVtTkkclo3Kl-aVXV4-137" value="歌曲关联" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666;exitX=1;exitY=0.85;entryX=0;entryY=0.5" edge="1" parent="1" source="hzpVtTkkclo3Kl-aVXV4-116" target="hzpVtTkkclo3Kl-aVXV4-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-138" value="评论/收藏/评分" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666;exitX=1;exitY=0.5;entryX=0;entryY=0.45" edge="1" parent="1" source="hzpVtTkkclo3Kl-aVXV4-103" target="hzpVtTkkclo3Kl-aVXV4-110">
@@ -336,6 +333,15 @@
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-144" value="消息记录" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666;exitX=1;exitY=0.5;entryX=0;entryY=0.5" edge="1" parent="1" source="hzpVtTkkclo3Kl-aVXV4-112" target="hzpVtTkkclo3Kl-aVXV4-123">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hzpVtTkkclo3Kl-aVXV4-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666;exitX=1;exitY=0.85;entryX=0;entryY=0.5" edge="1" parent="1" source="hzpVtTkkclo3Kl-aVXV4-108" target="hzpVtTkkclo3Kl-aVXV4-116">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="548" y="2045" as="sourcePoint" />
+            <mxPoint x="1143" y="1923" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hzpVtTkkclo3Kl-aVXV4-116" value="D3 歌手表&lt;br&gt;singer" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="749" y="1884" width="195" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
