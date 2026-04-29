@@ -199,7 +199,7 @@
           <mxGeometry x="-748" y="2040" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-8" value="P2.1&lt;br&gt;&lt;br&gt;歌手信息维护" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="-320" y="2040" width="175" height="72" as="geometry" />
+          <mxGeometry x="-317" y="2040" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-9" value="P2.2&lt;br&gt;&lt;br&gt;歌曲信息维护" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="-71" y="1968" width="175" height="72" as="geometry" />
@@ -262,7 +262,7 @@
           <mxGeometry x="-673" y="2336" width="190" height="52" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-29" value="D3 歌手表&lt;br&gt;singer" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=13;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="755" y="1996" width="190" height="52" as="geometry" />
+          <mxGeometry x="-394" y="1916" width="190" height="52" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-30" value="D4 歌曲表&lt;br&gt;song" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=13;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="995" y="1996" width="190" height="52" as="geometry" />
