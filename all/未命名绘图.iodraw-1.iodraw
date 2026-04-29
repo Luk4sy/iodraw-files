@@ -44,7 +44,7 @@
           <mxGeometry x="390" y="760" width="200" height="28" as="geometry" />
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-70" value="D1 用户表&lt;br&gt;consumer" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="900" y="24" width="190" height="52" as="geometry" />
+          <mxGeometry x="640" y="65" width="190" height="52" as="geometry" />
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-71" value="D2 管理员表&lt;br&gt;admin" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="1160" y="75" width="190" height="52" as="geometry" />
@@ -79,11 +79,13 @@
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-81" value="登录/注册信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="hzpVtTkkclo3Kl-aVXV4-59" target="hzpVtTkkclo3Kl-aVXV4-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hzpVtTkkclo3Kl-aVXV4-82" value="用户信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="hzpVtTkkclo3Kl-aVXV4-60" target="hzpVtTkkclo3Kl-aVXV4-70">
+        <mxCell id="hzpVtTkkclo3Kl-aVXV4-82" value="用户信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hzpVtTkkclo3Kl-aVXV4-60" target="hzpVtTkkclo3Kl-aVXV4-70">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="488" y="10" />
-              <mxPoint x="995" y="10" />
+              <mxPoint x="620" y="10" />
+              <mxPoint x="620" y="34" />
+              <mxPoint x="640" y="34" />
             </Array>
           </mxGeometry>
         </mxCell>
