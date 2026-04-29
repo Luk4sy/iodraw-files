@@ -888,7 +888,7 @@
           <mxGeometry x="1487" y="4164" width="220" height="58" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-317" value="D6 歌单歌曲关联表&lt;br&gt;list_song" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=15;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1727" y="4167" width="220" height="58" as="geometry" />
+          <mxGeometry x="1474" y="3996" width="220" height="58" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-318" value="本地资源目录：song/、img/songPic/&#xa;文件本体存储位置，非数据库表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=#C65911;fontSize=14;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1685" y="3716" width="240" height="72" as="geometry" />
@@ -960,7 +960,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1267" y="4087" />
-              <mxPoint x="1837" y="4087" />
+              <mxPoint x="1701" y="4087" />
+              <mxPoint x="1701" y="4025" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1065,7 +1066,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-339" value="查询关联" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-310" target="XanPveLbpSm5Q2r6mb2O-317">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1738" y="4022" />
+              <mxPoint x="1738" y="4025" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-340" value="查询歌曲" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-310" target="XanPveLbpSm5Q2r6mb2O-315">
           <mxGeometry x="0.934" y="-3" relative="1" as="geometry">
