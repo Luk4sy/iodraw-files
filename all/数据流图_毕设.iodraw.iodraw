@@ -8,7 +8,7 @@
           <mxGeometry x="80" y="210" width="120" height="52" as="geometry" />
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-189" value="注册用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=#70AD47;fontSize=15;fontStyle=1;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="80" y="530" width="120" height="52" as="geometry" />
+          <mxGeometry x="85" y="525" width="120" height="52" as="geometry" />
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-190" value="&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;身份认证处理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=15;strokeWidth=3;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-196" y="79" width="200" height="86" as="geometry" />
