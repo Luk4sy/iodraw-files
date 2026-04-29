@@ -994,8 +994,8 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-240" value="歌曲播放数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-227" target="XanPveLbpSm5Q2r6mb2O-224">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="477" y="3862" />
-              <mxPoint x="477" y="4312" />
+              <mxPoint x="449" y="3862" />
+              <mxPoint x="449" y="4312" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1009,11 +1009,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-242" value="关联数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-229" target="XanPveLbpSm5Q2r6mb2O-224">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.8952" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="212" y="4230" />
-              <mxPoint x="-130" y="4230" />
+              <mxPoint x="212" y="4232" />
+              <mxPoint x="-130" y="4232" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-243" value="播放与查看信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-224" target="XanPveLbpSm5Q2r6mb2O-215">
