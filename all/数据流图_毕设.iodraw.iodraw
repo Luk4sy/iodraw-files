@@ -888,7 +888,7 @@
           <mxGeometry x="1494" y="4173" width="220" height="58" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-317" value="D6 歌单歌曲关联表&lt;br&gt;list_song" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=15;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1912" y="4328" width="220" height="58" as="geometry" />
+          <mxGeometry x="1886" y="4144" width="220" height="58" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-318" value="本地资源目录：song/、img/songPic/&#xa;文件本体存储位置，非数据库表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=#C65911;fontSize=14;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="2016" y="3972" width="240" height="72" as="geometry" />
@@ -960,8 +960,8 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-326" value="删除关联" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-300" target="XanPveLbpSm5Q2r6mb2O-317">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1786" y="4006" />
-              <mxPoint x="1786" y="4357" />
+              <mxPoint x="1783" y="4006" />
+              <mxPoint x="1783" y="4357" />
             </Array>
           </mxGeometry>
         </mxCell>
