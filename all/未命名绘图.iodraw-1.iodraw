@@ -379,7 +379,7 @@
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-160" value="P5" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#5B9BD5;strokeColor=#1F4E79;fontColor=#FFFFFF;fontStyle=1;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="333" y="3333" width="210" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="hzpVtTkkclo3Kl-aVXV4-161" value="身份数据表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8F9FA;strokeColor=#999999;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="hzpVtTkkclo3Kl-aVXV4-161" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8F9FA;strokeColor=#999999;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="823" y="2633" width="500" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-162" value="D1 用户表&lt;br&gt;consumer" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
@@ -388,7 +388,7 @@
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-163" value="D2 管理员表&lt;br&gt;admin" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="1103" y="2678" width="185" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="hzpVtTkkclo3Kl-aVXV4-164" value="音乐资源数据表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8F9FA;strokeColor=#999999;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="hzpVtTkkclo3Kl-aVXV4-164" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8F9FA;strokeColor=#999999;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="823" y="2788" width="500" height="305" as="geometry" />
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-165" value="D3 歌手表&lt;br&gt;singer" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
