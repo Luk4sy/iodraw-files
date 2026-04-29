@@ -423,7 +423,9 @@
         <mxCell id="OXeaosI6LyYsLR3usEuC-29" value="验证结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="OXeaosI6LyYsLR3usEuC-4" target="OXeaosI6LyYsLR3usEuC-3">
           <mxGeometry x="-0.5724" y="-2" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-45" y="1782" />
+              <mxPoint x="300" y="1746" />
+              <mxPoint x="-45" y="1746" />
+              <mxPoint x="-45" y="2111" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
