@@ -1034,8 +1034,10 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-335" value="搜索/播放请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-295" target="XanPveLbpSm5Q2r6mb2O-312">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1072" y="4391" />
-              <mxPoint x="1072" y="4511" />
+              <mxPoint x="1888" y="4391" />
+              <mxPoint x="1886" y="4391" />
+              <mxPoint x="1886" y="4511" />
+              <mxPoint x="1551" y="4511" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1103,7 +1105,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-343" value="查询结果/播放信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-312" target="XanPveLbpSm5Q2r6mb2O-295">
-          <mxGeometry x="-0.4591" y="-4" relative="1" as="geometry">
+          <mxGeometry x="-0.5765" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1918" y="4598" />
             </Array>
