@@ -994,16 +994,16 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-240" value="歌曲播放数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-227" target="XanPveLbpSm5Q2r6mb2O-224">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="291.5" y="3878" />
-              <mxPoint x="291.5" y="4312" />
+              <mxPoint x="477" y="3862" />
+              <mxPoint x="477" y="4312" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-241" value="歌单数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-228" target="XanPveLbpSm5Q2r6mb2O-224">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="251.5" y="4018" />
-              <mxPoint x="251.5" y="4312" />
+              <mxPoint x="332" y="4015" />
+              <mxPoint x="332" y="4312" />
             </Array>
           </mxGeometry>
         </mxCell>
