@@ -47,7 +47,7 @@
           <mxGeometry x="640" y="65" width="190" height="52" as="geometry" />
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-71" value="D2 管理员表&lt;br&gt;admin" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="1160" y="75" width="190" height="52" as="geometry" />
+          <mxGeometry x="983" y="65" width="190" height="52" as="geometry" />
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-72" value="D3 歌手表&lt;br&gt;singer" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="900" y="220" width="190" height="52" as="geometry" />
@@ -83,9 +83,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="488" y="10" />
-              <mxPoint x="620" y="10" />
-              <mxPoint x="620" y="34" />
-              <mxPoint x="640" y="34" />
+              <mxPoint x="640" y="10" />
               <mxPoint x="640" y="12" />
               <mxPoint x="735" y="12" />
             </Array>
