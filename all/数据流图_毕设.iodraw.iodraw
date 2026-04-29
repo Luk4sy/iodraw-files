@@ -184,7 +184,7 @@
           <mxGeometry x="-439" y="2261" width="125" height="55" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-3" value="注册用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=#70AD47;fontSize=15;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="-225" y="2446" width="125" height="55" as="geometry" />
+          <mxGeometry x="-223" y="2448" width="125" height="55" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-4" value="P1.1&lt;br&gt;&lt;br&gt;用户注册处理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="-631" y="2555" width="175" height="72" as="geometry" />
@@ -199,7 +199,7 @@
           <mxGeometry x="-250" y="1958" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-8" value="P2.1&lt;br&gt;&lt;br&gt;歌手信息维护" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="25" y="1996" width="175" height="72" as="geometry" />
+          <mxGeometry x="-502" y="2932" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-9" value="P2.2&lt;br&gt;&lt;br&gt;歌曲信息维护" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="240" y="1996" width="175" height="72" as="geometry" />
