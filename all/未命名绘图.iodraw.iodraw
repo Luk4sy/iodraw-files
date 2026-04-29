@@ -158,10 +158,10 @@
           <mxGeometry x="-192" y="2994" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-124" value="&lt;br&gt;&lt;br&gt;身份认证处理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="306" y="2656" width="190" height="86" as="geometry" />
+          <mxGeometry x="116" y="2517" width="190" height="86" as="geometry" />
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-125" value="P1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#5B9BD5;strokeColor=#1F4E79;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="306" y="2656" width="190" height="28" as="geometry" />
+          <mxGeometry x="116" y="2517" width="190" height="28" as="geometry" />
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-126" value="&lt;br&gt;&lt;br&gt;音乐资源管理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="306" y="2796" width="190" height="86" as="geometry" />
@@ -221,7 +221,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-145" value="注册/登录信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" parent="1" source="dus5IUf36FupolJb_fNw-123" target="dus5IUf36FupolJb_fNw-124" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-132" y="2920" />
+              <mxPoint x="401" y="2920" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-146" value="用户认证" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" parent="1" source="dus5IUf36FupolJb_fNw-124" target="dus5IUf36FupolJb_fNw-134" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -277,7 +282,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-162" value="评论/收藏/评分" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" parent="1" source="dus5IUf36FupolJb_fNw-123" target="dus5IUf36FupolJb_fNw-130" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="401" y="3040" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-163" value="互动管理" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" parent="1" source="dus5IUf36FupolJb_fNw-122" target="dus5IUf36FupolJb_fNw-130" edge="1">
           <mxGeometry relative="1" as="geometry">
