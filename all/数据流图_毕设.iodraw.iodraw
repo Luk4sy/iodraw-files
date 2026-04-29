@@ -1469,17 +1469,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-517" value="写入收藏(type)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-486" target="XanPveLbpSm5Q2r6mb2O-505">
-          <mxGeometry x="0.483" y="-5" relative="1" as="geometry">
+          <mxGeometry x="0.9388" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="5075" y="1665" />
-              <mxPoint x="5075" y="1616" />
-              <mxPoint x="5349" y="1616" />
+              <mxPoint x="5075" y="1605" />
+              <mxPoint x="5349" y="1605" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-518" value="写入收藏(type)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-488" target="XanPveLbpSm5Q2r6mb2O-505">
-          <mxGeometry x="0.9616" y="13" relative="1" as="geometry">
+          <mxGeometry x="0.9296" y="-1" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4970" y="1604" />
               <mxPoint x="5516" y="1604" />
