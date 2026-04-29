@@ -82,8 +82,8 @@
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-82" value="用户信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="hzpVtTkkclo3Kl-aVXV4-60" target="hzpVtTkkclo3Kl-aVXV4-70">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="814" y="91" />
-              <mxPoint x="814" y="91" />
+              <mxPoint x="488" y="10" />
+              <mxPoint x="995" y="10" />
             </Array>
           </mxGeometry>
         </mxCell>
