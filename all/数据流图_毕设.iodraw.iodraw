@@ -789,8 +789,10 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-203" value="查询歌曲" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=14;strokeColor=#666666;strokeWidth=2;fontStyle=0" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-187" target="XanPveLbpSm5Q2r6mb2O-190">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="85" y="3422" />
-              <mxPoint x="85" y="2953" />
+              <mxPoint x="-225" y="3422" />
+              <mxPoint x="-29" y="3422" />
+              <mxPoint x="-29" y="2890" />
+              <mxPoint x="350" y="2890" />
             </Array>
           </mxGeometry>
         </mxCell>
