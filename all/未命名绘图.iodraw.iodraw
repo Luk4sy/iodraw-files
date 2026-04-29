@@ -182,10 +182,10 @@
           <mxGeometry x="-1966" y="3265" width="190" height="28" as="geometry" />
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-132" value="&lt;br&gt;&lt;br&gt;在线聊天处理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="-2104" y="2798" width="190" height="86" as="geometry" />
+          <mxGeometry x="-1966" y="3435" width="190" height="86" as="geometry" />
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-133" value="P5" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#5B9BD5;strokeColor=#1F4E79;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="-2104" y="2798" width="190" height="28" as="geometry" />
+          <mxGeometry x="-1966" y="3435" width="190" height="28" as="geometry" />
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-134" value="D1 用户表&lt;br&gt;consumer" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="-1433" y="2727" width="190" height="52" as="geometry" />
@@ -246,8 +246,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-2061" y="2684" />
-              <mxPoint x="-2061" y="2620" />
-              <mxPoint x="-1871" y="2620" />
+              <mxPoint x="-2061" y="2718" />
+              <mxPoint x="-1871" y="2718" />
               <mxPoint x="-1871" y="2748" />
               <mxPoint x="-2404" y="2748" />
             </Array>
@@ -348,9 +348,8 @@
         <mxCell id="dus5IUf36FupolJb_fNw-171" value="查询用户" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" parent="1" source="dus5IUf36FupolJb_fNw-132" target="dus5IUf36FupolJb_fNw-134" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dus5IUf36FupolJb_fNw-172" value="用户资料" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" parent="1" target="dus5IUf36FupolJb_fNw-132" edge="1">
+        <mxCell id="dus5IUf36FupolJb_fNw-172" value="用户资料" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" parent="1" source="dus5IUf36FupolJb_fNw-134" target="dus5IUf36FupolJb_fNw-132" edge="1">
           <mxGeometry x="-0.0554" relative="1" as="geometry">
-            <mxPoint x="-1571" y="2116" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
