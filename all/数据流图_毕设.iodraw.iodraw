@@ -948,11 +948,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-325" value="删除歌曲" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-300" target="XanPveLbpSm5Q2r6mb2O-315">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.18" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1632" y="4006" />
-              <mxPoint x="1632" y="3907" />
+              <mxPoint x="1585" y="4006" />
+              <mxPoint x="1585" y="3907" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-326" value="删除关联" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-300" target="XanPveLbpSm5Q2r6mb2O-317">
@@ -1028,11 +1029,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-336" value="查询歌手" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-308" target="XanPveLbpSm5Q2r6mb2O-314">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.8025" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1772" y="4261" />
               <mxPoint x="1772" y="3752" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-337" value="查询歌曲" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-308" target="XanPveLbpSm5Q2r6mb2O-315">
