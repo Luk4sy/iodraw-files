@@ -388,7 +388,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-25" value="注册/登录信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="OXeaosI6LyYsLR3usEuC-3" target="OXeaosI6LyYsLR3usEuC-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="67" y="2137" />
+              <mxPoint x="67" y="1825" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-26" value="用户认证" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="OXeaosI6LyYsLR3usEuC-4" target="OXeaosI6LyYsLR3usEuC-14">
           <mxGeometry x="0.0326" y="-6" relative="1" as="geometry">
@@ -425,7 +430,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-45" y="1877" />
-              <mxPoint x="300" y="1877" />
+              <mxPoint x="354" y="1877" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -484,8 +489,8 @@
         <mxCell id="OXeaosI6LyYsLR3usEuC-43" value="互动管理" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="OXeaosI6LyYsLR3usEuC-2" target="OXeaosI6LyYsLR3usEuC-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-45" y="1903" />
-              <mxPoint x="300" y="1903" />
+              <mxPoint x="-45" y="2036" />
+              <mxPoint x="300" y="2036" />
             </Array>
           </mxGeometry>
         </mxCell>
