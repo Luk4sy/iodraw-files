@@ -553,8 +553,8 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-71" value="互动查询" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=12;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-3" target="XanPveLbpSm5Q2r6mb2O-22">
           <mxGeometry x="0.8894" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-391" y="2709" />
-              <mxPoint x="-69" y="2709" />
+              <mxPoint x="-391" y="2727" />
+              <mxPoint x="-69" y="2727" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -582,8 +582,7 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-75" value="评分数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=12;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-21" target="XanPveLbpSm5Q2r6mb2O-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-191" y="2740" />
-              <mxPoint x="203" y="2740" />
+              <mxPoint x="-191" y="2732" />
             </Array>
           </mxGeometry>
         </mxCell>
