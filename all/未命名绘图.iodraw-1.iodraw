@@ -29,10 +29,10 @@
           <mxGeometry x="259" y="363" width="200" height="28" as="geometry" />
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-196" value="&lt;br&gt;&lt;br&gt;用户互动处理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="547" y="597" width="200" height="86" as="geometry" />
+          <mxGeometry x="547" y="582" width="200" height="86" as="geometry" />
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-197" value="P4" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#5B9BD5;strokeColor=#1F4E79;fontColor=#FFFFFF;fontStyle=1;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="547" y="597" width="200" height="28" as="geometry" />
+          <mxGeometry x="547" y="582" width="200" height="28" as="geometry" />
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-198" value="&lt;br&gt;&lt;br&gt;在线聊天处理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="390" y="760" width="200" height="86" as="geometry" />
@@ -145,7 +145,8 @@
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-225" value="互动管理" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="hzpVtTkkclo3Kl-aVXV4-188" target="hzpVtTkkclo3Kl-aVXV4-196">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="322" />
+              <mxPoint x="5" y="236" />
+              <mxPoint x="5" y="322" />
               <mxPoint x="7" y="322" />
               <mxPoint x="7" y="687" />
               <mxPoint x="647" y="687" />
