@@ -421,9 +421,8 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-57" value="歌单查询" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=12;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-3" target="XanPveLbpSm5Q2r6mb2O-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-390" y="2532" />
-              <mxPoint x="236" y="2532" />
-              <mxPoint x="236" y="2406" />
+              <mxPoint x="-390" y="2854" />
+              <mxPoint x="-555" y="2854" />
             </Array>
           </mxGeometry>
         </mxCell>
