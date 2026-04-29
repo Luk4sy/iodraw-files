@@ -238,7 +238,7 @@
           <mxGeometry x="187" y="2487" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-21" value="P4.4&lt;br&gt;&lt;br&gt;评分处理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="187" y="2657" width="175" height="72" as="geometry" />
+          <mxGeometry x="-363" y="2813" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-22" value="P4.5&lt;br&gt;&lt;br&gt;互动数据查询" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="187" y="2743" width="175" height="72" as="geometry" />
@@ -545,7 +545,7 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-70" value="评分信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=12;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-3" target="XanPveLbpSm5Q2r6mb2O-21">
           <mxGeometry x="0.8859" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-391" y="2704" />
+              <mxPoint x="-391" y="2710" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
