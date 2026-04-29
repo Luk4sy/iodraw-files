@@ -202,10 +202,10 @@
           <mxGeometry x="-301" y="2040" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-9" value="P2.2&lt;br&gt;&lt;br&gt;歌曲信息维护" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="-43" y="2040" width="175" height="72" as="geometry" />
+          <mxGeometry x="-105" y="2040" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-10" value="P2.3&lt;br&gt;&lt;br&gt;歌单信息维护" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="164" y="2040" width="175" height="72" as="geometry" />
+          <mxGeometry x="135" y="2044" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-11" value="P2.4&lt;br&gt;&lt;br&gt;歌单歌曲关联维护" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="310" y="2244" width="175" height="72" as="geometry" />
@@ -392,7 +392,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-60" value="歌手信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=12;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-13" target="XanPveLbpSm5Q2r6mb2O-29">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="675" y="2352" />
+              <mxPoint x="675" y="1868" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-61" value="歌曲信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=12;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-14" target="XanPveLbpSm5Q2r6mb2O-30">
           <mxGeometry relative="1" as="geometry">
