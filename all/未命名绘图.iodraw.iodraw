@@ -405,7 +405,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-29" value="验证结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="OXeaosI6LyYsLR3usEuC-4" target="OXeaosI6LyYsLR3usEuC-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-45" y="1782" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-30" value="资源维护请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="OXeaosI6LyYsLR3usEuC-2" target="OXeaosI6LyYsLR3usEuC-6">
           <mxGeometry relative="1" as="geometry" />
@@ -445,7 +449,8 @@
         <mxCell id="OXeaosI6LyYsLR3usEuC-38" value="查询歌曲" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="OXeaosI6LyYsLR3usEuC-8" target="OXeaosI6LyYsLR3usEuC-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1145" y="2105" />
+              <mxPoint x="945" y="2105" />
+              <mxPoint x="945" y="1923" />
             </Array>
           </mxGeometry>
         </mxCell>
