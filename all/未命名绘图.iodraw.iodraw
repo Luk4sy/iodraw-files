@@ -170,10 +170,10 @@
           <mxGeometry x="-2156" y="2977" width="190" height="28" as="geometry" />
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-128" value="&lt;br&gt;&lt;br&gt;音乐资源检索与播放" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="-1966" y="3105" width="190" height="86" as="geometry" />
+          <mxGeometry x="-2150" y="3103" width="190" height="86" as="geometry" />
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-129" value="P3" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#5B9BD5;strokeColor=#1F4E79;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="-1966" y="3105" width="190" height="28" as="geometry" />
+          <mxGeometry x="-2150" y="3103" width="190" height="28" as="geometry" />
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-130" value="&lt;br&gt;&lt;br&gt;用户互动处理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="-1966" y="3265" width="190" height="86" as="geometry" />
@@ -279,7 +279,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-161" value="播放内容" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" parent="1" source="dus5IUf36FupolJb_fNw-128" target="dus5IUf36FupolJb_fNw-123" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2404" y="3146" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-162" value="评论/收藏/评分" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" parent="1" source="dus5IUf36FupolJb_fNw-123" target="dus5IUf36FupolJb_fNw-130" edge="1">
           <mxGeometry relative="1" as="geometry">
