@@ -1570,6 +1570,10 @@
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-529" value="读取评分" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-500" target="XanPveLbpSm5Q2r6mb2O-507">
           <mxGeometry x="0.5775" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5152" y="2081" />
+              <mxPoint x="5152" y="2081" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1577,11 +1581,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-531" value="查询歌单" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-498" target="XanPveLbpSm5Q2r6mb2O-509">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.8786" y="-3" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="5250" y="2109" />
               <mxPoint x="5250" y="2324" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-532" value="查询关联" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-498" target="XanPveLbpSm5Q2r6mb2O-510">
