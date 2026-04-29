@@ -238,7 +238,7 @@
           <mxGeometry x="187" y="2487" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-21" value="P4.4&lt;br&gt;&lt;br&gt;评分处理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="215" y="2833" width="175" height="72" as="geometry" />
+          <mxGeometry x="-3" y="2830" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-22" value="P4.5&lt;br&gt;&lt;br&gt;互动数据查询" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="-378" y="2833" width="175" height="72" as="geometry" />
@@ -590,7 +590,7 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-76" value="互动记录" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=12;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-22" target="XanPveLbpSm5Q2r6mb2O-33">
           <mxGeometry x="0.8413" y="2" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="51" y="2714" />
+              <mxPoint x="-260" y="2714" />
               <mxPoint x="-108" y="2714" />
             </Array>
             <mxPoint as="offset" />
@@ -608,7 +608,7 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-78" value="评分记录" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=12;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-22" target="XanPveLbpSm5Q2r6mb2O-35">
           <mxGeometry x="0.7795" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-291" y="2791" />
+              <mxPoint x="-298" y="2791" />
               <mxPoint x="-295" y="2791" />
               <mxPoint x="-295" y="2709" />
             </Array>
