@@ -1038,11 +1038,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-336" value="查询歌手" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-308" target="XanPveLbpSm5Q2r6mb2O-314">
-          <mxGeometry x="0.2958" y="-1" relative="1" as="geometry">
+          <mxGeometry x="0.8162" y="-2" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1842" y="3749" />
-              <mxPoint x="2224" y="3749" />
-              <mxPoint x="2224" y="3835" />
+              <mxPoint x="1842" y="3833" />
+              <mxPoint x="1847" y="3833" />
+              <mxPoint x="1847" y="3835" />
               <mxPoint x="2053" y="3835" />
             </Array>
             <mxPoint as="offset" />
