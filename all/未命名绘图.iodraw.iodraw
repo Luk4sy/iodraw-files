@@ -461,7 +461,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-36" value="检索/播放请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="OXeaosI6LyYsLR3usEuC-3" target="OXeaosI6LyYsLR3usEuC-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.5635" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="2137" />
+              <mxPoint x="110" y="2075" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-37" value="查询歌手" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="OXeaosI6LyYsLR3usEuC-8" target="OXeaosI6LyYsLR3usEuC-16">
           <mxGeometry relative="1" as="geometry" />
@@ -481,10 +487,20 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-41" value="播放内容" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="OXeaosI6LyYsLR3usEuC-8" target="OXeaosI6LyYsLR3usEuC-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="164" y="2137" />
+              <mxPoint x="164" y="2137" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-42" value="评论/收藏/评分" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="OXeaosI6LyYsLR3usEuC-3" target="OXeaosI6LyYsLR3usEuC-10">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-45" y="2178" />
+              <mxPoint x="300" y="2178" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-43" value="互动管理" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="OXeaosI6LyYsLR3usEuC-2" target="OXeaosI6LyYsLR3usEuC-10">
           <mxGeometry relative="1" as="geometry">
