@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="学生在线音乐平台0层数据流图" id="LmoSqTHsvGlPEPyRTp60">
-    <mxGraphModel dx="3038" dy="1069" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4324" dy="1818" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -474,8 +474,8 @@
           <mxGeometry x="0.9674" y="-4" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-555" y="2890" />
-              <mxPoint x="888" y="2890" />
-              <mxPoint x="888" y="2823" />
+              <mxPoint x="-1177" y="2890" />
+              <mxPoint x="-1177" y="2823" />
               <mxPoint x="-332" y="2823" />
               <mxPoint x="-332" y="1850" />
             </Array>
