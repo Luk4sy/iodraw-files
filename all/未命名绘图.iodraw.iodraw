@@ -194,7 +194,7 @@
           <mxGeometry x="-1186" y="2805" width="190" height="52" as="geometry" />
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-136" value="D3 歌手表&lt;br&gt;singer" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="-1720" y="2888" width="190" height="52" as="geometry" />
+          <mxGeometry x="-1821" y="2825" width="190" height="52" as="geometry" />
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-137" value="D4 歌曲表&lt;br&gt;song" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="-1186" y="2940" width="190" height="52" as="geometry" />
@@ -266,8 +266,8 @@
         <mxCell id="dus5IUf36FupolJb_fNw-156" value="检索/播放请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" parent="1" source="dus5IUf36FupolJb_fNw-123" target="dus5IUf36FupolJb_fNw-128" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-2247" y="3188" />
-              <mxPoint x="-2247" y="3173" />
+              <mxPoint x="-2292" y="3173" />
+              <mxPoint x="-2292" y="3173" />
             </Array>
           </mxGeometry>
         </mxCell>
