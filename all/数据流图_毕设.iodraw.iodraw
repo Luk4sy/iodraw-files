@@ -1264,8 +1264,8 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-425" value="收藏行为" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-402" target="XanPveLbpSm5Q2r6mb2O-406">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3239" y="2216" />
-              <mxPoint x="3239" y="1807" />
+              <mxPoint x="3151" y="2216" />
+              <mxPoint x="3151" y="1833" />
             </Array>
           </mxGeometry>
         </mxCell>
