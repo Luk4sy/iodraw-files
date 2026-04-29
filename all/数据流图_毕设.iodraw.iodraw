@@ -800,11 +800,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-205" value="查询关联" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=14;strokeColor=#666666;strokeWidth=2;fontStyle=0" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-187" target="XanPveLbpSm5Q2r6mb2O-192">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.871" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="145" y="3422" />
-              <mxPoint x="145" y="3233" />
+              <mxPoint x="352" y="3340" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-206" value="歌手信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=14;strokeColor=#666666;strokeWidth=2;fontStyle=0" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-189" target="XanPveLbpSm5Q2r6mb2O-187">
