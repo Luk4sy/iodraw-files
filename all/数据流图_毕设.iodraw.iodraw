@@ -1438,17 +1438,17 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-513" value="写入评论(type)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-482" target="XanPveLbpSm5Q2r6mb2O-504">
           <mxGeometry x="0.5217" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="5075" y="1535" />
-              <mxPoint x="5075" y="1514" />
+              <mxPoint x="4710" y="1475" />
+              <mxPoint x="5347" y="1475" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-514" value="写入评论(type)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-484" target="XanPveLbpSm5Q2r6mb2O-504">
-          <mxGeometry x="0.9345" relative="1" as="geometry">
+          <mxGeometry x="0.9383" y="53" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4970" y="1475" />
-              <mxPoint x="5440" y="1475" />
+              <mxPoint x="5493" y="1475" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
