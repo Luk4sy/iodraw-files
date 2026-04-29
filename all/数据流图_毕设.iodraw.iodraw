@@ -398,7 +398,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-53" value="关联数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=18;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-11" target="XanPveLbpSm5Q2r6mb2O-32">
-          <mxGeometry x="0.9074" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -473,7 +473,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-62" value="歌单信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=18;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-15" target="XanPveLbpSm5Q2r6mb2O-31">
-          <mxGeometry x="0.6938" y="6" relative="1" as="geometry">
+          <mxGeometry x="0.7051" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="376" y="1374" />
             </Array>
