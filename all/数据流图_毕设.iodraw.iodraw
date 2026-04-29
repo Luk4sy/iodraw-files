@@ -1538,12 +1538,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-527" value="推荐请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-480" target="XanPveLbpSm5Q2r6mb2O-500">
-          <mxGeometry x="0.9694" relative="1" as="geometry">
+          <mxGeometry x="0.9501" y="-2" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4339" y="1853" />
-              <mxPoint x="4520" y="1853" />
-              <mxPoint x="4520" y="2182" />
-              <mxPoint x="4970" y="2182" />
+              <mxPoint x="4339" y="2200" />
+              <mxPoint x="4970" y="2200" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
