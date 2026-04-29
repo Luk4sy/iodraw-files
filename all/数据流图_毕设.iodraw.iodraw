@@ -1472,7 +1472,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-518" value="写入收藏(type)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-488" target="XanPveLbpSm5Q2r6mb2O-505">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5205" y="1642" />
+              <mxPoint x="5205" y="1616" />
+              <mxPoint x="5440" y="1616" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-519" value="连接请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-480" target="XanPveLbpSm5Q2r6mb2O-490">
           <mxGeometry relative="1" as="geometry">
