@@ -1075,8 +1075,7 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-340" value="查询歌曲" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-310" target="XanPveLbpSm5Q2r6mb2O-315">
           <mxGeometry x="0.934" y="-3" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1393" y="4431" />
-              <mxPoint x="1393" y="3945" />
+              <mxPoint x="1795" y="3945" />
               <mxPoint x="1517" y="3945" />
             </Array>
             <mxPoint as="offset" />
