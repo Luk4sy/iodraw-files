@@ -822,7 +822,7 @@
           <mxGeometry x="852" y="3858" width="130" height="56" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-295" value="注册用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=#70AD47;fontSize=16;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="852" y="4363" width="130" height="56" as="geometry" />
+          <mxGeometry x="1823" y="4317" width="130" height="56" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-296" value="&lt;br&gt;&lt;br&gt;上传歌曲" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=16;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1162" y="3713" width="210" height="86" as="geometry" />
@@ -1027,7 +1027,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-334" value="歌单详情请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-295" target="XanPveLbpSm5Q2r6mb2O-310">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.942" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-335" value="搜索/播放请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-295" target="XanPveLbpSm5Q2r6mb2O-312">
           <mxGeometry relative="1" as="geometry">
