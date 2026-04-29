@@ -77,7 +77,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-211" value="登录/注册信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="hzpVtTkkclo3Kl-aVXV4-189" target="hzpVtTkkclo3Kl-aVXV4-190">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-41" y="556" />
+              <mxPoint x="-41" y="133" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-212" value="用户信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="hzpVtTkkclo3Kl-aVXV4-190" target="hzpVtTkkclo3Kl-aVXV4-200">
           <mxGeometry relative="1" as="geometry" />
@@ -101,7 +106,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-219" value="检索/播放请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="hzpVtTkkclo3Kl-aVXV4-189" target="hzpVtTkkclo3Kl-aVXV4-194">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="22" y="556" />
+              <mxPoint x="22" y="453" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-220" value="音乐查询" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="hzpVtTkkclo3Kl-aVXV4-194" target="hzpVtTkkclo3Kl-aVXV4-202">
           <mxGeometry relative="1" as="geometry" />
