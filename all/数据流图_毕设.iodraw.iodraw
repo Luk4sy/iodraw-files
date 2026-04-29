@@ -1489,11 +1489,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-519" value="连接请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-480" target="XanPveLbpSm5Q2r6mb2O-490">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.594" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4490" y="1750" />
               <mxPoint x="4490" y="1825" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-520" value="会话信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-490" target="XanPveLbpSm5Q2r6mb2O-492">
