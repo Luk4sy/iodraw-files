@@ -984,11 +984,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-329" value="歌单删除请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-294" target="XanPveLbpSm5Q2r6mb2O-306">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.5038" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="752" y="3886" />
-              <mxPoint x="752" y="4401" />
+              <mxPoint x="917" y="4336" />
+              <mxPoint x="1267" y="4336" />
             </Array>
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-330" value="写入歌单" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-302" target="XanPveLbpSm5Q2r6mb2O-316">
