@@ -800,9 +800,9 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-204" value="查询歌单" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=14;strokeColor=#666666;strokeWidth=2;fontStyle=0" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-187" target="XanPveLbpSm5Q2r6mb2O-191">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-225" y="3026" />
-              <mxPoint x="201" y="3026" />
-              <mxPoint x="201" y="3093" />
+              <mxPoint x="-64" y="3340" />
+              <mxPoint x="-64" y="3026" />
+              <mxPoint x="352" y="3026" />
             </Array>
           </mxGeometry>
         </mxCell>
