@@ -238,11 +238,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-127" value="管理员信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666;exitX=1;exitY=0.65;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hzpVtTkkclo3Kl-aVXV4-104" target="hzpVtTkkclo3Kl-aVXV4-115">
-          <mxGeometry x="0.3693" relative="1" as="geometry">
+          <mxGeometry x="-0.057" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="548" y="1794" />
-              <mxPoint x="645" y="1794" />
-              <mxPoint x="645" y="1773" />
+              <mxPoint x="743" y="1794" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
