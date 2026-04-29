@@ -246,8 +246,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-2061" y="2684" />
-              <mxPoint x="-2061" y="2718" />
-              <mxPoint x="-1871" y="2718" />
+              <mxPoint x="-2061" y="2620" />
+              <mxPoint x="-1871" y="2620" />
               <mxPoint x="-1871" y="2748" />
               <mxPoint x="-2404" y="2748" />
             </Array>
@@ -350,6 +350,10 @@
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-172" value="用户资料" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" parent="1" source="dus5IUf36FupolJb_fNw-134" target="dus5IUf36FupolJb_fNw-132" edge="1">
           <mxGeometry x="-0.0554" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2489" y="2753" />
+              <mxPoint x="-2489" y="3478" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
