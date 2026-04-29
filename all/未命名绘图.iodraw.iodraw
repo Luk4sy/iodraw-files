@@ -317,7 +317,7 @@
           <mxGeometry x="-335" y="1936" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-3" value="注册用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=#70AD47;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-105" y="2112" width="120" height="50" as="geometry" />
+          <mxGeometry x="-341" y="2086" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-4" value="&lt;br&gt;&lt;br&gt;身份认证处理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="205" y="1782" width="190" height="86" as="geometry" />
@@ -490,8 +490,9 @@
         <mxCell id="OXeaosI6LyYsLR3usEuC-41" value="播放内容" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="OXeaosI6LyYsLR3usEuC-8" target="OXeaosI6LyYsLR3usEuC-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="164" y="2137" />
-              <mxPoint x="164" y="2137" />
+              <mxPoint x="185" y="2105" />
+              <mxPoint x="185" y="2233" />
+              <mxPoint x="-281" y="2233" />
             </Array>
           </mxGeometry>
         </mxCell>
