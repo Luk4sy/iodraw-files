@@ -1096,17 +1096,18 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-342" value="搜索歌单" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-312" target="XanPveLbpSm5Q2r6mb2O-316">
           <mxGeometry x="0.8807" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1724" y="4463" />
-              <mxPoint x="1671" y="4463" />
+              <mxPoint x="1610" y="4343" />
+              <mxPoint x="1610" y="4343" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-343" value="查询结果/播放信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-312" target="XanPveLbpSm5Q2r6mb2O-295">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.4591" y="-4" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1918" y="4598" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
