@@ -518,9 +518,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-68" value="评论管理" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=12;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-2" target="XanPveLbpSm5Q2r6mb2O-19">
-          <mxGeometry x="0.9499" relative="1" as="geometry">
+          <mxGeometry x="0.6626" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-390" y="2577" />
+              <mxPoint x="-315" y="2363" />
+              <mxPoint x="-315" y="2577" />
               <mxPoint x="140" y="2577" />
             </Array>
             <mxPoint as="offset" />
