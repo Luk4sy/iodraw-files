@@ -1574,12 +1574,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-533" value="查询歌单" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-500" target="XanPveLbpSm5Q2r6mb2O-509">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.833" y="3" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4970" y="2199" />
-              <mxPoint x="5278" y="2199" />
-              <mxPoint x="5278" y="2301" />
+              <mxPoint x="5104" y="2115" />
+              <mxPoint x="5104" y="2199" />
+              <mxPoint x="5251" y="2199" />
+              <mxPoint x="5251" y="2301" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-534" value="推荐结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-498" target="XanPveLbpSm5Q2r6mb2O-480">
