@@ -389,14 +389,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-52" value="歌单数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=12;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-10" target="XanPveLbpSm5Q2r6mb2O-31">
-          <mxGeometry x="0.9604" relative="1" as="geometry">
+          <mxGeometry x="0.936" y="-3" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="138" y="2294" />
               <mxPoint x="-300" y="2294" />
               <mxPoint x="-300" y="2979" />
               <mxPoint x="-552" y="2979" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-53" value="关联数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=12;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-11" target="XanPveLbpSm5Q2r6mb2O-32">
@@ -433,7 +433,8 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-57" value="歌单查询" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=12;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-3" target="XanPveLbpSm5Q2r6mb2O-15">
           <mxGeometry x="0.8039" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-390" y="2768" />
+              <mxPoint x="-391" y="2477" />
+              <mxPoint x="279" y="2477" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -473,7 +474,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-62" value="歌单信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=12;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-15" target="XanPveLbpSm5Q2r6mb2O-31">
-          <mxGeometry x="0.6348" y="3" relative="1" as="geometry">
+          <mxGeometry x="0.6938" y="6" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="282" y="1920" />
             </Array>
