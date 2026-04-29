@@ -991,10 +991,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-330" value="写入歌单" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-302" target="XanPveLbpSm5Q2r6mb2O-316">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0035" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1553" y="4128" />
+              <mxPoint x="1553" y="4126" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-331" value="更新歌单" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-304" target="XanPveLbpSm5Q2r6mb2O-316">
