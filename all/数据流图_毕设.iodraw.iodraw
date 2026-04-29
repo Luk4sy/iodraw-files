@@ -1020,9 +1020,10 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-333" value="歌手详情请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-295" target="XanPveLbpSm5Q2r6mb2O-308">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1888" y="4224" />
-              <mxPoint x="2019" y="4224" />
-              <mxPoint x="2019" y="3941" />
+              <mxPoint x="2021" y="4345" />
+              <mxPoint x="2021" y="4224" />
+              <mxPoint x="2004" y="4224" />
+              <mxPoint x="2004" y="3941" />
               <mxPoint x="2021" y="3941" />
               <mxPoint x="2021" y="3884" />
             </Array>
