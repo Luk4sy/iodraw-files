@@ -952,8 +952,8 @@
           <mxGeometry x="0.8756" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2148" y="4006" />
-              <mxPoint x="2148" y="3948" />
-              <mxPoint x="1563" y="3948" />
+              <mxPoint x="2148" y="3935" />
+              <mxPoint x="1600" y="3935" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1051,8 +1051,8 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-337" value="查询歌曲" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-308" target="XanPveLbpSm5Q2r6mb2O-315">
           <mxGeometry x="0.8732" y="-19" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2325" y="3931" />
-              <mxPoint x="1563" y="3931" />
+              <mxPoint x="2325" y="3982" />
+              <mxPoint x="1563" y="3982" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
