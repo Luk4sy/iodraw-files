@@ -707,10 +707,10 @@
           <mxGeometry x="-335" y="3199" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-187" value="&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;音乐资源浏览查询" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=14;strokeWidth=2;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="-335" y="3379" width="220" height="86" as="geometry" />
+          <mxGeometry x="-335" y="3297" width="220" height="86" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-188" value="P5" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#5B9BD5;strokeColor=#1F4E79;fontColor=#FFFFFF;fontStyle=0;fontSize=14;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="-335" y="3379" width="220" height="30" as="geometry" />
+          <mxGeometry x="-335" y="3297" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-189" value="D3 歌手表&lt;br style=&quot;font-size: 14px;&quot;&gt;singer" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=14;strokeWidth=2;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="245" y="2784" width="210" height="58" as="geometry" />
@@ -769,7 +769,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-201" value="浏览查询请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=14;strokeColor=#666666;strokeWidth=2;fontStyle=0" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-178" target="XanPveLbpSm5Q2r6mb2O-187">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-485" y="3387" />
+              <mxPoint x="-485" y="3322" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-202" value="查询歌手" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=14;strokeColor=#666666;strokeWidth=2;fontStyle=0" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-187" target="XanPveLbpSm5Q2r6mb2O-189">
           <mxGeometry relative="1" as="geometry">
