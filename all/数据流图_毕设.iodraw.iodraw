@@ -238,10 +238,10 @@
           <mxGeometry x="187" y="2487" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-21" value="P4.4&lt;br&gt;&lt;br&gt;评分处理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="-3" y="2830" width="175" height="72" as="geometry" />
+          <mxGeometry x="89" y="2812" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-22" value="P4.5&lt;br&gt;&lt;br&gt;互动数据查询" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="-378" y="2833" width="175" height="72" as="geometry" />
+          <mxGeometry x="-288" y="2812" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-23" value="P5.1&lt;br&gt;&lt;br&gt;聊天消息发送" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="25" y="2986" width="175" height="72" as="geometry" />
@@ -554,7 +554,7 @@
           <mxGeometry x="0.8894" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-391" y="2772" />
-              <mxPoint x="-359" y="2772" />
+              <mxPoint x="-369" y="2772" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
