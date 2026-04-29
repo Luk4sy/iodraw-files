@@ -885,10 +885,10 @@
           <mxGeometry x="1493" y="3866" width="220" height="58" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-316" value="D5 歌单表&lt;br&gt;song_list" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=15;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1488" y="4163" width="220" height="58" as="geometry" />
+          <mxGeometry x="1731" y="4899" width="220" height="58" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-317" value="D6 歌单歌曲关联表&lt;br&gt;list_song" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=15;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1727" y="4167" width="220" height="58" as="geometry" />
+          <mxGeometry x="2103" y="4920" width="220" height="58" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-318" value="本地资源目录：song/、img/songPic/&#xa;文件本体存储位置，非数据库表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=#C65911;fontSize=14;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1685" y="3716" width="240" height="72" as="geometry" />
@@ -1072,7 +1072,7 @@
             <Array as="points">
               <mxPoint x="1717" y="4411" />
               <mxPoint x="1717" y="3970" />
-              <mxPoint x="1974" y="3970" />
+              <mxPoint x="1513" y="3970" />
             </Array>
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
