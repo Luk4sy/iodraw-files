@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="学生在线音乐平台0层数据流图" id="NMiGiEfOhs5aAiJS1VFx">
-    <mxGraphModel dx="1808" dy="586" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2220" dy="826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,7 +155,7 @@
           <mxGeometry x="-121" y="2688" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-123" value="注册用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=#70AD47;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-4" y="2986" width="120" height="50" as="geometry" />
+          <mxGeometry x="-192" y="2994" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-124" value="&lt;br&gt;&lt;br&gt;身份认证处理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="306" y="2656" width="190" height="86" as="geometry" />
@@ -300,7 +300,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-168" value="聊天消息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" parent="1" source="dus5IUf36FupolJb_fNw-123" target="dus5IUf36FupolJb_fNw-132" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-132" y="3063" />
+              <mxPoint x="401" y="3063" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-169" value="保存消息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" parent="1" source="dus5IUf36FupolJb_fNw-132" target="dus5IUf36FupolJb_fNw-143" edge="1">
           <mxGeometry relative="1" as="geometry" />
