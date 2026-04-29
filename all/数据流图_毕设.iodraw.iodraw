@@ -1378,10 +1378,10 @@
           <mxGeometry x="4860" y="1912" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-498" value="&lt;br&gt;&lt;br&gt;基于收藏的推荐" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=15;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="4600" y="2072" width="220" height="86" as="geometry" />
+          <mxGeometry x="4600" y="2066" width="220" height="86" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-499" value="P6.1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#5B9BD5;strokeColor=#1F4E79;fontColor=#FFFFFF;fontStyle=1;fontSize=16;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="4600" y="2072" width="220" height="30" as="geometry" />
+          <mxGeometry x="4600" y="2066" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-500" value="&lt;br&gt;&lt;br&gt;基于评分的推荐" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=15;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="4860" y="2072" width="220" height="86" as="geometry" />
@@ -1574,7 +1574,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4550" y="2115" />
-              <mxPoint x="4550" y="1760" />
+              <mxPoint x="4550" y="1750" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1582,7 +1582,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4575" y="2115" />
-              <mxPoint x="4575" y="1760" />
+              <mxPoint x="4575" y="1771" />
             </Array>
           </mxGeometry>
         </mxCell>
