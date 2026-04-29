@@ -1182,7 +1182,7 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-411" value="注册登录信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-390" target="XanPveLbpSm5Q2r6mb2O-392">
           <mxGeometry x="0.7696" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2719" y="1791" />
+              <mxPoint x="2719" y="1773" />
               <mxPoint x="2719" y="1546" />
             </Array>
             <mxPoint as="offset" />
@@ -1235,7 +1235,7 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-419" value="评分信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-390" target="XanPveLbpSm5Q2r6mb2O-398">
           <mxGeometry x="0.6889" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2719" y="1791" />
+              <mxPoint x="2719" y="1773" />
               <mxPoint x="2719" y="1936" />
             </Array>
             <mxPoint as="offset" />
@@ -1269,8 +1269,8 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-424" value="推荐请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-390" target="XanPveLbpSm5Q2r6mb2O-402">
           <mxGeometry x="0.7439" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2637" y="1773" />
-              <mxPoint x="2637" y="2216" />
+              <mxPoint x="2720" y="1773" />
+              <mxPoint x="2720" y="2216" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
