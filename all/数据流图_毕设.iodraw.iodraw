@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="学生在线音乐平台0层数据流图" id="LmoSqTHsvGlPEPyRTp60">
-    <mxGraphModel dx="2362" dy="1309" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1321" dy="703" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1020,9 +1020,9 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-333" value="歌手详情请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-295" target="XanPveLbpSm5Q2r6mb2O-308">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1888" y="4391" />
-              <mxPoint x="2236" y="4391" />
-              <mxPoint x="2236" y="3941" />
+              <mxPoint x="1888" y="4224" />
+              <mxPoint x="2019" y="4224" />
+              <mxPoint x="2019" y="3941" />
               <mxPoint x="2021" y="3941" />
               <mxPoint x="2021" y="3884" />
             </Array>
@@ -1030,6 +1030,10 @@
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-334" value="歌单详情请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-295" target="XanPveLbpSm5Q2r6mb2O-310">
           <mxGeometry x="0.942" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1885" y="4186" />
+              <mxPoint x="1886" y="4186" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
