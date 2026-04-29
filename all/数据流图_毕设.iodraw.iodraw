@@ -991,14 +991,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-330" value="写入歌单" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-302" target="XanPveLbpSm5Q2r6mb2O-316">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1553" y="4128" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-331" value="更新歌单" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-304" target="XanPveLbpSm5Q2r6mb2O-316">
           <mxGeometry x="0.8983" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1418" y="4276" />
-              <mxPoint x="1418" y="4162" />
-              <mxPoint x="1619" y="4162" />
+              <mxPoint x="1418" y="4125" />
+              <mxPoint x="1619" y="4125" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
