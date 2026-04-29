@@ -190,13 +190,13 @@
           <mxGeometry x="-631" y="2555" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-5" value="P1.2&lt;br&gt;&lt;br&gt;用户登录处理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="-1171" y="1742" width="175" height="72" as="geometry" />
+          <mxGeometry x="-248" y="2660" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-6" value="P1.3&lt;br&gt;&lt;br&gt;管理员登录处理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="-536" y="2040" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-7" value="P1.4&lt;br&gt;&lt;br&gt;用户信息维护" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="-316" y="1880" width="175" height="72" as="geometry" />
+          <mxGeometry x="-252" y="1930" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-8" value="P2.1&lt;br&gt;&lt;br&gt;歌手信息维护" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="25" y="1996" width="175" height="72" as="geometry" />
