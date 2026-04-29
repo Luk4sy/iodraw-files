@@ -545,9 +545,9 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-70" value="评分信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=12;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-3" target="XanPveLbpSm5Q2r6mb2O-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-391" y="2962" />
-              <mxPoint x="439" y="2962" />
-              <mxPoint x="439" y="2696" />
+              <mxPoint x="-391" y="2729" />
+              <mxPoint x="181" y="2729" />
+              <mxPoint x="181" y="2696" />
             </Array>
           </mxGeometry>
         </mxCell>
