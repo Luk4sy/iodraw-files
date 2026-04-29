@@ -727,8 +727,9 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-193" value="歌手维护信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=14;strokeColor=#666666;strokeWidth=2;fontStyle=0" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-177" target="XanPveLbpSm5Q2r6mb2O-179">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-475" y="2972" />
-              <mxPoint x="-475" y="2822" />
+              <mxPoint x="-540" y="2972" />
+              <mxPoint x="-540" y="2737" />
+              <mxPoint x="-225" y="2737" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -736,7 +737,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-445" y="2972" />
-              <mxPoint x="-445" y="2962" />
+              <mxPoint x="-445" y="2974" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -862,10 +863,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-211" value="维护结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=14;strokeColor=#666666;strokeWidth=2;fontStyle=0" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-179" target="XanPveLbpSm5Q2r6mb2O-177">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.7156" y="-4" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-635" y="2822" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-212" value="维护结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=14;strokeColor=#666666;strokeWidth=2;fontStyle=0" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-183" target="XanPveLbpSm5Q2r6mb2O-177">
