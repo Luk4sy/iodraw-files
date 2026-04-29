@@ -211,7 +211,7 @@
           <mxGeometry x="512" y="2214" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-12" value="P2.5&lt;br&gt;&lt;br&gt;音乐资源文件管理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="294" y="2040" width="175" height="72" as="geometry" />
+          <mxGeometry x="496" y="2048" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-13" value="P3.1&lt;br&gt;&lt;br&gt;歌手信息查询" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="25" y="2316" width="175" height="72" as="geometry" />
@@ -411,8 +411,8 @@
             <Array as="points">
               <mxPoint x="327" y="2192" />
               <mxPoint x="225" y="2192" />
-              <mxPoint x="225" y="1972" />
-              <mxPoint x="10" y="1972" />
+              <mxPoint x="225" y="2276" />
+              <mxPoint x="10" y="2276" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
