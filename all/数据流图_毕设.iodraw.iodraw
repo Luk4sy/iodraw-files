@@ -532,7 +532,7 @@
           <mxGeometry x="0.9327" y="-3" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-390" y="2627" />
-              <mxPoint x="413" y="2627" />
+              <mxPoint x="348" y="2627" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -562,11 +562,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-73" value="评论维护" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=12;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-19" target="XanPveLbpSm5Q2r6mb2O-33">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.6911" y="-2" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="222" y="2523" />
-              <mxPoint x="222" y="2686" />
+              <mxPoint x="152" y="2686" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-74" value="收藏数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=12;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-20" target="XanPveLbpSm5Q2r6mb2O-34">
