@@ -1201,10 +1201,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-414" value="评论管理" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-391" target="XanPveLbpSm5Q2r6mb2O-394">
-          <mxGeometry x="0.7909" y="20" relative="1" as="geometry">
+          <mxGeometry x="0.8431" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2656" y="2051" />
-              <mxPoint x="2656" y="1676" />
+              <mxPoint x="2656" y="1657" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1249,11 +1249,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-423" value="实时消息/历史记录" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-400" target="XanPveLbpSm5Q2r6mb2O-390">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.849" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2749" y="2066" />
+              <mxPoint x="2749" y="2034" />
               <mxPoint x="2749" y="1791" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-424" value="推荐请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-390" target="XanPveLbpSm5Q2r6mb2O-402">
