@@ -20,10 +20,10 @@
           <mxGeometry x="388" y="48" width="200" height="28" as="geometry" />
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-62" value="&lt;br&gt;&lt;br&gt;音乐资源管理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="510" y="267" width="200" height="86" as="geometry" />
+          <mxGeometry x="524" y="277" width="200" height="86" as="geometry" />
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-63" value="P2" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#5B9BD5;strokeColor=#1F4E79;fontColor=#FFFFFF;fontStyle=1;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="510" y="267" width="200" height="28" as="geometry" />
+          <mxGeometry x="524" y="277" width="200" height="28" as="geometry" />
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-64" value="&lt;br&gt;&lt;br&gt;音乐资源检索与播放" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="390" y="410" width="200" height="86" as="geometry" />
