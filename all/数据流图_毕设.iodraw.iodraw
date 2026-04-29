@@ -1239,7 +1239,8 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-421" value="聊天消息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-390" target="XanPveLbpSm5Q2r6mb2O-400">
           <mxGeometry x="0.8269" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2803" y="1791" />
+              <mxPoint x="2549" y="2006" />
+              <mxPoint x="2803" y="2006" />
               <mxPoint x="2803" y="2066" />
             </Array>
             <mxPoint as="offset" />
