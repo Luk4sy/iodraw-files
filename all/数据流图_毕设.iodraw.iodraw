@@ -948,7 +948,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-325" value="删除歌曲" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-300" target="XanPveLbpSm5Q2r6mb2O-315">
-          <mxGeometry x="0.18" relative="1" as="geometry">
+          <mxGeometry x="0.9106" y="37" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1585" y="4006" />
               <mxPoint x="1585" y="4003" />
@@ -1051,7 +1051,7 @@
           <mxGeometry x="0.3042" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2325" y="3970" />
-              <mxPoint x="2057" y="3970" />
+              <mxPoint x="2027" y="3970" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1083,8 +1083,8 @@
             <Array as="points">
               <mxPoint x="1551" y="4511" />
               <mxPoint x="1872" y="4511" />
-              <mxPoint x="1872" y="3907" />
-              <mxPoint x="2091" y="3907" />
+              <mxPoint x="1872" y="4031" />
+              <mxPoint x="2091" y="4031" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
