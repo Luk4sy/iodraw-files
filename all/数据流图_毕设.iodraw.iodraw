@@ -1589,7 +1589,8 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-535" value="推荐结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-500" target="XanPveLbpSm5Q2r6mb2O-480">
           <mxGeometry x="0.8715" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4413" y="2115" />
+              <mxPoint x="4970" y="2047" />
+              <mxPoint x="4413" y="2047" />
               <mxPoint x="4413" y="1963" />
               <mxPoint x="4360" y="1963" />
             </Array>
