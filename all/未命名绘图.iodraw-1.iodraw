@@ -341,7 +341,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-116" value="D3 歌手表&lt;br&gt;singer" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="891" y="1697" width="195" height="52" as="geometry" />
+          <mxGeometry x="906" y="2020" width="195" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
