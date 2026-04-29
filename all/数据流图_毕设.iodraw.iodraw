@@ -1258,12 +1258,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-424" value="推荐请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-390" target="XanPveLbpSm5Q2r6mb2O-402">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.7439" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2549" y="1988" />
-              <mxPoint x="2719" y="1988" />
-              <mxPoint x="2719" y="2216" />
+              <mxPoint x="2637" y="1988" />
+              <mxPoint x="2637" y="2216" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-425" value="收藏行为" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-402" target="XanPveLbpSm5Q2r6mb2O-406">
@@ -1303,7 +1304,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-429" value="推荐结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-402" target="XanPveLbpSm5Q2r6mb2O-390">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.7809" y="-2" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2440" y="2216" />
               <mxPoint x="2440" y="1791" />
