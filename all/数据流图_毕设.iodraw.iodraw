@@ -861,7 +861,7 @@
           <mxGeometry x="1162" y="4358" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-308" value="&lt;br&gt;&lt;br&gt;查询歌手详情" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=16;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="2195" y="3709" width="210" height="86" as="geometry" />
+          <mxGeometry x="1969" y="3709" width="210" height="86" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-309" value="P5.1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#5B9BD5;strokeColor=#1F4E79;fontColor=#FFFFFF;fontStyle=1;fontSize=16;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="2195" y="3709" width="210" height="30" as="geometry" />
@@ -891,7 +891,7 @@
           <mxGeometry x="1886" y="4144" width="220" height="58" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-318" value="本地资源目录：song/、img/songPic/&#xa;文件本体存储位置，非数据库表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=#C65911;fontSize=14;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1721" y="3723" width="240" height="72" as="geometry" />
+          <mxGeometry x="1685" y="3716" width="240" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-319" value="歌曲上传信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-294" target="XanPveLbpSm5Q2r6mb2O-296">
           <mxGeometry x="0.6194" relative="1" as="geometry">
@@ -930,10 +930,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-323" value="保存文件" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-296" target="XanPveLbpSm5Q2r6mb2O-318">
-          <mxGeometry x="0.9645" relative="1" as="geometry">
+          <mxGeometry x="0.7077" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1623" y="3756" />
-              <mxPoint x="1623" y="3763" />
+              <mxPoint x="1670" y="3756" />
+              <mxPoint x="1670" y="3756" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
