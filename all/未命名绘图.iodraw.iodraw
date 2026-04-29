@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="学生在线音乐平台0层数据流图" id="NMiGiEfOhs5aAiJS1VFx">
-    <mxGraphModel dx="1562" dy="909" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2238" dy="1069" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -311,73 +311,73 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-1" value="学生在线音乐平台0层数据流图" style="text;html=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="560" y="20" width="360" height="30" as="geometry" />
+          <mxGeometry x="385" y="1712" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-2" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=#70AD47;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="70" y="130" width="120" height="50" as="geometry" />
+          <mxGeometry x="-105" y="1822" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-3" value="注册用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=#70AD47;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="70" y="420" width="120" height="50" as="geometry" />
+          <mxGeometry x="-105" y="2112" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-4" value="&lt;br&gt;&lt;br&gt;身份认证处理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="380" y="90" width="190" height="86" as="geometry" />
+          <mxGeometry x="205" y="1782" width="190" height="86" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-5" value="P1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#5B9BD5;strokeColor=#1F4E79;fontColor=#FFFFFF;fontStyle=1;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="380" y="90" width="190" height="28" as="geometry" />
+          <mxGeometry x="205" y="1782" width="190" height="28" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-6" value="&lt;br&gt;&lt;br&gt;音乐资源管理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="380" y="230" width="190" height="86" as="geometry" />
+          <mxGeometry x="205" y="1922" width="190" height="86" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-7" value="P2" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#5B9BD5;strokeColor=#1F4E79;fontColor=#FFFFFF;fontStyle=1;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="380" y="230" width="190" height="28" as="geometry" />
+          <mxGeometry x="205" y="1922" width="190" height="28" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-8" value="&lt;br&gt;&lt;br&gt;音乐资源检索与播放" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="380" y="370" width="190" height="86" as="geometry" />
+          <mxGeometry x="205" y="2062" width="190" height="86" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-9" value="P3" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#5B9BD5;strokeColor=#1F4E79;fontColor=#FFFFFF;fontStyle=1;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="380" y="370" width="190" height="28" as="geometry" />
+          <mxGeometry x="205" y="2062" width="190" height="28" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-10" value="&lt;br&gt;&lt;br&gt;用户互动处理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="380" y="530" width="190" height="86" as="geometry" />
+          <mxGeometry x="205" y="2222" width="190" height="86" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-11" value="P4" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#5B9BD5;strokeColor=#1F4E79;fontColor=#FFFFFF;fontStyle=1;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="380" y="530" width="190" height="28" as="geometry" />
+          <mxGeometry x="205" y="2222" width="190" height="28" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-12" value="&lt;br&gt;&lt;br&gt;在线聊天处理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="380" y="700" width="190" height="86" as="geometry" />
+          <mxGeometry x="205" y="2392" width="190" height="86" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-13" value="P5" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#5B9BD5;strokeColor=#1F4E79;fontColor=#FFFFFF;fontStyle=1;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="380" y="700" width="190" height="28" as="geometry" />
+          <mxGeometry x="205" y="2392" width="190" height="28" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-14" value="D1 用户表&lt;br&gt;consumer" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="900" y="70" width="190" height="52" as="geometry" />
+          <mxGeometry x="1182" y="1810" width="190" height="52" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-15" value="D2 管理员表&lt;br&gt;admin" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="1160" y="70" width="190" height="52" as="geometry" />
+          <mxGeometry x="985" y="1762" width="190" height="52" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-16" value="D3 歌手表&lt;br&gt;singer" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="900" y="205" width="190" height="52" as="geometry" />
+          <mxGeometry x="725" y="1897" width="190" height="52" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-17" value="D4 歌曲表&lt;br&gt;song" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="1160" y="205" width="190" height="52" as="geometry" />
+          <mxGeometry x="985" y="1897" width="190" height="52" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-18" value="D5 歌单表&lt;br&gt;song_list" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="900" y="330" width="190" height="52" as="geometry" />
+          <mxGeometry x="725" y="2022" width="190" height="52" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-19" value="D6 歌单歌曲关联表&lt;br&gt;list_song" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="1160" y="330" width="190" height="52" as="geometry" />
+          <mxGeometry x="985" y="2022" width="190" height="52" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-20" value="D7 评论表&lt;br&gt;comment" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="900" y="500" width="190" height="52" as="geometry" />
+          <mxGeometry x="725" y="2192" width="190" height="52" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-21" value="D8 收藏表&lt;br&gt;collect" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="1160" y="500" width="190" height="52" as="geometry" />
+          <mxGeometry x="985" y="2192" width="190" height="52" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-22" value="D9 评分表&lt;br&gt;rank" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="900" y="625" width="190" height="52" as="geometry" />
+          <mxGeometry x="725" y="2317" width="190" height="52" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-23" value="D10 聊天消息表&lt;br&gt;chat_message" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="1160" y="720" width="190" height="52" as="geometry" />
+          <mxGeometry x="985" y="2412" width="190" height="52" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-24" value="管理员登录信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="OXeaosI6LyYsLR3usEuC-2" target="OXeaosI6LyYsLR3usEuC-4">
           <mxGeometry relative="1" as="geometry" />
