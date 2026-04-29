@@ -150,7 +150,8 @@
             <Array as="points">
               <mxPoint x="140" y="322" />
               <mxPoint x="7" y="322" />
-              <mxPoint x="7" y="623" />
+              <mxPoint x="7" y="687" />
+              <mxPoint x="647" y="687" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -170,7 +171,8 @@
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-229" value="聊天消息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="hzpVtTkkclo3Kl-aVXV4-189" target="hzpVtTkkclo3Kl-aVXV4-198">
           <mxGeometry x="-0.398" y="-3" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="815" />
+              <mxPoint x="290" y="556" />
+              <mxPoint x="290" y="815" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
