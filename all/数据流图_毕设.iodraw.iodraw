@@ -1000,18 +1000,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-241" value="歌单数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-228" target="XanPveLbpSm5Q2r6mb2O-224">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.6639" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="332" y="4015" />
               <mxPoint x="332" y="4312" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-242" value="关联数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-229" target="XanPveLbpSm5Q2r6mb2O-224">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="211.5" y="4158" />
-              <mxPoint x="211.5" y="4312" />
+              <mxPoint x="212" y="4230" />
+              <mxPoint x="-130" y="4230" />
             </Array>
           </mxGeometry>
         </mxCell>
