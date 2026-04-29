@@ -1147,10 +1147,10 @@
           <mxGeometry x="2829" y="1893" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-400" value="&lt;br&gt;&lt;br&gt;在线聊天" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=16;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="2829" y="2023" width="220" height="86" as="geometry" />
+          <mxGeometry x="2905" y="2019" width="220" height="86" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-401" value="P5" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#5B9BD5;strokeColor=#1F4E79;fontColor=#FFFFFF;fontStyle=1;fontSize=16;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="2829" y="2023" width="220" height="30" as="geometry" />
+          <mxGeometry x="2905" y="2019" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-402" value="&lt;br&gt;&lt;br&gt;个性化推荐" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=16;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="2829" y="2173" width="220" height="86" as="geometry" />
@@ -1249,9 +1249,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-423" value="实时消息/历史记录" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-400" target="XanPveLbpSm5Q2r6mb2O-390">
-          <mxGeometry x="-0.849" relative="1" as="geometry">
+          <mxGeometry x="-0.8095" y="6" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2749" y="2034" />
+              <mxPoint x="2749" y="2038" />
               <mxPoint x="2749" y="1791" />
             </Array>
             <mxPoint as="offset" />
