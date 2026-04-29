@@ -771,9 +771,7 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-201" value="浏览查询请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=14;strokeColor=#666666;strokeWidth=2;fontStyle=0" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-178" target="XanPveLbpSm5Q2r6mb2O-187">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-630" y="3324" />
-              <mxPoint x="-408" y="3324" />
-              <mxPoint x="-408" y="3352" />
+              <mxPoint x="-630" y="3340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -848,8 +846,8 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-210" value="展示/播放信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=14;strokeColor=#666666;strokeWidth=2;fontStyle=0" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-187" target="XanPveLbpSm5Q2r6mb2O-178">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-465" y="3422" />
-              <mxPoint x="-465" y="3387" />
+              <mxPoint x="-225" y="3440" />
+              <mxPoint x="-630" y="3440" />
             </Array>
           </mxGeometry>
         </mxCell>
