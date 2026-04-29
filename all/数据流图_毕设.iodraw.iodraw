@@ -499,7 +499,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-65" value="收藏行为" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=12;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-17" target="XanPveLbpSm5Q2r6mb2O-34">
-          <mxGeometry x="0.5633" relative="1" as="geometry">
+          <mxGeometry x="0.3565" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="755" y="2514" />
             </Array>
@@ -586,10 +586,8 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-77" value="收藏记录" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=12;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-22" target="XanPveLbpSm5Q2r6mb2O-34">
           <mxGeometry x="0.8754" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="739" y="2791" />
-              <mxPoint x="739" y="2626" />
-              <mxPoint x="682" y="2626" />
-              <mxPoint x="682" y="2534" />
+              <mxPoint x="748" y="2791" />
+              <mxPoint x="748" y="2534" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
