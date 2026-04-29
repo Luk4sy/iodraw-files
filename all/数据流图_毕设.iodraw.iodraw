@@ -193,7 +193,7 @@
           <mxGeometry x="-1171" y="1742" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-6" value="P1.3&lt;br&gt;&lt;br&gt;管理员登录处理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="25" y="1851" width="175" height="72" as="geometry" />
+          <mxGeometry x="-583" y="2071" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-7" value="P1.4&lt;br&gt;&lt;br&gt;用户信息维护" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="240" y="1851" width="175" height="72" as="geometry" />
@@ -292,7 +292,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-39" value="登录信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=12;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-2" target="XanPveLbpSm5Q2r6mb2O-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.463" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-377" y="2239" />
+              <mxPoint x="-495" y="2239" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-40" value="用户资料" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=12;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-3" target="XanPveLbpSm5Q2r6mb2O-7">
           <mxGeometry relative="1" as="geometry" />
