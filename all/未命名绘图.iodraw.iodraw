@@ -309,8 +309,9 @@
         <mxCell id="dus5IUf36FupolJb_fNw-163" value="互动管理" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" parent="1" source="dus5IUf36FupolJb_fNw-122" target="dus5IUf36FupolJb_fNw-130" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-2216" y="2949" />
-              <mxPoint x="-1871" y="2949" />
+              <mxPoint x="-2006" y="2859" />
+              <mxPoint x="-2006" y="2887" />
+              <mxPoint x="-1871" y="2887" />
             </Array>
           </mxGeometry>
         </mxCell>
