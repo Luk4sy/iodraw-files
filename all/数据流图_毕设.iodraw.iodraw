@@ -358,8 +358,7 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-51" value="歌曲数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=12;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-9" target="XanPveLbpSm5Q2r6mb2O-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="649" y="2004" />
-              <mxPoint x="649" y="2004" />
+              <mxPoint x="45" y="1886" />
             </Array>
           </mxGeometry>
         </mxCell>
