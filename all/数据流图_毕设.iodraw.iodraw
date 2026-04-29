@@ -1117,7 +1117,7 @@
           <mxGeometry x="2989" y="1438" width="440" height="36" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-390" value="注册用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=#70AD47;fontSize=16;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="2489" y="1763" width="130" height="56" as="geometry" />
+          <mxGeometry x="2484" y="1745" width="130" height="56" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-391" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=#70AD47;fontSize=16;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="2489" y="2023" width="130" height="56" as="geometry" />
@@ -1216,7 +1216,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2689" y="2051" />
-              <mxPoint x="2689" y="1806" />
+              <mxPoint x="2689" y="1822" />
             </Array>
           </mxGeometry>
         </mxCell>
