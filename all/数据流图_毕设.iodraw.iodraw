@@ -1428,8 +1428,8 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-512" value="歌单评论" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-480" target="XanPveLbpSm5Q2r6mb2O-484">
           <mxGeometry x="0.9572" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4520" y="1760" />
-              <mxPoint x="4520" y="1604" />
+              <mxPoint x="4490" y="1760" />
+              <mxPoint x="4490" y="1604" />
               <mxPoint x="4970" y="1604" />
             </Array>
             <mxPoint as="offset" />
@@ -1462,9 +1462,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-516" value="收藏歌单" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-480" target="XanPveLbpSm5Q2r6mb2O-488">
-          <mxGeometry x="-0.8803" y="-4" relative="1" as="geometry">
+          <mxGeometry x="-0.0939" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4970" y="1760" />
+              <mxPoint x="4912" y="1760" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
