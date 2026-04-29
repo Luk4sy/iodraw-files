@@ -1428,7 +1428,8 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-512" value="歌单评论" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-480" target="XanPveLbpSm5Q2r6mb2O-484">
           <mxGeometry x="0.9572" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4490" y="1760" />
+              <mxPoint x="4394" y="1808" />
+              <mxPoint x="4490" y="1808" />
               <mxPoint x="4490" y="1604" />
               <mxPoint x="4970" y="1604" />
             </Array>
@@ -1490,7 +1491,7 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-519" value="连接请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-480" target="XanPveLbpSm5Q2r6mb2O-490">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4490" y="1760" />
+              <mxPoint x="4490" y="1750" />
               <mxPoint x="4490" y="1825" />
             </Array>
           </mxGeometry>
@@ -1577,7 +1578,7 @@
             <Array as="points">
               <mxPoint x="4550" y="2115" />
               <mxPoint x="4550" y="1883" />
-              <mxPoint x="4339" y="1883" />
+              <mxPoint x="4310" y="1883" />
             </Array>
           </mxGeometry>
         </mxCell>
