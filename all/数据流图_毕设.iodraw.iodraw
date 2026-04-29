@@ -214,7 +214,7 @@
           <mxGeometry x="293" y="2040" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-13" value="P3.1&lt;br&gt;&lt;br&gt;歌手信息查询" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="-204" y="2735" width="175" height="72" as="geometry" />
+          <mxGeometry x="-166" y="2788" width="175" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-14" value="P3.2&lt;br&gt;&lt;br&gt;歌曲信息查询" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=13;fontStyle=1;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="567" y="2381" width="175" height="72" as="geometry" />
