@@ -1078,12 +1078,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-341" value="搜索歌曲" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-312" target="XanPveLbpSm5Q2r6mb2O-315">
-          <mxGeometry x="0.9277" relative="1" as="geometry">
+          <mxGeometry x="0.9458" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1458" y="4542" />
-              <mxPoint x="1458" y="4542" />
+              <mxPoint x="1393" y="4614" />
+              <mxPoint x="1393" y="3944" />
+              <mxPoint x="1458" y="3944" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-342" value="搜索歌单" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-312" target="XanPveLbpSm5Q2r6mb2O-316">
