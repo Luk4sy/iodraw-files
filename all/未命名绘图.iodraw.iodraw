@@ -524,7 +524,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-46" value="评分数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="OXeaosI6LyYsLR3usEuC-10" target="OXeaosI6LyYsLR3usEuC-22">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="42" y="2483" />
+              <mxPoint x="820" y="2483" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-47" value="互动结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="OXeaosI6LyYsLR3usEuC-10" target="OXeaosI6LyYsLR3usEuC-3">
           <mxGeometry relative="1" as="geometry" />
@@ -546,7 +551,8 @@
         <mxCell id="OXeaosI6LyYsLR3usEuC-51" value="查询用户" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="OXeaosI6LyYsLR3usEuC-12" target="OXeaosI6LyYsLR3usEuC-14">
           <mxGeometry x="0.7605" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="493" y="2435" />
+              <mxPoint x="302" y="2465" />
+              <mxPoint x="493" y="2465" />
               <mxPoint x="493" y="1788" />
             </Array>
             <mxPoint as="offset" />
@@ -556,8 +562,9 @@
           <mxGeometry x="-0.4531" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="820" y="1644" />
-              <mxPoint x="432" y="1644" />
-              <mxPoint x="432" y="2435" />
+              <mxPoint x="405" y="1644" />
+              <mxPoint x="405" y="2407" />
+              <mxPoint x="302" y="2407" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
