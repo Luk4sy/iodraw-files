@@ -411,7 +411,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-31" value="维护歌手" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="OXeaosI6LyYsLR3usEuC-6" target="OXeaosI6LyYsLR3usEuC-16">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1965" />
+              <mxPoint x="560" y="1882" />
+              <mxPoint x="820" y="1882" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-32" value="维护歌曲" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="OXeaosI6LyYsLR3usEuC-6" target="OXeaosI6LyYsLR3usEuC-17">
           <mxGeometry relative="1" as="geometry" />
@@ -471,7 +477,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-51" value="查询用户" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="OXeaosI6LyYsLR3usEuC-12" target="OXeaosI6LyYsLR3usEuC-14">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.7605" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="493" y="2435" />
+              <mxPoint x="493" y="1788" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OXeaosI6LyYsLR3usEuC-52" value="用户资料" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="OXeaosI6LyYsLR3usEuC-14" target="OXeaosI6LyYsLR3usEuC-12">
           <mxGeometry x="-0.4531" relative="1" as="geometry">
