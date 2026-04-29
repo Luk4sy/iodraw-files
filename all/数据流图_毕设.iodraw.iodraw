@@ -274,7 +274,7 @@
           <mxGeometry x="-587" y="1842" width="190" height="52" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-33" value="D7 评论表&lt;br&gt;comment" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=13;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="-223" y="2622" width="190" height="52" as="geometry" />
+          <mxGeometry x="-218.5" y="2658" width="190" height="52" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-34" value="D8 收藏表&lt;br&gt;collect" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=13;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="875" y="2389" width="190" height="52" as="geometry" />
@@ -555,7 +555,7 @@
           <mxGeometry x="0.7242" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-287" y="2523" />
-              <mxPoint x="-287" y="2648" />
+              <mxPoint x="-287" y="2686" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -564,7 +564,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="222" y="2523" />
-              <mxPoint x="222" y="2651" />
+              <mxPoint x="222" y="2686" />
             </Array>
           </mxGeometry>
         </mxCell>
