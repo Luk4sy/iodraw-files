@@ -207,7 +207,7 @@
           <mxGeometry x="1143" y="1897" width="195" height="52" as="geometry" />
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-120" value="D7 评论表&lt;br&gt;comment" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="853" y="2107" width="195" height="52" as="geometry" />
+          <mxGeometry x="972" y="2047" width="195" height="52" as="geometry" />
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-121" value="D8 收藏表&lt;br&gt;collect" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="1143" y="2107" width="195" height="52" as="geometry" />
