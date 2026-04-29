@@ -264,7 +264,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-156" value="检索/播放请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" parent="1" source="dus5IUf36FupolJb_fNw-123" target="dus5IUf36FupolJb_fNw-128" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2247" y="3188" />
+              <mxPoint x="-2247" y="3173" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dus5IUf36FupolJb_fNw-157" value="查询歌手" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" parent="1" source="dus5IUf36FupolJb_fNw-128" target="dus5IUf36FupolJb_fNw-136" edge="1">
           <mxGeometry relative="1" as="geometry" />
