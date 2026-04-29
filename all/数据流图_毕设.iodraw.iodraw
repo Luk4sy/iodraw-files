@@ -929,15 +929,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-323" value="保存文件" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-296" target="XanPveLbpSm5Q2r6mb2O-318">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.8831" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1612" y="3756" />
-              <mxPoint x="1612" y="4019" />
+              <mxPoint x="1414" y="3756" />
+              <mxPoint x="1414" y="4019" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-324" value="更新字段" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-298" target="XanPveLbpSm5Q2r6mb2O-315">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1789" y="3881" />
+              <mxPoint x="1789" y="3881" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-325" value="删除歌曲" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-300" target="XanPveLbpSm5Q2r6mb2O-315">
           <mxGeometry relative="1" as="geometry">
