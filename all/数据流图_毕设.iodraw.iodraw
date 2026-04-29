@@ -1503,8 +1503,8 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-521" value="用户标识" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-492" target="XanPveLbpSm5Q2r6mb2O-494">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4970" y="1868" />
-              <mxPoint x="4970" y="1955" />
+              <mxPoint x="4970" y="1889" />
+              <mxPoint x="4710" y="1889" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1618,11 +1618,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-537" value="评论维护" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-502" target="XanPveLbpSm5Q2r6mb2O-504">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.8523" y="-2" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="5160" y="2280" />
               <mxPoint x="5160" y="1536" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-538" value="收藏维护" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=13;strokeColor=#666666;strokeWidth=2" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-502" target="XanPveLbpSm5Q2r6mb2O-505">
