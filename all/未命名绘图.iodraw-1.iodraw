@@ -121,12 +121,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-222" value="歌单查询" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="hzpVtTkkclo3Kl-aVXV4-194" target="hzpVtTkkclo3Kl-aVXV4-204">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1079" y="442" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="hzpVtTkkclo3Kl-aVXV4-223" value="歌曲关联" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=11;strokeColor=#666666" edge="1" parent="1" source="hzpVtTkkclo3Kl-aVXV4-194" target="hzpVtTkkclo3Kl-aVXV4-205">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="359" y="472" />
+              <mxPoint x="340" y="472" />
               <mxPoint x="868" y="472" />
             </Array>
           </mxGeometry>
