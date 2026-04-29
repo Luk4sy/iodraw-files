@@ -789,8 +789,8 @@
         <mxCell id="XanPveLbpSm5Q2r6mb2O-203" value="查询歌曲" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=14;strokeColor=#666666;strokeWidth=2;fontStyle=0" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-187" target="XanPveLbpSm5Q2r6mb2O-190">
           <mxGeometry x="0.9661" y="-2" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-225" y="3422" />
-              <mxPoint x="-63" y="3422" />
+              <mxPoint x="-225" y="3440" />
+              <mxPoint x="-63" y="3440" />
               <mxPoint x="-63" y="2890" />
               <mxPoint x="350" y="2890" />
             </Array>
@@ -836,7 +836,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-208" value="歌单信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=14;strokeColor=#666666;strokeWidth=2;fontStyle=0" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-191" target="XanPveLbpSm5Q2r6mb2O-187">
-          <mxGeometry x="0.4235" relative="1" as="geometry">
+          <mxGeometry x="0.3454" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="485" y="3093" />
               <mxPoint x="485" y="3349" />
@@ -845,10 +845,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XanPveLbpSm5Q2r6mb2O-209" value="歌单歌曲列表" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=14;strokeColor=#666666;strokeWidth=2;fontStyle=0" edge="1" parent="1" source="XanPveLbpSm5Q2r6mb2O-192" target="XanPveLbpSm5Q2r6mb2O-187">
-          <mxGeometry x="0.3836" relative="1" as="geometry">
+          <mxGeometry x="0.2251" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="575" y="3233" />
-              <mxPoint x="575" y="3367" />
+              <mxPoint x="485" y="3233" />
+              <mxPoint x="485" y="3367" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
