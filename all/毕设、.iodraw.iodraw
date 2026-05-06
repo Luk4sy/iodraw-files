@@ -33,6 +33,9 @@
         <mxCell id="6djEEkAFcc_0iwVgzoFO-8" value="播&lt;div&gt;放&lt;/div&gt;&lt;div&gt;与&lt;/div&gt;&lt;div&gt;收&lt;/div&gt;&lt;div&gt;藏&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="336" y="379" width="31" height="112" as="geometry" />
         </mxCell>
+        <mxCell id="6djEEkAFcc_0iwVgzoFO-9" value="播&lt;div&gt;放&lt;/div&gt;&lt;div&gt;与&lt;/div&gt;&lt;div&gt;收&lt;/div&gt;&lt;div&gt;藏&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="389" y="379" width="31" height="112" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
