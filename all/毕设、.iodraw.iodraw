@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6djEEkAFcc_0iwVgzoFO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="6djEEkAFcc_0iwVgzoFO-1" target="6djEEkAFcc_0iwVgzoFO-2">
+        <mxCell id="6djEEkAFcc_0iwVgzoFO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;shape=arrow;" edge="1" parent="1" source="6djEEkAFcc_0iwVgzoFO-1" target="6djEEkAFcc_0iwVgzoFO-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6djEEkAFcc_0iwVgzoFO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="6djEEkAFcc_0iwVgzoFO-1" target="6djEEkAFcc_0iwVgzoFO-3">
+        <mxCell id="6djEEkAFcc_0iwVgzoFO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;shape=arrow;" edge="1" parent="1" source="6djEEkAFcc_0iwVgzoFO-1" target="6djEEkAFcc_0iwVgzoFO-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="446" y="311" />
