@@ -68,8 +68,8 @@
             <mxPoint x="575.0066666666667" y="362" as="sourcePoint" />
             <mxPoint x="547" y="393" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="575.5" y="371" />
-              <mxPoint x="547.5" y="371" />
+              <mxPoint x="575" y="372" />
+              <mxPoint x="547" y="372" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -99,6 +99,14 @@
         </mxCell>
         <mxCell id="6djEEkAFcc_0iwVgzoFO-21" value="互&lt;div&gt;动&lt;/div&gt;&lt;div&gt;数&lt;/div&gt;&lt;div&gt;据&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="635" y="393" width="31" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="6djEEkAFcc_0iwVgzoFO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.541;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6djEEkAFcc_0iwVgzoFO-3" target="6djEEkAFcc_0iwVgzoFO-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="575" y="372" />
+              <mxPoint x="600" y="372" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
