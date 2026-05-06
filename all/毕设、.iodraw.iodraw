@@ -42,9 +42,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6djEEkAFcc_0iwVgzoFO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6djEEkAFcc_0iwVgzoFO-2" target="6djEEkAFcc_0iwVgzoFO-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="6djEEkAFcc_0iwVgzoFO-2" value="学生用户前台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="283" y="331" width="103" height="31" as="geometry" />
         </mxCell>
