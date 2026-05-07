@@ -402,7 +402,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qAW2LXAUU3YRacD8tULp-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qAW2LXAUU3YRacD8tULp-35" target="qAW2LXAUU3YRacD8tULp-48">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="264" y="1018" />
+              <mxPoint x="278" y="1018" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qAW2LXAUU3YRacD8tULp-35" value="学生用户前台" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="212" y="982" width="103" height="31" as="geometry" />
@@ -436,6 +441,9 @@
         </mxCell>
         <mxCell id="qAW2LXAUU3YRacD8tULp-70" value="收&lt;div&gt;藏&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="514" y="1030" width="31" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="qAW2LXAUU3YRacD8tULp-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.542;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qAW2LXAUU3YRacD8tULp-35" target="qAW2LXAUU3YRacD8tULp-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
