@@ -257,6 +257,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="qAW2LXAUU3YRacD8tULp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6djEEkAFcc_0iwVgzoFO-37" target="qAW2LXAUU3YRacD8tULp-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="562" y="739" />
+              <mxPoint x="712" y="739" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qAW2LXAUU3YRacD8tULp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6djEEkAFcc_0iwVgzoFO-37" target="qAW2LXAUU3YRacD8tULp-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="562" y="739" />
+              <mxPoint x="751" y="739" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6djEEkAFcc_0iwVgzoFO-37" value="管理员后台" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="510" y="698" width="103" height="31" as="geometry" />
         </mxCell>
