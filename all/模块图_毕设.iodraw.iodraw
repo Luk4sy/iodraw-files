@@ -141,16 +141,18 @@
         <mxCell id="6djEEkAFcc_0iwVgzoFO-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontStyle=1" parent="1" source="6djEEkAFcc_0iwVgzoFO-33" target="6djEEkAFcc_0iwVgzoFO-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="315" y="742" />
-              <mxPoint x="279" y="742" />
+              <mxPoint x="314" y="742" />
+              <mxPoint x="263" y="742" />
+              <mxPoint x="263" y="766" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6djEEkAFcc_0iwVgzoFO-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontStyle=1" parent="1" source="6djEEkAFcc_0iwVgzoFO-33" target="6djEEkAFcc_0iwVgzoFO-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="315" y="742" />
-              <mxPoint x="331" y="742" />
+              <mxPoint x="314" y="742" />
+              <mxPoint x="305" y="742" />
+              <mxPoint x="305" y="766" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -203,7 +205,7 @@
           <mxGeometry x="249" y="766" width="31" height="112" as="geometry" />
         </mxCell>
         <mxCell id="6djEEkAFcc_0iwVgzoFO-40" value="歌&lt;div&gt;手&lt;/div&gt;&lt;div&gt;详&lt;/div&gt;&lt;div&gt;细&lt;/div&gt;&lt;div&gt;及&lt;/div&gt;&lt;div&gt;作&lt;/div&gt;&lt;div&gt;品&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="317" y="766" width="31" height="112" as="geometry" />
+          <mxGeometry x="289" y="766" width="31" height="112" as="geometry" />
         </mxCell>
         <mxCell id="6djEEkAFcc_0iwVgzoFO-41" value="歌&lt;div&gt;单&lt;/div&gt;&lt;div&gt;列&lt;/div&gt;&lt;div&gt;表&lt;/div&gt;&lt;div&gt;预&lt;/div&gt;&lt;div&gt;览&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="370" y="766" width="31" height="112" as="geometry" />
