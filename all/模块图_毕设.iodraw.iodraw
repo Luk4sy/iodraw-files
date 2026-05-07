@@ -123,7 +123,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="426" y="684" />
-              <mxPoint x="554" y="684" />
+              <mxPoint x="641" y="684" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -246,7 +246,7 @@
           <mxGeometry x="552" y="766" width="31" height="112" as="geometry" />
         </mxCell>
         <mxCell id="6djEEkAFcc_0iwVgzoFO-43" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="596" y="766" width="31" height="112" as="geometry" />
+          <mxGeometry x="592" y="766" width="31" height="112" as="geometry" />
         </mxCell>
         <mxCell id="6djEEkAFcc_0iwVgzoFO-44" value="音&lt;div&gt;乐&lt;/div&gt;&lt;div&gt;资&lt;/div&gt;&lt;div&gt;料&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="648" y="766" width="31" height="112" as="geometry" />
