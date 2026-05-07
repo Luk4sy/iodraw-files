@@ -173,6 +173,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="qAW2LXAUU3YRacD8tULp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6djEEkAFcc_0iwVgzoFO-33" target="qAW2LXAUU3YRacD8tULp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6djEEkAFcc_0iwVgzoFO-33" value="学生用户前台" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="263" y="704" width="103" height="31" as="geometry" />
         </mxCell>
