@@ -174,7 +174,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qAW2LXAUU3YRacD8tULp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6djEEkAFcc_0iwVgzoFO-33" target="qAW2LXAUU3YRacD8tULp-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="315" y="742" />
+              <mxPoint x="187" y="742" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6djEEkAFcc_0iwVgzoFO-33" value="学生用户前台" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="263" y="704" width="103" height="31" as="geometry" />
@@ -209,7 +214,7 @@
         <mxCell id="6djEEkAFcc_0iwVgzoFO-37" value="管理员后台" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="588" y="704" width="103" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="6djEEkAFcc_0iwVgzoFO-38" value="歌&lt;div&gt;手&lt;/div&gt;&lt;div&gt;列&lt;/div&gt;&lt;div&gt;表&lt;/div&gt;&lt;div&gt;预&lt;/div&gt;&lt;div&gt;览&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="6djEEkAFcc_0iwVgzoFO-38" value="按&lt;div&gt;性&lt;/div&gt;&lt;div&gt;别&lt;/div&gt;&lt;div&gt;筛&lt;/div&gt;&lt;div&gt;选&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="211" y="766" width="31" height="112" as="geometry" />
         </mxCell>
         <mxCell id="6djEEkAFcc_0iwVgzoFO-39" value="按&lt;div&gt;性&lt;/div&gt;&lt;div&gt;别&lt;/div&gt;&lt;div&gt;筛&lt;/div&gt;&lt;div&gt;选&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
