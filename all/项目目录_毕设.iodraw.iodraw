@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="图6-1_项目前端目录结构图" id="08mCDcd3Z7H21-r8IUY1">
-    <mxGraphModel dx="893" dy="519" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1302" dy="758" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="3nPqVfMU9oomGiQTANaG-10" value="store&lt;br&gt;播放状态与用户状态管理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
           <mxGeometry x="80" y="648" width="340" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="3nPqVfMU9oomGiQTANaG-11" value="App.vue / main.js&lt;br&gt;前台入口文件" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#E2F0D9;strokeColor=#70AD47;fontSize=12;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+        <mxCell id="3nPqVfMU9oomGiQTANaG-11" value="&lt;b&gt;App.vue / main.js&lt;br&gt;前台入口文件&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#E2F0D9;strokeColor=#70AD47;fontSize=12;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
           <mxGeometry x="80" y="726" width="340" height="52" as="geometry" />
         </mxCell>
         <mxCell id="3nPqVfMU9oomGiQTANaG-12" value="api&lt;br&gt;管理端接口请求封装" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#EAF2F8;strokeColor=#1F4E79;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
