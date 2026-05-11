@@ -62,7 +62,12 @@
           <mxGeometry x="720" y="726" width="380" height="52" as="geometry" />
         </mxCell>
         <mxCell id="3nPqVfMU9oomGiQTANaG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#666666;fontSize=14;fontStyle=1" edge="1" parent="1" source="3nPqVfMU9oomGiQTANaG-2" target="3nPqVfMU9oomGiQTANaG-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="512" y="117.99999999999989" />
+              <mxPoint x="512" y="206" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3nPqVfMU9oomGiQTANaG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#666666;fontSize=14;fontStyle=1" edge="1" parent="1" source="3nPqVfMU9oomGiQTANaG-2" target="3nPqVfMU9oomGiQTANaG-5">
           <mxGeometry relative="1" as="geometry">
