@@ -79,7 +79,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-57" value="评论对象" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;strokeWidth=1.5;fontSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-47" target="NdAl-IdG0vmqCd1UtfFd-44">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="430" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-58" value="评分歌单" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;strokeWidth=1.5;fontSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-48" target="NdAl-IdG0vmqCd1UtfFd-44">
           <mxGeometry relative="1" as="geometry" />
