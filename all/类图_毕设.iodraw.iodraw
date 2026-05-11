@@ -47,10 +47,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-54" value="1 : N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;strokeWidth=1.5;fontSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-41" target="NdAl-IdG0vmqCd1UtfFd-47">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="597" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-55" value="1 : N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;strokeWidth=1.5;fontSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-41" target="NdAl-IdG0vmqCd1UtfFd-48">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="217" />
+              <mxPoint x="700" y="217" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-56" value="关联歌曲/歌单" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;strokeWidth=1.5;fontSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-46" target="NdAl-IdG0vmqCd1UtfFd-43">
           <mxGeometry relative="1" as="geometry" />
