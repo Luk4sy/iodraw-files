@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="MgoWBlkBBmyBHZ6R4TgG">
-    <mxGraphModel dx="1562" dy="909" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1962" dy="909" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -277,74 +277,74 @@
         <mxCell id="8vmc0AtSh3swYsECAPZD-91" value="«extend»" style="endArrow=open;html=1;dashed=1;fontSize=10;fontStyle=3;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-69" target="8vmc0AtSh3swYsECAPZD-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-92" value="用户互动管理子模块" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=14;fontStyle=1;fillColor=#F5F9FF;strokeColor=#4A90E2;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="240" y="40" width="620" height="820" as="geometry" />
+        <mxCell id="8vmc0AtSh3swYsECAPZD-92" value="用户互动管理子模块" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=14;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="145" y="2145" width="620" height="820" as="geometry" />
         </mxCell>
         <mxCell id="8vmc0AtSh3swYsECAPZD-93" value="注册用户" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="420" width="40" height="80" as="geometry" />
+          <mxGeometry x="-15" y="2525" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8vmc0AtSh3swYsECAPZD-94" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="420" width="40" height="80" as="geometry" />
+          <mxGeometry x="885" y="2525" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8vmc0AtSh3swYsECAPZD-95" value="用户注册" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
-          <mxGeometry x="280" y="80" width="110" height="50" as="geometry" />
+          <mxGeometry x="185" y="2185" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8vmc0AtSh3swYsECAPZD-96" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
-          <mxGeometry x="280" y="150" width="110" height="50" as="geometry" />
+          <mxGeometry x="185" y="2255" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8vmc0AtSh3swYsECAPZD-97" value="修改个人资料" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
-          <mxGeometry x="280" y="220" width="110" height="50" as="geometry" />
+          <mxGeometry x="185" y="2325" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8vmc0AtSh3swYsECAPZD-98" value="收藏歌曲/歌单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
-          <mxGeometry x="280" y="290" width="120" height="50" as="geometry" />
+          <mxGeometry x="185" y="2395" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8vmc0AtSh3swYsECAPZD-99" value="取消收藏" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
-          <mxGeometry x="280" y="360" width="120" height="50" as="geometry" />
+          <mxGeometry x="185" y="2465" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8vmc0AtSh3swYsECAPZD-100" value="查看我的收藏" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
-          <mxGeometry x="280" y="430" width="120" height="50" as="geometry" />
+          <mxGeometry x="185" y="2535" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8vmc0AtSh3swYsECAPZD-101" value="发表评论" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
-          <mxGeometry x="280" y="500" width="120" height="50" as="geometry" />
+          <mxGeometry x="185" y="2605" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8vmc0AtSh3swYsECAPZD-102" value="删除自有评论" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
-          <mxGeometry x="280" y="570" width="120" height="50" as="geometry" />
+          <mxGeometry x="185" y="2675" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8vmc0AtSh3swYsECAPZD-103" value="评论点赞" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
-          <mxGeometry x="280" y="640" width="120" height="50" as="geometry" />
+          <mxGeometry x="185" y="2745" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8vmc0AtSh3swYsECAPZD-104" value="歌单 1-5 星评分" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
-          <mxGeometry x="430" y="80" width="140" height="50" as="geometry" />
+          <mxGeometry x="335" y="2185" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8vmc0AtSh3swYsECAPZD-105" value="查看个性化推荐" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
-          <mxGeometry x="430" y="150" width="140" height="50" as="geometry" />
+          <mxGeometry x="335" y="2255" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8vmc0AtSh3swYsECAPZD-106" value="发送消息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
-          <mxGeometry x="430" y="220" width="140" height="50" as="geometry" />
+          <mxGeometry x="335" y="2325" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8vmc0AtSh3swYsECAPZD-107" value="接收消息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
-          <mxGeometry x="430" y="290" width="140" height="50" as="geometry" />
+          <mxGeometry x="335" y="2395" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8vmc0AtSh3swYsECAPZD-108" value="查看历史消息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
-          <mxGeometry x="430" y="360" width="140" height="50" as="geometry" />
+          <mxGeometry x="335" y="2465" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8vmc0AtSh3swYsECAPZD-109" value="约束：(歌单, 用户)&#xa;联合唯一，&#xa;同一用户对同一歌单&#xa;仅保留一条有效评分" style="shape=note;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=10;align=left;" vertex="1" parent="1">
-          <mxGeometry x="600" y="60" width="170" height="80" as="geometry" />
+          <mxGeometry x="505" y="2165" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8vmc0AtSh3swYsECAPZD-110" value="查看用户列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;" vertex="1" parent="1">
-          <mxGeometry x="700" y="450" width="130" height="50" as="geometry" />
+          <mxGeometry x="605" y="2555" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8vmc0AtSh3swYsECAPZD-111" value="删除指定用户" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;" vertex="1" parent="1">
-          <mxGeometry x="700" y="520" width="130" height="50" as="geometry" />
+          <mxGeometry x="605" y="2625" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8vmc0AtSh3swYsECAPZD-112" value="查看评论列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;" vertex="1" parent="1">
-          <mxGeometry x="700" y="590" width="130" height="50" as="geometry" />
+          <mxGeometry x="605" y="2695" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8vmc0AtSh3swYsECAPZD-113" value="删除违规评论" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;" vertex="1" parent="1">
-          <mxGeometry x="700" y="660" width="130" height="50" as="geometry" />
+          <mxGeometry x="605" y="2765" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8vmc0AtSh3swYsECAPZD-114" value="查看收藏数据" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;" vertex="1" parent="1">
-          <mxGeometry x="700" y="730" width="130" height="50" as="geometry" />
+          <mxGeometry x="605" y="2835" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8vmc0AtSh3swYsECAPZD-115" style="endArrow=none;html=1;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-95">
           <mxGeometry relative="1" as="geometry" />
