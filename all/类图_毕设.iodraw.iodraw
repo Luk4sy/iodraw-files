@@ -256,172 +256,172 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-240" value="学生用户A前台&#xa;Chat.vue" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=#70AD47;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="35" y="35" width="120" height="48" as="geometry" />
+          <mxGeometry x="40" y="1766" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-241" value="学生用户B前台&#xa;Chat.vue" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=#70AD47;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="195" y="35" width="120" height="48" as="geometry" />
+          <mxGeometry x="200" y="1766" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-242" value="ChatWebSocketHandler" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9EAF7;strokeColor=#1F4E79;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="390" y="35" width="170" height="48" as="geometry" />
+          <mxGeometry x="395" y="1766" width="170" height="48" as="geometry" />
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-243" value="ConsumerService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9EAF7;strokeColor=#1F4E79;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="620" y="35" width="140" height="48" as="geometry" />
+          <mxGeometry x="625" y="1766" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-244" value="ChatService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9EAF7;strokeColor=#1F4E79;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="820" y="35" width="120" height="48" as="geometry" />
+          <mxGeometry x="825" y="1766" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-245" value="ChatSessionService&#xa;会话状态维护" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=#C65911;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="990" y="35" width="160" height="48" as="geometry" />
+          <mxGeometry x="995" y="1766" width="160" height="48" as="geometry" />
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-246" value="chat_message表" style="shape=partialRectangle;right=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1195" y="35" width="140" height="48" as="geometry" />
+          <mxGeometry x="1200" y="1766" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-247" style="endArrow=none;dashed=1;html=1;strokeColor=#999999;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="95" y="83" as="sourcePoint" />
-            <mxPoint x="95" y="850" as="targetPoint" />
+            <mxPoint x="100" y="1814" as="sourcePoint" />
+            <mxPoint x="100" y="2581" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-248" style="endArrow=none;dashed=1;html=1;strokeColor=#999999;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="255" y="83" as="sourcePoint" />
-            <mxPoint x="255" y="850" as="targetPoint" />
+            <mxPoint x="260" y="1814" as="sourcePoint" />
+            <mxPoint x="260" y="2581" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-249" style="endArrow=none;dashed=1;html=1;strokeColor=#999999;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="475" y="83" as="sourcePoint" />
-            <mxPoint x="475" y="850" as="targetPoint" />
+            <mxPoint x="480" y="1814" as="sourcePoint" />
+            <mxPoint x="480" y="2581" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-250" style="endArrow=none;dashed=1;html=1;strokeColor=#999999;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="83" as="sourcePoint" />
-            <mxPoint x="690" y="850" as="targetPoint" />
+            <mxPoint x="695" y="1814" as="sourcePoint" />
+            <mxPoint x="695" y="2581" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-251" style="endArrow=none;dashed=1;html=1;strokeColor=#999999;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="880" y="83" as="sourcePoint" />
-            <mxPoint x="880" y="850" as="targetPoint" />
+            <mxPoint x="885" y="1814" as="sourcePoint" />
+            <mxPoint x="885" y="2581" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-252" style="endArrow=none;dashed=1;html=1;strokeColor=#999999;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1070" y="83" as="sourcePoint" />
-            <mxPoint x="1070" y="850" as="targetPoint" />
+            <mxPoint x="1075" y="1814" as="sourcePoint" />
+            <mxPoint x="1075" y="2581" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-253" style="endArrow=none;dashed=1;html=1;strokeColor=#999999;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1265" y="83" as="sourcePoint" />
-            <mxPoint x="1265" y="850" as="targetPoint" />
+            <mxPoint x="1270" y="1814" as="sourcePoint" />
+            <mxPoint x="1270" y="2581" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-254" value="建立WebSocket连接" style="endArrow=block;html=1;fontSize=12;strokeColor=#333333;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="95" y="120" as="sourcePoint" />
-            <mxPoint x="475" y="120" as="targetPoint" />
+            <mxPoint x="100" y="1851" as="sourcePoint" />
+            <mxPoint x="480" y="1851" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-255" value="建立WebSocket连接" style="endArrow=block;html=1;fontSize=12;strokeColor=#333333;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="255" y="160" as="sourcePoint" />
-            <mxPoint x="475" y="160" as="targetPoint" />
+            <mxPoint x="260" y="1891" as="sourcePoint" />
+            <mxPoint x="480" y="1891" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-256" value="register(userId=A)" style="endArrow=block;html=1;fontSize=12;strokeColor=#333333;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="95" y="205" as="sourcePoint" />
-            <mxPoint x="475" y="205" as="targetPoint" />
+            <mxPoint x="100" y="1936" as="sourcePoint" />
+            <mxPoint x="480" y="1936" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-257" value="绑定A与WebSocketSession" style="endArrow=block;html=1;fontSize=12;strokeColor=#333333;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="475" y="245" as="sourcePoint" />
-            <mxPoint x="475" y="285" as="targetPoint" />
+            <mxPoint x="480" y="1976" as="sourcePoint" />
+            <mxPoint x="480" y="2016" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-258" value="register成功" style="endArrow=block;html=1;fontSize=12;dashed=1;strokeColor=#666666;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="475" y="325" as="sourcePoint" />
-            <mxPoint x="95" y="325" as="targetPoint" />
+            <mxPoint x="480" y="2056" as="sourcePoint" />
+            <mxPoint x="100" y="2056" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-259" value="register(userId=B)" style="endArrow=block;html=1;fontSize=12;strokeColor=#333333;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="255" y="370" as="sourcePoint" />
-            <mxPoint x="475" y="370" as="targetPoint" />
+            <mxPoint x="260" y="2101" as="sourcePoint" />
+            <mxPoint x="480" y="2101" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-260" value="绑定B与WebSocketSession" style="endArrow=block;html=1;fontSize=12;strokeColor=#333333;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="475" y="410" as="sourcePoint" />
-            <mxPoint x="475" y="450" as="targetPoint" />
+            <mxPoint x="480" y="2141" as="sourcePoint" />
+            <mxPoint x="480" y="2181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-261" value="message(toUserId=B, content)" style="endArrow=block;html=1;fontSize=12;strokeColor=#333333;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="95" y="495" as="sourcePoint" />
-            <mxPoint x="475" y="495" as="targetPoint" />
+            <mxPoint x="100" y="2226" as="sourcePoint" />
+            <mxPoint x="480" y="2226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-262" value="解析消息并生成ChatMessage" style="endArrow=block;html=1;fontSize=12;strokeColor=#333333;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="475" y="540" as="sourcePoint" />
-            <mxPoint x="475" y="580" as="targetPoint" />
+            <mxPoint x="480" y="2271" as="sourcePoint" />
+            <mxPoint x="480" y="2311" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-263" value="查询发送方/接收方信息" style="endArrow=block;html=1;fontSize=12;strokeColor=#333333;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="475" y="620" as="sourcePoint" />
-            <mxPoint x="690" y="620" as="targetPoint" />
+            <mxPoint x="480" y="2351" as="sourcePoint" />
+            <mxPoint x="695" y="2351" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-264" value="返回用户名与头像" style="endArrow=block;html=1;fontSize=12;dashed=1;strokeColor=#666666;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="660" as="sourcePoint" />
-            <mxPoint x="475" y="660" as="targetPoint" />
+            <mxPoint x="695" y="2391" as="sourcePoint" />
+            <mxPoint x="480" y="2391" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-265" value="insert(ChatMessage)" style="endArrow=block;html=1;fontSize=12;strokeColor=#333333;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="475" y="700" as="sourcePoint" />
-            <mxPoint x="880" y="700" as="targetPoint" />
+            <mxPoint x="480" y="2431" as="sourcePoint" />
+            <mxPoint x="885" y="2431" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-266" value="写入消息记录" style="endArrow=block;html=1;fontSize=12;strokeColor=#333333;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="880" y="735" as="sourcePoint" />
-            <mxPoint x="1265" y="735" as="targetPoint" />
+            <mxPoint x="885" y="2466" as="sourcePoint" />
+            <mxPoint x="1270" y="2466" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-267" value="更新会话状态和未读数" style="endArrow=block;html=1;fontSize=12;strokeColor=#333333;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="475" y="770" as="sourcePoint" />
-            <mxPoint x="1070" y="770" as="targetPoint" />
+            <mxPoint x="480" y="2501" as="sourcePoint" />
+            <mxPoint x="1075" y="2501" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-268" value="判断B是否在线" style="endArrow=block;html=1;fontSize=12;strokeColor=#333333;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="475" y="805" as="sourcePoint" />
-            <mxPoint x="475" y="840" as="targetPoint" />
+            <mxPoint x="480" y="2536" as="sourcePoint" />
+            <mxPoint x="480" y="2571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-269" value="在线推送消息" style="endArrow=block;html=1;fontSize=12;strokeColor=#333333;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="475" y="865" as="sourcePoint" />
-            <mxPoint x="255" y="865" as="targetPoint" />
+            <mxPoint x="480" y="2596" as="sourcePoint" />
+            <mxPoint x="260" y="2596" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-270" value="返回ack" style="endArrow=block;html=1;fontSize=12;dashed=1;strokeColor=#666666;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="475" y="895" as="sourcePoint" />
-            <mxPoint x="95" y="895" as="targetPoint" />
+            <mxPoint x="480" y="2626" as="sourcePoint" />
+            <mxPoint x="100" y="2626" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdAl-IdG0vmqCd1UtfFd-271" value="离线情况：消息已持久化，用户B后续通过 /chat/history 查询历史消息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#BFBFBF;fontSize=13;fontColor=#555555;align=left;spacingLeft=12;" vertex="1" parent="1">
-          <mxGeometry x="650" y="845" width="610" height="45" as="geometry" />
+          <mxGeometry x="655" y="2576" width="610" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
