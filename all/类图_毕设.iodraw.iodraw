@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="图5-1 系统总体类图" id="Nc29lmW2batg3xrIG4nT">
-    <mxGraphModel dx="1702" dy="758" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1962" dy="909" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -254,75 +254,6 @@
             <mxPoint x="189" y="2019" as="sourcePoint" />
             <mxPoint x="-6" y="2019" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="NdAl-IdG0vmqCd1UtfFd-91" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8F9FA;strokeColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="80" y="50" width="1120" height="700" as="geometry" />
-        </mxCell>
-        <mxCell id="NdAl-IdG0vmqCd1UtfFd-92" value="学生在线音乐平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2F5597;strokeColor=#2F5597;fontColor=#FFFFFF;fontSize=20;fontStyle=1;align=left;spacingLeft=30;" vertex="1" parent="1">
-          <mxGeometry x="80" y="50" width="1120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="NdAl-IdG0vmqCd1UtfFd-93" value="首页     歌手     歌单     我的收藏     在线聊天" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2F5597;strokeColor=#2F5597;fontColor=#FFFFFF;fontSize=13;align=right;spacingRight=30;" vertex="1" parent="1">
-          <mxGeometry x="640" y="70" width="520" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NdAl-IdG0vmqCd1UtfFd-94" value="搜索歌曲 / 歌手 / 歌单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#BFBFBF;fontColor=#888888;fontSize=14;align=left;spacingLeft=20;" vertex="1" parent="1">
-          <mxGeometry x="210" y="155" width="720" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="NdAl-IdG0vmqCd1UtfFd-95" value="搜索" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5B9BD5;strokeColor=#2F5597;fontColor=#FFFFFF;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="155" width="100" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="NdAl-IdG0vmqCd1UtfFd-96" value="个性化推荐歌单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=22;fontStyle=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="140" y="245" width="260" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NdAl-IdG0vmqCd1UtfFd-97" value="系统以用户收藏数据为基础，结合权重值计算推荐结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=13;fontColor=#666666;align=left;" vertex="1" parent="1">
-          <mxGeometry x="140" y="285" width="560" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NdAl-IdG0vmqCd1UtfFd-98" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9D9D9;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="340" width="230" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="NdAl-IdG0vmqCd1UtfFd-99" value="歌单封面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9EAF7;strokeColor=#9EADCC;fontColor=#666666;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="160" y="360" width="190" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="NdAl-IdG0vmqCd1UtfFd-100" value="推荐歌单 A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="160" y="520" width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NdAl-IdG0vmqCd1UtfFd-101" value="根据收藏歌曲匹配相关歌单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=12;fontColor=#666666;align=left;" vertex="1" parent="1">
-          <mxGeometry x="160" y="555" width="190" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NdAl-IdG0vmqCd1UtfFd-102" value="查看" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#70AD47;strokeColor=#548235;fontColor=#FFFFFF;fontSize=13;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="600" width="80" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="NdAl-IdG0vmqCd1UtfFd-103" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9D9D9;" vertex="1" parent="1">
-          <mxGeometry x="420" y="340" width="230" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="NdAl-IdG0vmqCd1UtfFd-104" value="歌单封面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=#A9D18E;fontColor=#666666;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="440" y="360" width="190" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="NdAl-IdG0vmqCd1UtfFd-105" value="推荐歌单 B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="440" y="520" width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NdAl-IdG0vmqCd1UtfFd-106" value="根据相似收藏行为生成推荐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=12;fontColor=#666666;align=left;" vertex="1" parent="1">
-          <mxGeometry x="440" y="555" width="190" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NdAl-IdG0vmqCd1UtfFd-107" value="播放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#70AD47;strokeColor=#548235;fontColor=#FFFFFF;fontSize=13;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="600" width="80" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="NdAl-IdG0vmqCd1UtfFd-108" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9D9D9;" vertex="1" parent="1">
-          <mxGeometry x="700" y="340" width="230" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="NdAl-IdG0vmqCd1UtfFd-109" value="歌单封面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontColor=#666666;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="720" y="360" width="190" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="NdAl-IdG0vmqCd1UtfFd-110" value="推荐歌单 C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="720" y="520" width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NdAl-IdG0vmqCd1UtfFd-111" value="推荐结果为空时显示全部歌单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=12;fontColor=#666666;align=left;" vertex="1" parent="1">
-          <mxGeometry x="720" y="555" width="190" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NdAl-IdG0vmqCd1UtfFd-112" value="查看" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#70AD47;strokeColor=#548235;fontColor=#FFFFFF;fontSize=13;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="600" width="80" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="NdAl-IdG0vmqCd1UtfFd-113" value="推荐依据：收藏数据  +  权重模拟  +  歌单反查" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#BFBFBF;fontSize=13;fontColor=#555555;" vertex="1" parent="1">
-          <mxGeometry x="950" y="340" width="180" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
