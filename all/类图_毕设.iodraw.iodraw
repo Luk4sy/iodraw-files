@@ -1,9 +1,126 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
-  <diagram name="第 1 页" id="Nc29lmW2batg3xrIG4nT">
-    <mxGraphModel dx="3124" dy="1818" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="图5-1 系统总体类图" id="Nc29lmW2batg3xrIG4nT">
+    <mxGraphModel dx="1488" dy="866" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-1" value="Consumer&#xa;- id: Integer&#xa;- username: String&#xa;- password: String&#xa;- avator: String&#xa;- introduction: String" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-2" value="Song&#xa;- id: Integer&#xa;- singerId: Integer&#xa;- name: String&#xa;- pic: String&#xa;- lyric: String&#xa;- url: String" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-3" value="SongList&#xa;- id: Integer&#xa;- title: String&#xa;- pic: String&#xa;- introduction: String&#xa;- style: String" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-4" value="Collect&#xa;- id: Integer&#xa;- userId: Integer&#xa;- type: Byte&#xa;- songId: Integer&#xa;- songListId: Integer&#xa;- createTime: Date" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-5" value="ListSong&#xa;- id: Integer&#xa;- songId: Integer&#xa;- songListId: Integer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-6" value="ChatMessage&#xa;- id: Integer&#xa;- fromUserId: Integer&#xa;- toUserId: Integer&#xa;- content: String&#xa;- createTime: Date&#xa;- fromUsername: String&#xa;- fromUserAvator: String" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-7" value="SongListController&#xa;+ allSongList(userId): List&lt;SongList&gt;&#xa;+ detail(id): SongList" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="800" y="40" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-8" value="RecommendServiceImpl&#xa;+ recommend(userId): List&lt;SongList&gt;&#xa;- buildRelateDTO(): List&lt;RelateDTO&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="800" y="160" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-9" value="CoreMath «utility»&#xa;+ recommend(data, userId, n): List&lt;Integer&gt;&#xa;- pearson(a, b): double" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="800" y="280" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-10" value="CollectMapper&#xa;+ allCollect(): List&lt;Collect&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="40" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-11" value="ListSongMapper&#xa;+ songOfSongList(slId): List&lt;Integer&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="140" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-12" value="SongListMapper&#xa;+ allSongList(): List&lt;SongList&gt;&#xa;+ songListOfId(id): SongList" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="240" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-13" value="ChatWebSocketHandler&#xa;+ afterConnectionEstablished(s)&#xa;+ handleTextMessage(s, msg)&#xa;+ afterConnectionClosed(s)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-14" value="ChatController&#xa;+ history(fromId, toId): List&#xa;+ sessionList(userId): List" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="661" y="642" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-15" value="ChatService&#xa;+ saveMessage(msg)&#xa;+ history(fromId, toId): List" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="600" y="400" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-16" value="ChatSessionService&#xa;+ updateSession(from, to)&#xa;+ incrUnread(toId)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="860" y="400" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-17" value="ConsumerService&#xa;+ getById(id): Consumer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="400" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-18" style="endArrow=open;endFill=0;html=1;endSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-4" target="NdAl-IdG0vmqCd1UtfFd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-19" style="endArrow=open;endFill=0;html=1;endSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-4" target="NdAl-IdG0vmqCd1UtfFd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-20" style="endArrow=open;endFill=0;html=1;endSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-4" target="NdAl-IdG0vmqCd1UtfFd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-21" style="endArrow=open;endFill=0;html=1;endSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-5" target="NdAl-IdG0vmqCd1UtfFd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-22" style="endArrow=open;endFill=0;html=1;endSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-5" target="NdAl-IdG0vmqCd1UtfFd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-23" style="endArrow=open;endFill=0;html=1;endSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-6" target="NdAl-IdG0vmqCd1UtfFd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-24" style="endArrow=open;endFill=0;html=1;dashed=1;endSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-7" target="NdAl-IdG0vmqCd1UtfFd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-25" style="endArrow=open;endFill=0;html=1;dashed=1;endSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-8" target="NdAl-IdG0vmqCd1UtfFd-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-26" style="endArrow=open;endFill=0;html=1;dashed=1;endSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-8" target="NdAl-IdG0vmqCd1UtfFd-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-27" style="endArrow=open;endFill=0;html=1;dashed=1;endSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-8" target="NdAl-IdG0vmqCd1UtfFd-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-28" style="endArrow=open;endFill=0;html=1;dashed=1;endSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-8" target="NdAl-IdG0vmqCd1UtfFd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-29" style="endArrow=open;endFill=0;html=1;dashed=1;endSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-10" target="NdAl-IdG0vmqCd1UtfFd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-30" style="endArrow=open;endFill=0;html=1;dashed=1;endSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-11" target="NdAl-IdG0vmqCd1UtfFd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-31" style="endArrow=open;endFill=0;html=1;dashed=1;endSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-12" target="NdAl-IdG0vmqCd1UtfFd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-32" style="endArrow=open;endFill=0;html=1;dashed=1;endSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-13" target="NdAl-IdG0vmqCd1UtfFd-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-33" style="endArrow=open;endFill=0;html=1;dashed=1;endSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-13" target="NdAl-IdG0vmqCd1UtfFd-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-34" style="endArrow=open;endFill=0;html=1;dashed=1;endSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-13" target="NdAl-IdG0vmqCd1UtfFd-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-35" style="endArrow=open;endFill=0;html=1;dashed=1;endSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-14" target="NdAl-IdG0vmqCd1UtfFd-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-36" style="endArrow=open;endFill=0;html=1;dashed=1;endSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-14" target="NdAl-IdG0vmqCd1UtfFd-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-37" style="endArrow=open;endFill=0;html=1;dashed=1;endSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-15" target="NdAl-IdG0vmqCd1UtfFd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-38" style="endArrow=open;endFill=0;html=1;dashed=1;endSize=12;" edge="1" parent="1" source="NdAl-IdG0vmqCd1UtfFd-17" target="NdAl-IdG0vmqCd1UtfFd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAl-IdG0vmqCd1UtfFd-39" value="蓝=实体类  橙=推荐链路  绿=聊天链路&#xa;实线=关联   虚线=依赖/调用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;fontSize=11;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="500" width="240" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
