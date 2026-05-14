@@ -503,10 +503,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-88" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=15;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-2197" y="2422" width="90" height="45" as="geometry" />
+          <mxGeometry x="-2079" y="1680" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-89" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=15;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-1579" y="2439" width="90" height="45" as="geometry" />
+          <mxGeometry x="-1461" y="1697" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-90" value="歌手" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=15;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-2029" y="1995" width="90" height="45" as="geometry" />
@@ -518,13 +518,13 @@
           <mxGeometry x="-1299" y="1995" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-93" value="聊天消息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=15;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-1027" y="2562" width="100" height="45" as="geometry" />
+          <mxGeometry x="-909" y="1820" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-94" value="聊天会话" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=15;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-909" y="2140" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-95" value="管理" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-1952" y="2417" width="80" height="55" as="geometry" />
+          <mxGeometry x="-1834" y="1675" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-96" value="维护" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-1894" y="1990" width="80" height="55" as="geometry" />
@@ -542,37 +542,37 @@
           <mxGeometry x="-1299" y="2165" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-101" value="发送" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-1202" y="2557" width="80" height="55" as="geometry" />
+          <mxGeometry x="-1084" y="1815" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-102" value="会话" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-1084" y="2135" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-103" value="编号" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-2247" y="2352" width="70" height="35" as="geometry" />
+          <mxGeometry x="-2129" y="1610" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-104" value="账号" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-2167" y="2352" width="70" height="35" as="geometry" />
+          <mxGeometry x="-2049" y="1610" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-105" value="密码" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-2087" y="2352" width="70" height="35" as="geometry" />
+          <mxGeometry x="-1969" y="1610" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-106" value="编号" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-1757" y="2352" width="70" height="35" as="geometry" />
+          <mxGeometry x="-1639" y="1610" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-107" value="账号" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-1677" y="2352" width="70" height="35" as="geometry" />
+          <mxGeometry x="-1559" y="1610" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-108" value="密码" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-1597" y="2352" width="70" height="35" as="geometry" />
+          <mxGeometry x="-1479" y="1610" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-109" value="手机" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-1517" y="2352" width="70" height="35" as="geometry" />
+          <mxGeometry x="-1399" y="1610" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-110" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-1437" y="2352" width="70" height="35" as="geometry" />
+          <mxGeometry x="-1319" y="1610" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-111" value="头像" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-1357" y="2352" width="70" height="35" as="geometry" />
+          <mxGeometry x="-1239" y="1610" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-112" value="编号" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-2129" y="1905" width="70" height="35" as="geometry" />
@@ -650,13 +650,13 @@
           <mxGeometry x="-1249" y="2265" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-137" value="编号" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-1077" y="2477" width="70" height="35" as="geometry" />
+          <mxGeometry x="-959" y="1735" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-138" value="内容" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-987" y="2477" width="70" height="35" as="geometry" />
+          <mxGeometry x="-869" y="1735" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-139" value="时间" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-897" y="2477" width="70" height="35" as="geometry" />
+          <mxGeometry x="-779" y="1735" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-140" value="编号" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-969" y="2225" width="70" height="35" as="geometry" />
