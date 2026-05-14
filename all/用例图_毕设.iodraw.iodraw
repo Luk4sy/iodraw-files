@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="MgoWBlkBBmyBHZ6R4TgG">
-    <mxGraphModel dx="6863" dy="2597" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3888" dy="866" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -841,9 +841,6 @@
         <mxCell id="P41PJ5A469W84Kv3gfIV-200" value="N" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=13;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-102" target="P41PJ5A469W84Kv3gfIV-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-260" value="图4.4 学生在线音乐平台总体 E-R 图" style="text;html=1;strokeColor=none;fillColor=none;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="2013" y="1073" width="540" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-261" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=15;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1753" y="1303" width="90" height="45" as="geometry" />
         </mxCell>
@@ -851,16 +848,16 @@
           <mxGeometry x="1943" y="1163" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-263" value="歌曲" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=15;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="2203" y="1303" width="90" height="45" as="geometry" />
+          <mxGeometry x="2230" y="1243" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-264" value="歌单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=15;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="2533" y="1303" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-265" value="演唱" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2073" y="1223" width="80" height="55" as="geometry" />
+          <mxGeometry x="2100" y="1163" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-266" value="包含" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2363" y="1303" width="80" height="55" as="geometry" />
+          <mxGeometry x="2390" y="1243" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-267" value="收藏" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1968" y="1303" width="80" height="55" as="geometry" />
@@ -893,16 +890,16 @@
           <mxGeometry x="2053" y="1103" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-277" value="编号" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="2163" y="1223" width="70" height="35" as="geometry" />
+          <mxGeometry x="2190" y="1163" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-278" value="歌名" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="2243" y="1223" width="70" height="35" as="geometry" />
+          <mxGeometry x="2270" y="1163" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-279" value="地址" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="2163" y="1383" width="70" height="35" as="geometry" />
+          <mxGeometry x="2190" y="1323" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-280" value="图片" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="2243" y="1383" width="70" height="35" as="geometry" />
+          <mxGeometry x="2270" y="1323" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P41PJ5A469W84Kv3gfIV-281" value="编号" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="2493" y="1223" width="70" height="35" as="geometry" />
