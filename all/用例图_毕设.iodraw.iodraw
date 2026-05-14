@@ -1,421 +1,508 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="MgoWBlkBBmyBHZ6R4TgG">
-    <mxGraphModel dx="1962" dy="909" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5607" dy="3030" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8vmc0AtSh3swYsECAPZD-1" value="学生在线音乐平台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=14;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-1" value="学生在线音乐平台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=14;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="240" y="40" width="600" height="760" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-2" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-2" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="80" y="380" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-3" value="注册用户" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-3" value="注册用户" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="960" y="380" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-4" value="登录" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF6D5;strokeColor=#D6B656;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-4" value="登录" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF6D5;strokeColor=#D6B656;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="490" y="80" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-5" value="注册" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF6D5;strokeColor=#D6B656;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-5" value="注册" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF6D5;strokeColor=#D6B656;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="490" y="150" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-6" value="歌手管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-6" value="歌手管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="280" y="240" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-7" value="歌曲管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-7" value="歌曲管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="280" y="310" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-8" value="歌单管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-8" value="歌单管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="280" y="380" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-9" value="歌单歌曲关联管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-9" value="歌单歌曲关联管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="270" y="450" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-10" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-10" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="280" y="520" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-11" value="评论管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-11" value="评论管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="280" y="590" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-12" value="收藏管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-12" value="收藏管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="280" y="660" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-13" value="浏览音乐资源" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-13" value="浏览音乐资源" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="690" y="240" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-14" value="搜索歌曲" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-14" value="搜索歌曲" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="690" y="300" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-15" value="播放歌曲" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-15" value="播放歌曲" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="690" y="360" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-16" value="收藏歌曲/歌单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-16" value="收藏歌曲/歌单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="690" y="420" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-17" value="发表评论" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-17" value="发表评论" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="690" y="480" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-18" value="歌单评分" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-18" value="歌单评分" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="690" y="540" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-19" value="实时聊天" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-19" value="实时聊天" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="690" y="600" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-20" value="个性化推荐" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-20" value="个性化推荐" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="690" y="660" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-21" value="个人资料维护" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-21" value="个人资料维护" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="690" y="720" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-22" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-2" target="8vmc0AtSh3swYsECAPZD-4">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-22" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-2" target="8vmc0AtSh3swYsECAPZD-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-23" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-2" target="8vmc0AtSh3swYsECAPZD-6">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-23" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-2" target="8vmc0AtSh3swYsECAPZD-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-24" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-2" target="8vmc0AtSh3swYsECAPZD-7">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-24" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-2" target="8vmc0AtSh3swYsECAPZD-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-25" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-2" target="8vmc0AtSh3swYsECAPZD-8">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-25" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-2" target="8vmc0AtSh3swYsECAPZD-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-26" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-2" target="8vmc0AtSh3swYsECAPZD-9">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-26" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-2" target="8vmc0AtSh3swYsECAPZD-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-27" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-2" target="8vmc0AtSh3swYsECAPZD-10">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-27" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-2" target="8vmc0AtSh3swYsECAPZD-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-28" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-2" target="8vmc0AtSh3swYsECAPZD-11">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-28" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-2" target="8vmc0AtSh3swYsECAPZD-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-29" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-2" target="8vmc0AtSh3swYsECAPZD-12">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-29" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-2" target="8vmc0AtSh3swYsECAPZD-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-30" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-3" target="8vmc0AtSh3swYsECAPZD-5">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-30" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-3" target="8vmc0AtSh3swYsECAPZD-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-31" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-3" target="8vmc0AtSh3swYsECAPZD-4">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-31" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-3" target="8vmc0AtSh3swYsECAPZD-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-32" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-3" target="8vmc0AtSh3swYsECAPZD-13">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-32" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-3" target="8vmc0AtSh3swYsECAPZD-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-33" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-3" target="8vmc0AtSh3swYsECAPZD-14">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-33" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-3" target="8vmc0AtSh3swYsECAPZD-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-34" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-3" target="8vmc0AtSh3swYsECAPZD-15">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-34" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-3" target="8vmc0AtSh3swYsECAPZD-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-35" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-3" target="8vmc0AtSh3swYsECAPZD-16">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-35" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-3" target="8vmc0AtSh3swYsECAPZD-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-36" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-3" target="8vmc0AtSh3swYsECAPZD-17">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-36" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-3" target="8vmc0AtSh3swYsECAPZD-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-37" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-3" target="8vmc0AtSh3swYsECAPZD-18">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-37" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-3" target="8vmc0AtSh3swYsECAPZD-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-38" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-3" target="8vmc0AtSh3swYsECAPZD-19">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-38" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-3" target="8vmc0AtSh3swYsECAPZD-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-39" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-3" target="8vmc0AtSh3swYsECAPZD-20">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-39" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-3" target="8vmc0AtSh3swYsECAPZD-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-40" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-3" target="8vmc0AtSh3swYsECAPZD-21">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-40" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-3" target="8vmc0AtSh3swYsECAPZD-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-41" value="«include»" style="endArrow=open;html=1;dashed=1;fontSize=10;fontStyle=3;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-13" target="8vmc0AtSh3swYsECAPZD-4">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-41" value="«include»" style="endArrow=open;html=1;dashed=1;fontSize=10;fontStyle=3;" parent="1" source="8vmc0AtSh3swYsECAPZD-13" target="8vmc0AtSh3swYsECAPZD-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-42" value="«include»" style="endArrow=open;html=1;dashed=1;fontSize=10;fontStyle=3;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-16" target="8vmc0AtSh3swYsECAPZD-4">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-42" value="«include»" style="endArrow=open;html=1;dashed=1;fontSize=10;fontStyle=3;" parent="1" source="8vmc0AtSh3swYsECAPZD-16" target="8vmc0AtSh3swYsECAPZD-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-43" value="«include»" style="endArrow=open;html=1;dashed=1;fontSize=10;fontStyle=3;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-17" target="8vmc0AtSh3swYsECAPZD-4">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-43" value="«include»" style="endArrow=open;html=1;dashed=1;fontSize=10;fontStyle=3;" parent="1" source="8vmc0AtSh3swYsECAPZD-17" target="8vmc0AtSh3swYsECAPZD-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-44" value="«include»" style="endArrow=open;html=1;dashed=1;fontSize=10;fontStyle=3;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-18" target="8vmc0AtSh3swYsECAPZD-4">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-44" value="«include»" style="endArrow=open;html=1;dashed=1;fontSize=10;fontStyle=3;" parent="1" source="8vmc0AtSh3swYsECAPZD-18" target="8vmc0AtSh3swYsECAPZD-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-45" value="«include»" style="endArrow=open;html=1;dashed=1;fontSize=10;fontStyle=3;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-19" target="8vmc0AtSh3swYsECAPZD-4">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-45" value="«include»" style="endArrow=open;html=1;dashed=1;fontSize=10;fontStyle=3;" parent="1" source="8vmc0AtSh3swYsECAPZD-19" target="8vmc0AtSh3swYsECAPZD-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-46" value="音乐资源管理子模块" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=14;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-46" value="音乐资源管理子模块" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=14;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="185" y="1058" width="620" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-47" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-47" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="25" y="1398" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-48" value="注册用户" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-48" value="注册用户" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="925" y="1398" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-49" value="新增歌手" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-49" value="新增歌手" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="225" y="1098" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-50" value="修改歌手资料" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-50" value="修改歌手资料" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="225" y="1168" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-51" value="删除歌手" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-51" value="删除歌手" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="225" y="1238" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-52" value="上传歌曲" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-52" value="上传歌曲" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="225" y="1308" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-53" value="修改歌曲信息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-53" value="修改歌曲信息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="225" y="1378" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-54" value="删除歌曲" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-54" value="删除歌曲" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="225" y="1448" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-55" value="新建歌单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-55" value="新建歌单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="225" y="1518" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-56" value="修改歌单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-56" value="修改歌单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="225" y="1588" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-57" value="删除歌单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-57" value="删除歌单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="225" y="1658" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-58" value="向歌单添加曲目" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-58" value="向歌单添加曲目" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="215" y="1728" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-59" value="从歌单移除曲目" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-59" value="从歌单移除曲目" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="375" y="1728" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-60" value="浏览歌手列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-60" value="浏览歌手列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="645" y="1098" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-61" value="按性别筛选歌手" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-61" value="按性别筛选歌手" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="645" y="1168" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-62" value="查看歌手详情及作品" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-62" value="查看歌手详情及作品" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="635" y="1238" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-63" value="浏览歌单列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-63" value="浏览歌单列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="645" y="1308" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-64" value="按风格筛选歌单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-64" value="按风格筛选歌单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="645" y="1378" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-65" value="查看歌单详情" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-65" value="查看歌单详情" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="645" y="1448" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-66" value="按歌名搜索" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-66" value="按歌名搜索" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="645" y="1518" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-67" value="按歌单标题搜索" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-67" value="按歌单标题搜索" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="645" y="1588" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-68" value="播放歌曲" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-68" value="播放歌曲" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="645" y="1678" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-69" value="LRC 歌词同步" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-69" value="LRC 歌词同步" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="645" y="1748" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-70" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-47" target="8vmc0AtSh3swYsECAPZD-49">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-70" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-47" target="8vmc0AtSh3swYsECAPZD-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-71" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-47" target="8vmc0AtSh3swYsECAPZD-50">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-71" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-47" target="8vmc0AtSh3swYsECAPZD-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-72" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-47" target="8vmc0AtSh3swYsECAPZD-51">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-72" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-47" target="8vmc0AtSh3swYsECAPZD-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-73" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-47" target="8vmc0AtSh3swYsECAPZD-52">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-73" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-47" target="8vmc0AtSh3swYsECAPZD-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-74" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-47" target="8vmc0AtSh3swYsECAPZD-53">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-74" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-47" target="8vmc0AtSh3swYsECAPZD-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-75" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-47" target="8vmc0AtSh3swYsECAPZD-54">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-75" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-47" target="8vmc0AtSh3swYsECAPZD-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-76" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-47" target="8vmc0AtSh3swYsECAPZD-55">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-76" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-47" target="8vmc0AtSh3swYsECAPZD-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-77" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-47" target="8vmc0AtSh3swYsECAPZD-56">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-77" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-47" target="8vmc0AtSh3swYsECAPZD-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-78" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-47" target="8vmc0AtSh3swYsECAPZD-57">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-78" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-47" target="8vmc0AtSh3swYsECAPZD-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-79" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-47" target="8vmc0AtSh3swYsECAPZD-58">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-79" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-47" target="8vmc0AtSh3swYsECAPZD-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-80" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-47" target="8vmc0AtSh3swYsECAPZD-59">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-80" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-47" target="8vmc0AtSh3swYsECAPZD-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-81" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-48" target="8vmc0AtSh3swYsECAPZD-60">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-81" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-48" target="8vmc0AtSh3swYsECAPZD-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-82" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-48" target="8vmc0AtSh3swYsECAPZD-61">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-82" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-48" target="8vmc0AtSh3swYsECAPZD-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-83" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-48" target="8vmc0AtSh3swYsECAPZD-62">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-83" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-48" target="8vmc0AtSh3swYsECAPZD-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-84" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-48" target="8vmc0AtSh3swYsECAPZD-63">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-84" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-48" target="8vmc0AtSh3swYsECAPZD-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-85" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-48" target="8vmc0AtSh3swYsECAPZD-64">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-85" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-48" target="8vmc0AtSh3swYsECAPZD-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-86" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-48" target="8vmc0AtSh3swYsECAPZD-65">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-86" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-48" target="8vmc0AtSh3swYsECAPZD-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-87" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-48" target="8vmc0AtSh3swYsECAPZD-66">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-87" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-48" target="8vmc0AtSh3swYsECAPZD-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-88" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-48" target="8vmc0AtSh3swYsECAPZD-67">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-88" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-48" target="8vmc0AtSh3swYsECAPZD-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-89" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-48" target="8vmc0AtSh3swYsECAPZD-68">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-89" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-48" target="8vmc0AtSh3swYsECAPZD-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-90" style="endArrow=none;html=1;fontStyle=1" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-48" target="8vmc0AtSh3swYsECAPZD-69">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-90" style="endArrow=none;html=1;fontStyle=1" parent="1" source="8vmc0AtSh3swYsECAPZD-48" target="8vmc0AtSh3swYsECAPZD-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-91" value="«extend»" style="endArrow=open;html=1;dashed=1;fontSize=10;fontStyle=3;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-69" target="8vmc0AtSh3swYsECAPZD-68">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-91" value="«extend»" style="endArrow=open;html=1;dashed=1;fontSize=10;fontStyle=3;" parent="1" source="8vmc0AtSh3swYsECAPZD-69" target="8vmc0AtSh3swYsECAPZD-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-92" value="用户互动管理子模块" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=14;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-92" value="用户互动管理子模块" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=14;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="145" y="2145" width="620" height="820" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-93" value="注册用户" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-93" value="注册用户" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="-15" y="2525" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-94" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-94" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="885" y="2525" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-95" value="用户注册" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-95" value="用户注册" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" parent="1" vertex="1">
           <mxGeometry x="185" y="2185" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-96" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-96" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" parent="1" vertex="1">
           <mxGeometry x="185" y="2255" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-97" value="修改个人资料" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-97" value="修改个人资料" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" parent="1" vertex="1">
           <mxGeometry x="185" y="2325" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-98" value="收藏歌曲/歌单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-98" value="收藏歌曲/歌单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" parent="1" vertex="1">
           <mxGeometry x="185" y="2395" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-99" value="取消收藏" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-99" value="取消收藏" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" parent="1" vertex="1">
           <mxGeometry x="185" y="2465" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-100" value="查看我的收藏" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-100" value="查看我的收藏" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" parent="1" vertex="1">
           <mxGeometry x="185" y="2535" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-101" value="发表评论" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-101" value="发表评论" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" parent="1" vertex="1">
           <mxGeometry x="185" y="2605" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-102" value="删除自有评论" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-102" value="删除自有评论" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" parent="1" vertex="1">
           <mxGeometry x="185" y="2675" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-103" value="评论点赞" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-103" value="评论点赞" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" parent="1" vertex="1">
           <mxGeometry x="185" y="2745" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-104" value="歌单 1-5 星评分" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-104" value="歌单 1-5 星评分" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" parent="1" vertex="1">
           <mxGeometry x="335" y="2185" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-105" value="查看个性化推荐" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-105" value="查看个性化推荐" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" parent="1" vertex="1">
           <mxGeometry x="335" y="2255" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-106" value="发送消息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-106" value="发送消息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" parent="1" vertex="1">
           <mxGeometry x="335" y="2325" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-107" value="接收消息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-107" value="接收消息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" parent="1" vertex="1">
           <mxGeometry x="335" y="2395" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-108" value="查看历史消息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-108" value="查看历史消息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" parent="1" vertex="1">
           <mxGeometry x="335" y="2465" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-109" value="约束：(歌单, 用户)&#xa;联合唯一，&#xa;同一用户对同一歌单&#xa;仅保留一条有效评分" style="shape=note;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=10;align=left;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-109" value="约束：(歌单, 用户)&#xa;联合唯一，&#xa;同一用户对同一歌单&#xa;仅保留一条有效评分" style="shape=note;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=10;align=left;" parent="1" vertex="1">
           <mxGeometry x="505" y="2165" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-110" value="查看用户列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-110" value="查看用户列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;" parent="1" vertex="1">
           <mxGeometry x="605" y="2555" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-111" value="删除指定用户" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-111" value="删除指定用户" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;" parent="1" vertex="1">
           <mxGeometry x="605" y="2625" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-112" value="查看评论列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-112" value="查看评论列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;" parent="1" vertex="1">
           <mxGeometry x="605" y="2695" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-113" value="删除违规评论" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-113" value="删除违规评论" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;" parent="1" vertex="1">
           <mxGeometry x="605" y="2765" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-114" value="查看收藏数据" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;" vertex="1" parent="1">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-114" value="查看收藏数据" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE4B5;strokeColor=#D6B656;" parent="1" vertex="1">
           <mxGeometry x="605" y="2835" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-115" style="endArrow=none;html=1;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-95">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-115" style="endArrow=none;html=1;" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-116" style="endArrow=none;html=1;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-96">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-116" style="endArrow=none;html=1;" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-117" style="endArrow=none;html=1;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-97">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-117" style="endArrow=none;html=1;" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-97" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-118" style="endArrow=none;html=1;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-98">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-118" style="endArrow=none;html=1;" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-119" style="endArrow=none;html=1;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-99">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-119" style="endArrow=none;html=1;" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-120" style="endArrow=none;html=1;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-100">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-120" style="endArrow=none;html=1;" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-121" style="endArrow=none;html=1;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-101">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-121" style="endArrow=none;html=1;" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-101" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-122" style="endArrow=none;html=1;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-102">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-122" style="endArrow=none;html=1;" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-102" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-123" style="endArrow=none;html=1;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-103">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-123" style="endArrow=none;html=1;" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-124" style="endArrow=none;html=1;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-104">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-124" style="endArrow=none;html=1;" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-104" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-125" style="endArrow=none;html=1;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-105">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-125" style="endArrow=none;html=1;" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-105" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-126" style="endArrow=none;html=1;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-106">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-126" style="endArrow=none;html=1;" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-106" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-127" style="endArrow=none;html=1;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-107">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-127" style="endArrow=none;html=1;" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-128" style="endArrow=none;html=1;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-108">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-128" style="endArrow=none;html=1;" parent="1" source="8vmc0AtSh3swYsECAPZD-93" target="8vmc0AtSh3swYsECAPZD-108" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-129" style="endArrow=none;html=1;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-94" target="8vmc0AtSh3swYsECAPZD-110">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-129" style="endArrow=none;html=1;" parent="1" source="8vmc0AtSh3swYsECAPZD-94" target="8vmc0AtSh3swYsECAPZD-110" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-130" style="endArrow=none;html=1;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-94" target="8vmc0AtSh3swYsECAPZD-111">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-130" style="endArrow=none;html=1;" parent="1" source="8vmc0AtSh3swYsECAPZD-94" target="8vmc0AtSh3swYsECAPZD-111" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-131" style="endArrow=none;html=1;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-94" target="8vmc0AtSh3swYsECAPZD-112">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-131" style="endArrow=none;html=1;" parent="1" source="8vmc0AtSh3swYsECAPZD-94" target="8vmc0AtSh3swYsECAPZD-112" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-132" style="endArrow=none;html=1;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-94" target="8vmc0AtSh3swYsECAPZD-113">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-132" style="endArrow=none;html=1;" parent="1" source="8vmc0AtSh3swYsECAPZD-94" target="8vmc0AtSh3swYsECAPZD-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-133" style="endArrow=none;html=1;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-94" target="8vmc0AtSh3swYsECAPZD-114">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-133" style="endArrow=none;html=1;" parent="1" source="8vmc0AtSh3swYsECAPZD-94" target="8vmc0AtSh3swYsECAPZD-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-134" style="endArrow=none;html=1;dashed=1;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-104" target="8vmc0AtSh3swYsECAPZD-109">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-134" style="endArrow=none;html=1;dashed=1;" parent="1" source="8vmc0AtSh3swYsECAPZD-104" target="8vmc0AtSh3swYsECAPZD-109" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-135" value="«include»" style="endArrow=open;html=1;dashed=1;fontSize=10;fontStyle=2;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-102" target="8vmc0AtSh3swYsECAPZD-101">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-135" value="«include»" style="endArrow=open;html=1;dashed=1;fontSize=10;fontStyle=2;" parent="1" source="8vmc0AtSh3swYsECAPZD-102" target="8vmc0AtSh3swYsECAPZD-101" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-136" value="«include»" style="endArrow=open;html=1;dashed=1;fontSize=10;fontStyle=2;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-99" target="8vmc0AtSh3swYsECAPZD-98">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-136" value="«include»" style="endArrow=open;html=1;dashed=1;fontSize=10;fontStyle=2;" parent="1" source="8vmc0AtSh3swYsECAPZD-99" target="8vmc0AtSh3swYsECAPZD-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-137" value="«extend»" style="endArrow=open;html=1;dashed=1;fontSize=10;fontStyle=2;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-113" target="8vmc0AtSh3swYsECAPZD-112">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-137" value="«extend»" style="endArrow=open;html=1;dashed=1;fontSize=10;fontStyle=2;" parent="1" source="8vmc0AtSh3swYsECAPZD-113" target="8vmc0AtSh3swYsECAPZD-112" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8vmc0AtSh3swYsECAPZD-138" value="«extend»" style="endArrow=open;html=1;dashed=1;fontSize=10;fontStyle=2;" edge="1" parent="1" source="8vmc0AtSh3swYsECAPZD-111" target="8vmc0AtSh3swYsECAPZD-110">
+        <mxCell id="8vmc0AtSh3swYsECAPZD-138" value="«extend»" style="endArrow=open;html=1;dashed=1;fontSize=10;fontStyle=2;" parent="1" source="8vmc0AtSh3swYsECAPZD-111" target="8vmc0AtSh3swYsECAPZD-110" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-1" value="图4.4 学生在线音乐平台总体 E-R 图" style="text;html=1;strokeColor=none;fillColor=none;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="420" y="20" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-2" value="&lt;b&gt;admin 管理员&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;name&lt;br&gt;password" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="60" y="90" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-3" value="&lt;b&gt;consumer 用户&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;username&lt;br&gt;password&lt;br&gt;sex&lt;br&gt;phone_num&lt;br&gt;email&lt;br&gt;birth&lt;br&gt;introduction&lt;br&gt;location&lt;br&gt;avator&lt;br&gt;create_time&lt;br&gt;update_time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="360" y="90" width="240" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-4" value="&lt;b&gt;singer 歌手&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;name&lt;br&gt;sex&lt;br&gt;pic&lt;br&gt;birth&lt;br&gt;location&lt;br&gt;introduction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="60" y="260" width="210" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-5" value="&lt;b&gt;song 歌曲&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;FK singer_id&lt;br&gt;name&lt;br&gt;introduction&lt;br&gt;create_time&lt;br&gt;update_time&lt;br&gt;pic&lt;br&gt;lyric&lt;br&gt;url" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="360" y="430" width="240" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-6" value="&lt;b&gt;song_list 歌单&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;title&lt;br&gt;pic&lt;br&gt;introduction&lt;br&gt;style" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="680" y="430" width="230" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-7" value="&lt;b&gt;list_song 歌单歌曲关联&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;FK song_id&lt;br&gt;FK song_list_id" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="680" y="640" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-8" value="&lt;b&gt;collect 收藏&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;FK user_id&lt;br&gt;type&lt;br&gt;FK song_id&lt;br&gt;FK song_list_id&lt;br&gt;create_time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="60" y="500" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-9" value="&lt;b&gt;comment 评论&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;FK user_id&lt;br&gt;type&lt;br&gt;FK song_id&lt;br&gt;FK song_list_id&lt;br&gt;content&lt;br&gt;create_time&lt;br&gt;up" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="60" y="720" width="230" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-10" value="&lt;b&gt;rank 歌单评分&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;FK song_list_id&lt;br&gt;FK consumer_id&lt;br&gt;score&lt;br&gt;UNIQUE(song_list_id, consumer_id)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="680" y="800" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-11" value="&lt;b&gt;chat_message 聊天消息&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;FK from_user_id&lt;br&gt;FK to_user_id&lt;br&gt;content&lt;br&gt;is_read&lt;br&gt;create_time&lt;br&gt;update_time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="120" width="250" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-12" value="&lt;b&gt;chat_session 聊天会话&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;FK user_id&lt;br&gt;FK contact_id&lt;br&gt;last_message&lt;br&gt;last_time&lt;br&gt;unread_count&lt;br&gt;create_time&lt;br&gt;update_time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="360" width="250" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-13" value="说明：collect/comment 根据 type 区分歌曲或歌单；collect.song_list_id 为数据库预留字段，当前系统以歌曲收藏为主。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=12;align=left;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="970" y="790" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-14" value="1:N 拥有歌曲" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-4" target="P41PJ5A469W84Kv3gfIV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-15" value="1:N 包含关联记录" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-5" target="P41PJ5A469W84Kv3gfIV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-16" value="1:N 包含关联记录" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-6" target="P41PJ5A469W84Kv3gfIV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-17" value="1:N 创建收藏" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-3" target="P41PJ5A469W84Kv3gfIV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-18" value="1:N 被收藏(type=0)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-5" target="P41PJ5A469W84Kv3gfIV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-19" value="1:N 预留歌单收藏(type=1)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;dashed=1;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-6" target="P41PJ5A469W84Kv3gfIV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-20" value="1:N 发表评论" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-3" target="P41PJ5A469W84Kv3gfIV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-21" value="1:N 歌曲评论(type=0)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-5" target="P41PJ5A469W84Kv3gfIV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-22" value="1:N 歌单评论(type=1)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-6" target="P41PJ5A469W84Kv3gfIV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-23" value="1:N 歌单评分" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-3" target="P41PJ5A469W84Kv3gfIV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-24" value="1:N 被评分" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-6" target="P41PJ5A469W84Kv3gfIV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-25" value="1:N 发送消息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-3" target="P41PJ5A469W84Kv3gfIV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-26" value="1:N 接收消息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;dashed=1;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-3" target="P41PJ5A469W84Kv3gfIV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-27" value="1:N 拥有会话" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-3" target="P41PJ5A469W84Kv3gfIV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-28" value="1:N 联系对象" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;dashed=1;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-3" target="P41PJ5A469W84Kv3gfIV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P41PJ5A469W84Kv3gfIV-29" value="后台维护账号" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=none;dashed=1;strokeColor=#999999;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-2" target="P41PJ5A469W84Kv3gfIV-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
