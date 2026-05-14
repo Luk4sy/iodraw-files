@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="MgoWBlkBBmyBHZ6R4TgG">
-    <mxGraphModel dx="5607" dy="3030" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7607" dy="3030" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -418,91 +418,91 @@
         <mxCell id="8vmc0AtSh3swYsECAPZD-138" value="«extend»" style="endArrow=open;html=1;dashed=1;fontSize=10;fontStyle=2;" parent="1" source="8vmc0AtSh3swYsECAPZD-111" target="8vmc0AtSh3swYsECAPZD-110" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-1" value="图4.4 学生在线音乐平台总体 E-R 图" style="text;html=1;strokeColor=none;fillColor=none;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="420" y="20" width="560" height="40" as="geometry" />
+        <mxCell id="P41PJ5A469W84Kv3gfIV-30" value="图4.4 学生在线音乐平台总体 E-R 图" style="text;html=1;strokeColor=none;fillColor=none;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-1855" y="1211" width="560" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-2" value="&lt;b&gt;admin 管理员&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;name&lt;br&gt;password" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
-          <mxGeometry x="60" y="90" width="210" height="110" as="geometry" />
+        <mxCell id="P41PJ5A469W84Kv3gfIV-31" value="&lt;b&gt;admin 管理员&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;name&lt;br&gt;password" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="-2215" y="1281" width="210" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-3" value="&lt;b&gt;consumer 用户&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;username&lt;br&gt;password&lt;br&gt;sex&lt;br&gt;phone_num&lt;br&gt;email&lt;br&gt;birth&lt;br&gt;introduction&lt;br&gt;location&lt;br&gt;avator&lt;br&gt;create_time&lt;br&gt;update_time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
-          <mxGeometry x="360" y="90" width="240" height="270" as="geometry" />
+        <mxCell id="P41PJ5A469W84Kv3gfIV-32" value="&lt;b&gt;consumer 用户&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;username&lt;br&gt;password&lt;br&gt;sex&lt;br&gt;phone_num&lt;br&gt;email&lt;br&gt;birth&lt;br&gt;introduction&lt;br&gt;location&lt;br&gt;avator&lt;br&gt;create_time&lt;br&gt;update_time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="-1915" y="1281" width="240" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-4" value="&lt;b&gt;singer 歌手&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;name&lt;br&gt;sex&lt;br&gt;pic&lt;br&gt;birth&lt;br&gt;location&lt;br&gt;introduction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
-          <mxGeometry x="60" y="260" width="210" height="180" as="geometry" />
+        <mxCell id="P41PJ5A469W84Kv3gfIV-33" value="&lt;b&gt;singer 歌手&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;name&lt;br&gt;sex&lt;br&gt;pic&lt;br&gt;birth&lt;br&gt;location&lt;br&gt;introduction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="-2215" y="1451" width="210" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-5" value="&lt;b&gt;song 歌曲&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;FK singer_id&lt;br&gt;name&lt;br&gt;introduction&lt;br&gt;create_time&lt;br&gt;update_time&lt;br&gt;pic&lt;br&gt;lyric&lt;br&gt;url" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
-          <mxGeometry x="360" y="430" width="240" height="230" as="geometry" />
+        <mxCell id="P41PJ5A469W84Kv3gfIV-34" value="&lt;b&gt;song 歌曲&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;FK singer_id&lt;br&gt;name&lt;br&gt;introduction&lt;br&gt;create_time&lt;br&gt;update_time&lt;br&gt;pic&lt;br&gt;lyric&lt;br&gt;url" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="-1915" y="1621" width="240" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-6" value="&lt;b&gt;song_list 歌单&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;title&lt;br&gt;pic&lt;br&gt;introduction&lt;br&gt;style" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
-          <mxGeometry x="680" y="430" width="230" height="150" as="geometry" />
+        <mxCell id="P41PJ5A469W84Kv3gfIV-35" value="&lt;b&gt;song_list 歌单&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;title&lt;br&gt;pic&lt;br&gt;introduction&lt;br&gt;style" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="-1595" y="1621" width="230" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-7" value="&lt;b&gt;list_song 歌单歌曲关联&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;FK song_id&lt;br&gt;FK song_list_id" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
-          <mxGeometry x="680" y="640" width="230" height="110" as="geometry" />
+        <mxCell id="P41PJ5A469W84Kv3gfIV-36" value="&lt;b&gt;list_song 歌单歌曲关联&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;FK song_id&lt;br&gt;FK song_list_id" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="-1595" y="1831" width="230" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-8" value="&lt;b&gt;collect 收藏&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;FK user_id&lt;br&gt;type&lt;br&gt;FK song_id&lt;br&gt;FK song_list_id&lt;br&gt;create_time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
-          <mxGeometry x="60" y="500" width="230" height="170" as="geometry" />
+        <mxCell id="P41PJ5A469W84Kv3gfIV-37" value="&lt;b&gt;collect 收藏&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;FK user_id&lt;br&gt;type&lt;br&gt;FK song_id&lt;br&gt;FK song_list_id&lt;br&gt;create_time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="-2215" y="1691" width="230" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-9" value="&lt;b&gt;comment 评论&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;FK user_id&lt;br&gt;type&lt;br&gt;FK song_id&lt;br&gt;FK song_list_id&lt;br&gt;content&lt;br&gt;create_time&lt;br&gt;up" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
-          <mxGeometry x="60" y="720" width="230" height="210" as="geometry" />
+        <mxCell id="P41PJ5A469W84Kv3gfIV-38" value="&lt;b&gt;comment 评论&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;FK user_id&lt;br&gt;type&lt;br&gt;FK song_id&lt;br&gt;FK song_list_id&lt;br&gt;content&lt;br&gt;create_time&lt;br&gt;up" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="-2215" y="1911" width="230" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-10" value="&lt;b&gt;rank 歌单评分&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;FK song_list_id&lt;br&gt;FK consumer_id&lt;br&gt;score&lt;br&gt;UNIQUE(song_list_id, consumer_id)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
-          <mxGeometry x="680" y="800" width="260" height="140" as="geometry" />
+        <mxCell id="P41PJ5A469W84Kv3gfIV-39" value="&lt;b&gt;rank 歌单评分&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;FK song_list_id&lt;br&gt;FK consumer_id&lt;br&gt;score&lt;br&gt;UNIQUE(song_list_id, consumer_id)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="-1595" y="1991" width="260" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-11" value="&lt;b&gt;chat_message 聊天消息&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;FK from_user_id&lt;br&gt;FK to_user_id&lt;br&gt;content&lt;br&gt;is_read&lt;br&gt;create_time&lt;br&gt;update_time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="120" width="250" height="190" as="geometry" />
+        <mxCell id="P41PJ5A469W84Kv3gfIV-40" value="&lt;b&gt;chat_message 聊天消息&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;FK from_user_id&lt;br&gt;FK to_user_id&lt;br&gt;content&lt;br&gt;is_read&lt;br&gt;create_time&lt;br&gt;update_time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="-1265" y="1311" width="250" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-12" value="&lt;b&gt;chat_session 聊天会话&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;FK user_id&lt;br&gt;FK contact_id&lt;br&gt;last_message&lt;br&gt;last_time&lt;br&gt;unread_count&lt;br&gt;create_time&lt;br&gt;update_time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="360" width="250" height="220" as="geometry" />
+        <mxCell id="P41PJ5A469W84Kv3gfIV-41" value="&lt;b&gt;chat_session 聊天会话&lt;/b&gt;&lt;br&gt;PK id&lt;br&gt;FK user_id&lt;br&gt;FK contact_id&lt;br&gt;last_message&lt;br&gt;last_time&lt;br&gt;unread_count&lt;br&gt;create_time&lt;br&gt;update_time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="-1265" y="1551" width="250" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-13" value="说明：collect/comment 根据 type 区分歌曲或歌单；collect.song_list_id 为数据库预留字段，当前系统以歌曲收藏为主。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=12;align=left;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="970" y="790" width="330" height="90" as="geometry" />
+        <mxCell id="P41PJ5A469W84Kv3gfIV-42" value="说明：collect/comment 根据 type 区分歌曲或歌单；collect.song_list_id 为数据库预留字段，当前系统以歌曲收藏为主。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=12;align=left;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="-1305" y="1981" width="330" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-14" value="1:N 拥有歌曲" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-4" target="P41PJ5A469W84Kv3gfIV-5">
+        <mxCell id="P41PJ5A469W84Kv3gfIV-43" value="1:N 拥有歌曲" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-33" target="P41PJ5A469W84Kv3gfIV-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-15" value="1:N 包含关联记录" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-5" target="P41PJ5A469W84Kv3gfIV-7">
+        <mxCell id="P41PJ5A469W84Kv3gfIV-44" value="1:N 包含关联记录" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-34" target="P41PJ5A469W84Kv3gfIV-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-16" value="1:N 包含关联记录" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-6" target="P41PJ5A469W84Kv3gfIV-7">
+        <mxCell id="P41PJ5A469W84Kv3gfIV-45" value="1:N 包含关联记录" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-35" target="P41PJ5A469W84Kv3gfIV-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-17" value="1:N 创建收藏" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-3" target="P41PJ5A469W84Kv3gfIV-8">
+        <mxCell id="P41PJ5A469W84Kv3gfIV-46" value="1:N 创建收藏" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-32" target="P41PJ5A469W84Kv3gfIV-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-18" value="1:N 被收藏(type=0)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-5" target="P41PJ5A469W84Kv3gfIV-8">
+        <mxCell id="P41PJ5A469W84Kv3gfIV-47" value="1:N 被收藏(type=0)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-34" target="P41PJ5A469W84Kv3gfIV-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-19" value="1:N 预留歌单收藏(type=1)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;dashed=1;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-6" target="P41PJ5A469W84Kv3gfIV-8">
+        <mxCell id="P41PJ5A469W84Kv3gfIV-48" value="1:N 预留歌单收藏(type=1)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;dashed=1;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-35" target="P41PJ5A469W84Kv3gfIV-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-20" value="1:N 发表评论" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-3" target="P41PJ5A469W84Kv3gfIV-9">
+        <mxCell id="P41PJ5A469W84Kv3gfIV-49" value="1:N 发表评论" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-32" target="P41PJ5A469W84Kv3gfIV-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-21" value="1:N 歌曲评论(type=0)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-5" target="P41PJ5A469W84Kv3gfIV-9">
+        <mxCell id="P41PJ5A469W84Kv3gfIV-50" value="1:N 歌曲评论(type=0)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-34" target="P41PJ5A469W84Kv3gfIV-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-22" value="1:N 歌单评论(type=1)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-6" target="P41PJ5A469W84Kv3gfIV-9">
+        <mxCell id="P41PJ5A469W84Kv3gfIV-51" value="1:N 歌单评论(type=1)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-35" target="P41PJ5A469W84Kv3gfIV-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-23" value="1:N 歌单评分" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-3" target="P41PJ5A469W84Kv3gfIV-10">
+        <mxCell id="P41PJ5A469W84Kv3gfIV-52" value="1:N 歌单评分" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-32" target="P41PJ5A469W84Kv3gfIV-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-24" value="1:N 被评分" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-6" target="P41PJ5A469W84Kv3gfIV-10">
+        <mxCell id="P41PJ5A469W84Kv3gfIV-53" value="1:N 被评分" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-35" target="P41PJ5A469W84Kv3gfIV-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-25" value="1:N 发送消息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-3" target="P41PJ5A469W84Kv3gfIV-11">
+        <mxCell id="P41PJ5A469W84Kv3gfIV-54" value="1:N 发送消息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-32" target="P41PJ5A469W84Kv3gfIV-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-26" value="1:N 接收消息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;dashed=1;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-3" target="P41PJ5A469W84Kv3gfIV-11">
+        <mxCell id="P41PJ5A469W84Kv3gfIV-55" value="1:N 接收消息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;dashed=1;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-32" target="P41PJ5A469W84Kv3gfIV-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-27" value="1:N 拥有会话" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-3" target="P41PJ5A469W84Kv3gfIV-12">
+        <mxCell id="P41PJ5A469W84Kv3gfIV-56" value="1:N 拥有会话" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-32" target="P41PJ5A469W84Kv3gfIV-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-28" value="1:N 联系对象" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;dashed=1;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-3" target="P41PJ5A469W84Kv3gfIV-12">
+        <mxCell id="P41PJ5A469W84Kv3gfIV-57" value="1:N 联系对象" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;dashed=1;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-32" target="P41PJ5A469W84Kv3gfIV-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P41PJ5A469W84Kv3gfIV-29" value="后台维护账号" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=none;dashed=1;strokeColor=#999999;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-2" target="P41PJ5A469W84Kv3gfIV-3">
+        <mxCell id="P41PJ5A469W84Kv3gfIV-58" value="后台维护账号" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=none;dashed=1;strokeColor=#999999;fontSize=12;" edge="1" parent="1" source="P41PJ5A469W84Kv3gfIV-31" target="P41PJ5A469W84Kv3gfIV-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
